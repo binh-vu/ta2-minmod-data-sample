@@ -1,0 +1,68 @@
+[
+  {
+    "source_id": "https://mrdata.usgs.gov/deposit",
+    "record_id": "NM00034",
+    "name": "Questa District",
+    "location_info": {
+      "country": [
+        {
+          "source": "UMN Exact Match v1",
+          "confidence": 1.0,
+          "normalized_uri": "https://minmod.isi.edu/resource/Q1235"
+        }
+      ],
+      "state_or_province": [
+        {
+          "source": "UMN Exact Match v1",
+          "confidence": 1.0,
+          "normalized_uri": "https://minmod.isi.edu/resource/Q6879"
+        }
+      ],
+      "crs": {
+        "source": "UMN Exact Match v1",
+        "confidence": 1.0,
+        "normalized_uri": "https://minmod.isi.edu/resource/Q701"
+      },
+      "location": "POINT (-105.519821 36.698793)"
+    },
+    "mineral_inventory": [
+      {
+        "reference": {
+          "document": {
+            "uri": "https://mrdata.usgs.gov/deposit"
+          }
+        },
+        "commodity": {
+          "source": "UMN Exact Match v1",
+          "confidence": 0.9,
+          "observed_name": "molybdenum",
+          "normalized_uri": "https://minmod.isi.edu/resource/Q576"
+        }
+      },
+      {
+        "reference": {
+          "document": {
+            "uri": "https://mrdata.usgs.gov/deposit"
+          }
+        },
+        "commodity": {
+          "source": "UMN Exact Match v1",
+          "confidence": 0.9,
+          "observed_name": "beryllium",
+          "normalized_uri": "https://minmod.isi.edu/resource/Q590"
+        }
+      }
+    ],
+    "reference": [
+      {
+        "document": {
+          "uri": "https://mrdata.usgs.gov/deposit"
+        }
+      }
+    ],
+    "created_by": [
+      "https://minmod.isi.edu/users/s/umn"
+    ],
+    "modified_at": "2024-09-20T00:00:00Z"
+  }
+]

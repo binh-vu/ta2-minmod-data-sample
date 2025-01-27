@@ -1,0 +1,60 @@
+[
+  {
+    "source_id": "https://mrdata.usgs.gov/ree",
+    "record_id": "26",
+    "deposit_type_candidate": [
+      {
+        "source": "algorithm predictions, SRI deposit type classification, v2.1, 20241031",
+        "confidence": 0.3600837171077728,
+        "observed_name": "Carbonatite niobium",
+        "normalized_uri": "https://minmod.isi.edu/resource/Q471"
+      },
+      {
+        "source": "algorithm predictions, SRI deposit type classification, v2.1, 20241031",
+        "confidence": 0.23383278250694275,
+        "observed_name": "Carbonatite REE",
+        "normalized_uri": "https://minmod.isi.edu/resource/Q470"
+      }
+    ],
+    "reference": [
+      {
+        "document": {
+          "uri": "https://mrdata.usgs.gov/ree"
+        }
+      }
+    ],
+    "created_by": [
+      "https://minmod.isi.edu/users/s/sri"
+    ],
+    "modified_at": "2024-11-06T19:07:46Z"
+  },
+  {
+    "source_id": "https://mrdata.usgs.gov/ree",
+    "record_id": "3",
+    "deposit_type_candidate": [
+      {
+        "source": "algorithm predictions, SRI deposit type classification, v2.1, 20241031",
+        "confidence": 0.3351600140333176,
+        "observed_name": "Carbonatite niobium",
+        "normalized_uri": "https://minmod.isi.edu/resource/Q471"
+      },
+      {
+        "source": "algorithm predictions, SRI deposit type classification, v2.1, 20241031",
+        "confidence": 0.188041090965271,
+        "observed_name": "Carbonatite REE",
+        "normalized_uri": "https://minmod.isi.edu/resource/Q470"
+      }
+    ],
+    "reference": [
+      {
+        "document": {
+          "uri": "https://mrdata.usgs.gov/ree"
+        }
+      }
+    ],
+    "created_by": [
+      "https://minmod.isi.edu/users/s/sri"
+    ],
+    "modified_at": "2024-11-06T19:07:46Z"
+  }
+]

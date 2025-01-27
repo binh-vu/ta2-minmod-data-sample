@@ -1,0 +1,101 @@
+[
+  {
+    "source_id": "https://mrdata.usgs.gov/deposit",
+    "record_id": "AK00166",
+    "name": "Unnamed (near Salmon Bay)",
+    "location_info": {
+      "country": [
+        {
+          "source": "UMN Exact Match v1",
+          "confidence": 1.0,
+          "normalized_uri": "https://minmod.isi.edu/resource/Q1235"
+        }
+      ],
+      "state_or_province": [
+        {
+          "source": "UMN Exact Match v1",
+          "confidence": 1.0,
+          "normalized_uri": "https://minmod.isi.edu/resource/Q6840"
+        }
+      ],
+      "crs": {
+        "source": "UMN Exact Match v1",
+        "confidence": 1.0,
+        "normalized_uri": "https://minmod.isi.edu/resource/Q701"
+      },
+      "location": "POINT (-133.170743 56.319652)"
+    },
+    "deposit_type_candidate": [
+      {
+        "source": "raw_data_extraction",
+        "confidence": 1,
+        "observed_name": "REE-carbonate veins"
+      }
+    ],
+    "mineral_inventory": [
+      {
+        "reference": {
+          "document": {
+            "uri": "https://mrdata.usgs.gov/deposit"
+          }
+        },
+        "commodity": {
+          "source": "UMN Exact Match v1",
+          "confidence": 0.9,
+          "observed_name": "rare earth elements",
+          "normalized_uri": "https://minmod.isi.edu/resource/Q618"
+        }
+      },
+      {
+        "reference": {
+          "document": {
+            "uri": "https://mrdata.usgs.gov/deposit"
+          }
+        },
+        "commodity": {
+          "source": "UMN Exact Match v1",
+          "confidence": 0.9,
+          "observed_name": "thorium",
+          "normalized_uri": "https://minmod.isi.edu/resource/Q613"
+        }
+      },
+      {
+        "reference": {
+          "document": {
+            "uri": "https://mrdata.usgs.gov/deposit"
+          }
+        },
+        "commodity": {
+          "source": "UMN Exact Match v1",
+          "confidence": 0.9,
+          "observed_name": "uranium",
+          "normalized_uri": "https://minmod.isi.edu/resource/Q588"
+        }
+      },
+      {
+        "reference": {
+          "document": {
+            "uri": "https://mrdata.usgs.gov/deposit"
+          }
+        },
+        "commodity": {
+          "source": "UMN Exact Match v1",
+          "confidence": 0.9,
+          "observed_name": "molybdenum",
+          "normalized_uri": "https://minmod.isi.edu/resource/Q576"
+        }
+      }
+    ],
+    "reference": [
+      {
+        "document": {
+          "uri": "https://mrdata.usgs.gov/deposit"
+        }
+      }
+    ],
+    "created_by": [
+      "https://minmod.isi.edu/users/s/umn"
+    ],
+    "modified_at": "2024-09-20T00:00:00Z"
+  }
+]

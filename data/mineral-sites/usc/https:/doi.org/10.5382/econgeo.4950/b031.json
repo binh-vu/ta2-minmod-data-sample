@@ -1,0 +1,2239 @@
+[
+  {
+    "source_id": "https://doi.org/10.5382/econgeo.4950",
+    "record_id": "Nkomati",
+    "name": "Nkomati",
+    "location_info": {
+      "country": [
+        {
+          "source": "SAND",
+          "confidence": 1.0,
+          "observed_name": "South Africa",
+          "normalized_uri": "https://minmod.isi.edu/resource/Q1204"
+        }
+      ],
+      "crs": {
+        "source": "SAND",
+        "confidence": 0.8,
+        "normalized_uri": "https://minmod.isi.edu/resource/Q701"
+      }
+    },
+    "deposit_type_candidate": [
+      {
+        "source": "SAND",
+        "confidence": 0.0,
+        "observed_name": "Magmatic Sulphide"
+      },
+      {
+        "source": "SAND",
+        "confidence": 0.0,
+        "observed_name": "Layered Intrusive"
+      },
+      {
+        "source": "SAND",
+        "confidence": 0.0,
+        "observed_name": "Stratabound Stratiform Reef-type"
+      }
+    ],
+    "mineral_inventory": [
+      {
+        "reference": {
+          "document": {
+            "doi": "10.5382/econgeo.4950",
+            "uri": "https://doi.org/10.5382/econgeo.4950",
+            "title": "The New Century for Nickel Resources, Reserves, and Mining: Reassessing the Sustainability of the Devil’s Metal"
+          }
+        },
+        "commodity": {
+          "source": "SAND",
+          "confidence": 1.0,
+          "observed_name": "%Cu",
+          "normalized_uri": "https://minmod.isi.edu/resource/Q538"
+        },
+        "category": [
+          {
+            "source": "SAND",
+            "confidence": 1.0,
+            "observed_name": "Measured",
+            "normalized_uri": "https://minmod.isi.edu/resource/Measured"
+          }
+        ],
+        "grade": {
+          "value": 0.13,
+          "unit": {
+            "source": "SAND",
+            "confidence": 1.0,
+            "observed_name": "%Cu",
+            "normalized_uri": "https://minmod.isi.edu/resource/Q201"
+          }
+        },
+        "ore": {
+          "value": 78.11,
+          "unit": {
+            "source": "SAND",
+            "confidence": 1.0,
+            "observed_name": "Mt",
+            "normalized_uri": "https://minmod.isi.edu/resource/Q202"
+          }
+        }
+      },
+      {
+        "reference": {
+          "document": {
+            "doi": "10.5382/econgeo.4950",
+            "uri": "https://doi.org/10.5382/econgeo.4950",
+            "title": "The New Century for Nickel Resources, Reserves, and Mining: Reassessing the Sustainability of the Devil’s Metal"
+          }
+        },
+        "commodity": {
+          "source": "SAND",
+          "confidence": 1.0,
+          "observed_name": "g/t Au",
+          "normalized_uri": "https://minmod.isi.edu/resource/Q551"
+        },
+        "category": [
+          {
+            "source": "SAND",
+            "confidence": 1.0,
+            "observed_name": "Measured",
+            "normalized_uri": "https://minmod.isi.edu/resource/Measured"
+          }
+        ],
+        "grade": {
+          "value": 0.09343641833077321,
+          "unit": {
+            "source": "SAND",
+            "confidence": 1.0,
+            "observed_name": "g/t Au",
+            "normalized_uri": "https://minmod.isi.edu/resource/Q203"
+          }
+        },
+        "ore": {
+          "value": 78.11,
+          "unit": {
+            "source": "SAND",
+            "confidence": 1.0,
+            "observed_name": "Mt",
+            "normalized_uri": "https://minmod.isi.edu/resource/Q202"
+          }
+        }
+      },
+      {
+        "reference": {
+          "document": {
+            "doi": "10.5382/econgeo.4950",
+            "uri": "https://doi.org/10.5382/econgeo.4950",
+            "title": "The New Century for Nickel Resources, Reserves, and Mining: Reassessing the Sustainability of the Devil’s Metal"
+          }
+        },
+        "commodity": {
+          "source": "SAND",
+          "confidence": 1.0,
+          "observed_name": "%Ni",
+          "normalized_uri": "https://minmod.isi.edu/resource/Q578"
+        },
+        "category": [
+          {
+            "source": "SAND",
+            "confidence": 1.0,
+            "observed_name": "Measured",
+            "normalized_uri": "https://minmod.isi.edu/resource/Measured"
+          }
+        ],
+        "grade": {
+          "value": 0.33,
+          "unit": {
+            "source": "SAND",
+            "confidence": 1.0,
+            "observed_name": "%Ni",
+            "normalized_uri": "https://minmod.isi.edu/resource/Q201"
+          }
+        },
+        "ore": {
+          "value": 78.11,
+          "unit": {
+            "source": "SAND",
+            "confidence": 1.0,
+            "observed_name": "Mt",
+            "normalized_uri": "https://minmod.isi.edu/resource/Q202"
+          }
+        }
+      },
+      {
+        "reference": {
+          "document": {
+            "doi": "10.5382/econgeo.4950",
+            "uri": "https://doi.org/10.5382/econgeo.4950",
+            "title": "The New Century for Nickel Resources, Reserves, and Mining: Reassessing the Sustainability of the Devil’s Metal"
+          }
+        },
+        "commodity": {
+          "source": "SAND",
+          "confidence": 1.0,
+          "observed_name": "%Co",
+          "normalized_uri": "https://minmod.isi.edu/resource/Q537"
+        },
+        "category": [
+          {
+            "source": "SAND",
+            "confidence": 1.0,
+            "observed_name": "Measured",
+            "normalized_uri": "https://minmod.isi.edu/resource/Measured"
+          }
+        ],
+        "grade": {
+          "value": 0.02,
+          "unit": {
+            "source": "SAND",
+            "confidence": 1.0,
+            "observed_name": "%Co",
+            "normalized_uri": "https://minmod.isi.edu/resource/Q201"
+          }
+        },
+        "ore": {
+          "value": 78.11,
+          "unit": {
+            "source": "SAND",
+            "confidence": 1.0,
+            "observed_name": "Mt",
+            "normalized_uri": "https://minmod.isi.edu/resource/Q202"
+          }
+        }
+      },
+      {
+        "reference": {
+          "document": {
+            "doi": "10.5382/econgeo.4950",
+            "uri": "https://doi.org/10.5382/econgeo.4950",
+            "title": "The New Century for Nickel Resources, Reserves, and Mining: Reassessing the Sustainability of the Devil’s Metal"
+          }
+        },
+        "commodity": {
+          "source": "SAND",
+          "confidence": 1.0,
+          "observed_name": "g/t Pt",
+          "normalized_uri": "https://minmod.isi.edu/resource/Q601"
+        },
+        "category": [
+          {
+            "source": "SAND",
+            "confidence": 1.0,
+            "observed_name": "Measured",
+            "normalized_uri": "https://minmod.isi.edu/resource/Measured"
+          }
+        ],
+        "grade": {
+          "value": 0.2076120071684588,
+          "unit": {
+            "source": "SAND",
+            "confidence": 1.0,
+            "observed_name": "g/t Pt",
+            "normalized_uri": "https://minmod.isi.edu/resource/Q203"
+          }
+        },
+        "ore": {
+          "value": 78.11,
+          "unit": {
+            "source": "SAND",
+            "confidence": 1.0,
+            "observed_name": "Mt",
+            "normalized_uri": "https://minmod.isi.edu/resource/Q202"
+          }
+        }
+      },
+      {
+        "reference": {
+          "document": {
+            "doi": "10.5382/econgeo.4950",
+            "uri": "https://doi.org/10.5382/econgeo.4950",
+            "title": "The New Century for Nickel Resources, Reserves, and Mining: Reassessing the Sustainability of the Devil’s Metal"
+          }
+        },
+        "commodity": {
+          "source": "SAND",
+          "confidence": 1.0,
+          "observed_name": "g/t Pd",
+          "normalized_uri": "https://minmod.isi.edu/resource/Q600"
+        },
+        "category": [
+          {
+            "source": "SAND",
+            "confidence": 1.0,
+            "observed_name": "Measured",
+            "normalized_uri": "https://minmod.isi.edu/resource/Measured"
+          }
+        ],
+        "grade": {
+          "value": 0.5255151561699949,
+          "unit": {
+            "source": "SAND",
+            "confidence": 1.0,
+            "observed_name": "g/t Pd",
+            "normalized_uri": "https://minmod.isi.edu/resource/Q203"
+          }
+        },
+        "ore": {
+          "value": 78.11,
+          "unit": {
+            "source": "SAND",
+            "confidence": 1.0,
+            "observed_name": "Mt",
+            "normalized_uri": "https://minmod.isi.edu/resource/Q202"
+          }
+        }
+      },
+      {
+        "reference": {
+          "document": {
+            "doi": "10.5382/econgeo.4950",
+            "uri": "https://doi.org/10.5382/econgeo.4950",
+            "title": "The New Century for Nickel Resources, Reserves, and Mining: Reassessing the Sustainability of the Devil’s Metal"
+          }
+        },
+        "commodity": {
+          "source": "SAND",
+          "confidence": 1.0,
+          "observed_name": "g/t Rh",
+          "normalized_uri": "https://minmod.isi.edu/resource/Q604"
+        },
+        "category": [
+          {
+            "source": "SAND",
+            "confidence": 1.0,
+            "observed_name": "Measured",
+            "normalized_uri": "https://minmod.isi.edu/resource/Measured"
+          }
+        ],
+        "grade": {
+          "value": 0.09343641833077321,
+          "unit": {
+            "source": "SAND",
+            "confidence": 1.0,
+            "observed_name": "g/t Rh",
+            "normalized_uri": "https://minmod.isi.edu/resource/Q203"
+          }
+        },
+        "ore": {
+          "value": 78.11,
+          "unit": {
+            "source": "SAND",
+            "confidence": 1.0,
+            "observed_name": "Mt",
+            "normalized_uri": "https://minmod.isi.edu/resource/Q202"
+          }
+        }
+      },
+      {
+        "reference": {
+          "document": {
+            "doi": "10.5382/econgeo.4950",
+            "uri": "https://doi.org/10.5382/econgeo.4950",
+            "title": "The New Century for Nickel Resources, Reserves, and Mining: Reassessing the Sustainability of the Devil’s Metal"
+          }
+        },
+        "commodity": {
+          "source": "SAND",
+          "confidence": 1.0,
+          "observed_name": "%Cr",
+          "normalized_uri": "https://minmod.isi.edu/resource/Q519"
+        },
+        "category": [
+          {
+            "source": "SAND",
+            "confidence": 1.0,
+            "observed_name": "Measured",
+            "normalized_uri": "https://minmod.isi.edu/resource/Measured"
+          }
+        ],
+        "grade": {
+          "value": 3.0953061031440865,
+          "unit": {
+            "source": "SAND",
+            "confidence": 1.0,
+            "observed_name": "%Cr",
+            "normalized_uri": "https://minmod.isi.edu/resource/Q201"
+          }
+        },
+        "ore": {
+          "value": 78.11,
+          "unit": {
+            "source": "SAND",
+            "confidence": 1.0,
+            "observed_name": "Mt",
+            "normalized_uri": "https://minmod.isi.edu/resource/Q202"
+          }
+        }
+      },
+      {
+        "reference": {
+          "document": {
+            "doi": "10.5382/econgeo.4950",
+            "uri": "https://doi.org/10.5382/econgeo.4950",
+            "title": "The New Century for Nickel Resources, Reserves, and Mining: Reassessing the Sustainability of the Devil’s Metal"
+          }
+        },
+        "commodity": {
+          "source": "SAND",
+          "confidence": 1.0,
+          "observed_name": "%Cu",
+          "normalized_uri": "https://minmod.isi.edu/resource/Q538"
+        },
+        "category": [
+          {
+            "source": "SAND",
+            "confidence": 1.0,
+            "observed_name": "Indicated",
+            "normalized_uri": "https://minmod.isi.edu/resource/Indicated"
+          }
+        ],
+        "grade": {
+          "value": 0.15,
+          "unit": {
+            "source": "SAND",
+            "confidence": 1.0,
+            "observed_name": "%Cu",
+            "normalized_uri": "https://minmod.isi.edu/resource/Q201"
+          }
+        },
+        "ore": {
+          "value": 94.09,
+          "unit": {
+            "source": "SAND",
+            "confidence": 1.0,
+            "observed_name": "Mt",
+            "normalized_uri": "https://minmod.isi.edu/resource/Q202"
+          }
+        }
+      },
+      {
+        "reference": {
+          "document": {
+            "doi": "10.5382/econgeo.4950",
+            "uri": "https://doi.org/10.5382/econgeo.4950",
+            "title": "The New Century for Nickel Resources, Reserves, and Mining: Reassessing the Sustainability of the Devil’s Metal"
+          }
+        },
+        "commodity": {
+          "source": "SAND",
+          "confidence": 1.0,
+          "observed_name": "g/t Au",
+          "normalized_uri": "https://minmod.isi.edu/resource/Q551"
+        },
+        "category": [
+          {
+            "source": "SAND",
+            "confidence": 1.0,
+            "observed_name": "Indicated",
+            "normalized_uri": "https://minmod.isi.edu/resource/Indicated"
+          }
+        ],
+        "grade": {
+          "value": 0.12343641833077312,
+          "unit": {
+            "source": "SAND",
+            "confidence": 1.0,
+            "observed_name": "g/t Au",
+            "normalized_uri": "https://minmod.isi.edu/resource/Q203"
+          }
+        },
+        "ore": {
+          "value": 94.09,
+          "unit": {
+            "source": "SAND",
+            "confidence": 1.0,
+            "observed_name": "Mt",
+            "normalized_uri": "https://minmod.isi.edu/resource/Q202"
+          }
+        }
+      },
+      {
+        "reference": {
+          "document": {
+            "doi": "10.5382/econgeo.4950",
+            "uri": "https://doi.org/10.5382/econgeo.4950",
+            "title": "The New Century for Nickel Resources, Reserves, and Mining: Reassessing the Sustainability of the Devil’s Metal"
+          }
+        },
+        "commodity": {
+          "source": "SAND",
+          "confidence": 1.0,
+          "observed_name": "%Ni",
+          "normalized_uri": "https://minmod.isi.edu/resource/Q578"
+        },
+        "category": [
+          {
+            "source": "SAND",
+            "confidence": 1.0,
+            "observed_name": "Indicated",
+            "normalized_uri": "https://minmod.isi.edu/resource/Indicated"
+          }
+        ],
+        "grade": {
+          "value": 0.37,
+          "unit": {
+            "source": "SAND",
+            "confidence": 1.0,
+            "observed_name": "%Ni",
+            "normalized_uri": "https://minmod.isi.edu/resource/Q201"
+          }
+        },
+        "ore": {
+          "value": 94.09,
+          "unit": {
+            "source": "SAND",
+            "confidence": 1.0,
+            "observed_name": "Mt",
+            "normalized_uri": "https://minmod.isi.edu/resource/Q202"
+          }
+        }
+      },
+      {
+        "reference": {
+          "document": {
+            "doi": "10.5382/econgeo.4950",
+            "uri": "https://doi.org/10.5382/econgeo.4950",
+            "title": "The New Century for Nickel Resources, Reserves, and Mining: Reassessing the Sustainability of the Devil’s Metal"
+          }
+        },
+        "commodity": {
+          "source": "SAND",
+          "confidence": 1.0,
+          "observed_name": "%Co",
+          "normalized_uri": "https://minmod.isi.edu/resource/Q537"
+        },
+        "category": [
+          {
+            "source": "SAND",
+            "confidence": 1.0,
+            "observed_name": "Indicated",
+            "normalized_uri": "https://minmod.isi.edu/resource/Indicated"
+          }
+        ],
+        "grade": {
+          "value": 0.02,
+          "unit": {
+            "source": "SAND",
+            "confidence": 1.0,
+            "observed_name": "%Co",
+            "normalized_uri": "https://minmod.isi.edu/resource/Q201"
+          }
+        },
+        "ore": {
+          "value": 94.09,
+          "unit": {
+            "source": "SAND",
+            "confidence": 1.0,
+            "observed_name": "Mt",
+            "normalized_uri": "https://minmod.isi.edu/resource/Q202"
+          }
+        }
+      },
+      {
+        "reference": {
+          "document": {
+            "doi": "10.5382/econgeo.4950",
+            "uri": "https://doi.org/10.5382/econgeo.4950",
+            "title": "The New Century for Nickel Resources, Reserves, and Mining: Reassessing the Sustainability of the Devil’s Metal"
+          }
+        },
+        "commodity": {
+          "source": "SAND",
+          "confidence": 1.0,
+          "observed_name": "g/t Pt",
+          "normalized_uri": "https://minmod.isi.edu/resource/Q601"
+        },
+        "category": [
+          {
+            "source": "SAND",
+            "confidence": 1.0,
+            "observed_name": "Indicated",
+            "normalized_uri": "https://minmod.isi.edu/resource/Indicated"
+          }
+        ],
+        "grade": {
+          "value": 0.2076120071684588,
+          "unit": {
+            "source": "SAND",
+            "confidence": 1.0,
+            "observed_name": "g/t Pt",
+            "normalized_uri": "https://minmod.isi.edu/resource/Q203"
+          }
+        },
+        "ore": {
+          "value": 94.09,
+          "unit": {
+            "source": "SAND",
+            "confidence": 1.0,
+            "observed_name": "Mt",
+            "normalized_uri": "https://minmod.isi.edu/resource/Q202"
+          }
+        }
+      },
+      {
+        "reference": {
+          "document": {
+            "doi": "10.5382/econgeo.4950",
+            "uri": "https://doi.org/10.5382/econgeo.4950",
+            "title": "The New Century for Nickel Resources, Reserves, and Mining: Reassessing the Sustainability of the Devil’s Metal"
+          }
+        },
+        "commodity": {
+          "source": "SAND",
+          "confidence": 1.0,
+          "observed_name": "g/t Pd",
+          "normalized_uri": "https://minmod.isi.edu/resource/Q600"
+        },
+        "category": [
+          {
+            "source": "SAND",
+            "confidence": 1.0,
+            "observed_name": "Indicated",
+            "normalized_uri": "https://minmod.isi.edu/resource/Indicated"
+          }
+        ],
+        "grade": {
+          "value": 0.5255151561699949,
+          "unit": {
+            "source": "SAND",
+            "confidence": 1.0,
+            "observed_name": "g/t Pd",
+            "normalized_uri": "https://minmod.isi.edu/resource/Q203"
+          }
+        },
+        "ore": {
+          "value": 94.09,
+          "unit": {
+            "source": "SAND",
+            "confidence": 1.0,
+            "observed_name": "Mt",
+            "normalized_uri": "https://minmod.isi.edu/resource/Q202"
+          }
+        }
+      },
+      {
+        "reference": {
+          "document": {
+            "doi": "10.5382/econgeo.4950",
+            "uri": "https://doi.org/10.5382/econgeo.4950",
+            "title": "The New Century for Nickel Resources, Reserves, and Mining: Reassessing the Sustainability of the Devil’s Metal"
+          }
+        },
+        "commodity": {
+          "source": "SAND",
+          "confidence": 1.0,
+          "observed_name": "g/t Rh",
+          "normalized_uri": "https://minmod.isi.edu/resource/Q604"
+        },
+        "category": [
+          {
+            "source": "SAND",
+            "confidence": 1.0,
+            "observed_name": "Indicated",
+            "normalized_uri": "https://minmod.isi.edu/resource/Indicated"
+          }
+        ],
+        "grade": {
+          "value": 0.12343641833077312,
+          "unit": {
+            "source": "SAND",
+            "confidence": 1.0,
+            "observed_name": "g/t Rh",
+            "normalized_uri": "https://minmod.isi.edu/resource/Q203"
+          }
+        },
+        "ore": {
+          "value": 94.09,
+          "unit": {
+            "source": "SAND",
+            "confidence": 1.0,
+            "observed_name": "Mt",
+            "normalized_uri": "https://minmod.isi.edu/resource/Q202"
+          }
+        }
+      },
+      {
+        "reference": {
+          "document": {
+            "doi": "10.5382/econgeo.4950",
+            "uri": "https://doi.org/10.5382/econgeo.4950",
+            "title": "The New Century for Nickel Resources, Reserves, and Mining: Reassessing the Sustainability of the Devil’s Metal"
+          }
+        },
+        "commodity": {
+          "source": "SAND",
+          "confidence": 1.0,
+          "observed_name": "%Cr",
+          "normalized_uri": "https://minmod.isi.edu/resource/Q519"
+        },
+        "category": [
+          {
+            "source": "SAND",
+            "confidence": 1.0,
+            "observed_name": "Indicated",
+            "normalized_uri": "https://minmod.isi.edu/resource/Indicated"
+          }
+        ],
+        "grade": {
+          "value": 3.0953061031440865,
+          "unit": {
+            "source": "SAND",
+            "confidence": 1.0,
+            "observed_name": "%Cr",
+            "normalized_uri": "https://minmod.isi.edu/resource/Q201"
+          }
+        },
+        "ore": {
+          "value": 94.09,
+          "unit": {
+            "source": "SAND",
+            "confidence": 1.0,
+            "observed_name": "Mt",
+            "normalized_uri": "https://minmod.isi.edu/resource/Q202"
+          }
+        }
+      },
+      {
+        "reference": {
+          "document": {
+            "doi": "10.5382/econgeo.4950",
+            "uri": "https://doi.org/10.5382/econgeo.4950",
+            "title": "The New Century for Nickel Resources, Reserves, and Mining: Reassessing the Sustainability of the Devil’s Metal"
+          }
+        },
+        "commodity": {
+          "source": "SAND",
+          "confidence": 1.0,
+          "observed_name": "%Cu",
+          "normalized_uri": "https://minmod.isi.edu/resource/Q538"
+        },
+        "category": [
+          {
+            "source": "SAND",
+            "confidence": 1.0,
+            "observed_name": "Inferred",
+            "normalized_uri": "https://minmod.isi.edu/resource/Inferred"
+          }
+        ],
+        "grade": {
+          "value": 0.13087378640776698,
+          "unit": {
+            "source": "SAND",
+            "confidence": 1.0,
+            "observed_name": "%Cu",
+            "normalized_uri": "https://minmod.isi.edu/resource/Q201"
+          }
+        },
+        "ore": {
+          "value": 46.349999999999994,
+          "unit": {
+            "source": "SAND",
+            "confidence": 1.0,
+            "observed_name": "Mt",
+            "normalized_uri": "https://minmod.isi.edu/resource/Q202"
+          }
+        }
+      },
+      {
+        "reference": {
+          "document": {
+            "doi": "10.5382/econgeo.4950",
+            "uri": "https://doi.org/10.5382/econgeo.4950",
+            "title": "The New Century for Nickel Resources, Reserves, and Mining: Reassessing the Sustainability of the Devil’s Metal"
+          }
+        },
+        "commodity": {
+          "source": "SAND",
+          "confidence": 1.0,
+          "observed_name": "g/t Au",
+          "normalized_uri": "https://minmod.isi.edu/resource/Q551"
+        },
+        "category": [
+          {
+            "source": "SAND",
+            "confidence": 1.0,
+            "observed_name": "Inferred",
+            "normalized_uri": "https://minmod.isi.edu/resource/Inferred"
+          }
+        ],
+        "grade": {
+          "value": 0.11843641833077312,
+          "unit": {
+            "source": "SAND",
+            "confidence": 1.0,
+            "observed_name": "g/t Au",
+            "normalized_uri": "https://minmod.isi.edu/resource/Q203"
+          }
+        },
+        "ore": {
+          "value": 46.349999999999994,
+          "unit": {
+            "source": "SAND",
+            "confidence": 1.0,
+            "observed_name": "Mt",
+            "normalized_uri": "https://minmod.isi.edu/resource/Q202"
+          }
+        }
+      },
+      {
+        "reference": {
+          "document": {
+            "doi": "10.5382/econgeo.4950",
+            "uri": "https://doi.org/10.5382/econgeo.4950",
+            "title": "The New Century for Nickel Resources, Reserves, and Mining: Reassessing the Sustainability of the Devil’s Metal"
+          }
+        },
+        "commodity": {
+          "source": "SAND",
+          "confidence": 1.0,
+          "observed_name": "%Ni",
+          "normalized_uri": "https://minmod.isi.edu/resource/Q578"
+        },
+        "category": [
+          {
+            "source": "SAND",
+            "confidence": 1.0,
+            "observed_name": "Inferred",
+            "normalized_uri": "https://minmod.isi.edu/resource/Inferred"
+          }
+        ],
+        "grade": {
+          "value": 0.4013592233009709,
+          "unit": {
+            "source": "SAND",
+            "confidence": 1.0,
+            "observed_name": "%Ni",
+            "normalized_uri": "https://minmod.isi.edu/resource/Q201"
+          }
+        },
+        "ore": {
+          "value": 46.349999999999994,
+          "unit": {
+            "source": "SAND",
+            "confidence": 1.0,
+            "observed_name": "Mt",
+            "normalized_uri": "https://minmod.isi.edu/resource/Q202"
+          }
+        }
+      },
+      {
+        "reference": {
+          "document": {
+            "doi": "10.5382/econgeo.4950",
+            "uri": "https://doi.org/10.5382/econgeo.4950",
+            "title": "The New Century for Nickel Resources, Reserves, and Mining: Reassessing the Sustainability of the Devil’s Metal"
+          }
+        },
+        "commodity": {
+          "source": "SAND",
+          "confidence": 1.0,
+          "observed_name": "%Co",
+          "normalized_uri": "https://minmod.isi.edu/resource/Q537"
+        },
+        "category": [
+          {
+            "source": "SAND",
+            "confidence": 1.0,
+            "observed_name": "Inferred",
+            "normalized_uri": "https://minmod.isi.edu/resource/Inferred"
+          }
+        ],
+        "grade": {
+          "value": 0.02,
+          "unit": {
+            "source": "SAND",
+            "confidence": 1.0,
+            "observed_name": "%Co",
+            "normalized_uri": "https://minmod.isi.edu/resource/Q201"
+          }
+        },
+        "ore": {
+          "value": 46.349999999999994,
+          "unit": {
+            "source": "SAND",
+            "confidence": 1.0,
+            "observed_name": "Mt",
+            "normalized_uri": "https://minmod.isi.edu/resource/Q202"
+          }
+        }
+      },
+      {
+        "reference": {
+          "document": {
+            "doi": "10.5382/econgeo.4950",
+            "uri": "https://doi.org/10.5382/econgeo.4950",
+            "title": "The New Century for Nickel Resources, Reserves, and Mining: Reassessing the Sustainability of the Devil’s Metal"
+          }
+        },
+        "commodity": {
+          "source": "SAND",
+          "confidence": 1.0,
+          "observed_name": "g/t Pt",
+          "normalized_uri": "https://minmod.isi.edu/resource/Q601"
+        },
+        "category": [
+          {
+            "source": "SAND",
+            "confidence": 1.0,
+            "observed_name": "Inferred",
+            "normalized_uri": "https://minmod.isi.edu/resource/Inferred"
+          }
+        ],
+        "grade": {
+          "value": 0.2076120071684588,
+          "unit": {
+            "source": "SAND",
+            "confidence": 1.0,
+            "observed_name": "g/t Pt",
+            "normalized_uri": "https://minmod.isi.edu/resource/Q203"
+          }
+        },
+        "ore": {
+          "value": 46.349999999999994,
+          "unit": {
+            "source": "SAND",
+            "confidence": 1.0,
+            "observed_name": "Mt",
+            "normalized_uri": "https://minmod.isi.edu/resource/Q202"
+          }
+        }
+      },
+      {
+        "reference": {
+          "document": {
+            "doi": "10.5382/econgeo.4950",
+            "uri": "https://doi.org/10.5382/econgeo.4950",
+            "title": "The New Century for Nickel Resources, Reserves, and Mining: Reassessing the Sustainability of the Devil’s Metal"
+          }
+        },
+        "commodity": {
+          "source": "SAND",
+          "confidence": 1.0,
+          "observed_name": "g/t Pd",
+          "normalized_uri": "https://minmod.isi.edu/resource/Q600"
+        },
+        "category": [
+          {
+            "source": "SAND",
+            "confidence": 1.0,
+            "observed_name": "Inferred",
+            "normalized_uri": "https://minmod.isi.edu/resource/Inferred"
+          }
+        ],
+        "grade": {
+          "value": 0.5255151561699949,
+          "unit": {
+            "source": "SAND",
+            "confidence": 1.0,
+            "observed_name": "g/t Pd",
+            "normalized_uri": "https://minmod.isi.edu/resource/Q203"
+          }
+        },
+        "ore": {
+          "value": 46.349999999999994,
+          "unit": {
+            "source": "SAND",
+            "confidence": 1.0,
+            "observed_name": "Mt",
+            "normalized_uri": "https://minmod.isi.edu/resource/Q202"
+          }
+        }
+      },
+      {
+        "reference": {
+          "document": {
+            "doi": "10.5382/econgeo.4950",
+            "uri": "https://doi.org/10.5382/econgeo.4950",
+            "title": "The New Century for Nickel Resources, Reserves, and Mining: Reassessing the Sustainability of the Devil’s Metal"
+          }
+        },
+        "commodity": {
+          "source": "SAND",
+          "confidence": 1.0,
+          "observed_name": "g/t Rh",
+          "normalized_uri": "https://minmod.isi.edu/resource/Q604"
+        },
+        "category": [
+          {
+            "source": "SAND",
+            "confidence": 1.0,
+            "observed_name": "Inferred",
+            "normalized_uri": "https://minmod.isi.edu/resource/Inferred"
+          }
+        ],
+        "grade": {
+          "value": 0.11843641833077312,
+          "unit": {
+            "source": "SAND",
+            "confidence": 1.0,
+            "observed_name": "g/t Rh",
+            "normalized_uri": "https://minmod.isi.edu/resource/Q203"
+          }
+        },
+        "ore": {
+          "value": 46.349999999999994,
+          "unit": {
+            "source": "SAND",
+            "confidence": 1.0,
+            "observed_name": "Mt",
+            "normalized_uri": "https://minmod.isi.edu/resource/Q202"
+          }
+        }
+      },
+      {
+        "reference": {
+          "document": {
+            "doi": "10.5382/econgeo.4950",
+            "uri": "https://doi.org/10.5382/econgeo.4950",
+            "title": "The New Century for Nickel Resources, Reserves, and Mining: Reassessing the Sustainability of the Devil’s Metal"
+          }
+        },
+        "commodity": {
+          "source": "SAND",
+          "confidence": 1.0,
+          "observed_name": "%Cr",
+          "normalized_uri": "https://minmod.isi.edu/resource/Q519"
+        },
+        "category": [
+          {
+            "source": "SAND",
+            "confidence": 1.0,
+            "observed_name": "Inferred",
+            "normalized_uri": "https://minmod.isi.edu/resource/Inferred"
+          }
+        ],
+        "grade": {
+          "value": 6.21941736075853,
+          "unit": {
+            "source": "SAND",
+            "confidence": 1.0,
+            "observed_name": "%Cr",
+            "normalized_uri": "https://minmod.isi.edu/resource/Q201"
+          }
+        },
+        "ore": {
+          "value": 46.349999999999994,
+          "unit": {
+            "source": "SAND",
+            "confidence": 1.0,
+            "observed_name": "Mt",
+            "normalized_uri": "https://minmod.isi.edu/resource/Q202"
+          }
+        }
+      },
+      {
+        "reference": {
+          "document": {
+            "doi": "10.5382/econgeo.4950",
+            "uri": "https://doi.org/10.5382/econgeo.4950",
+            "title": "The New Century for Nickel Resources, Reserves, and Mining: Reassessing the Sustainability of the Devil’s Metal"
+          }
+        },
+        "commodity": {
+          "source": "SAND",
+          "confidence": 1.0,
+          "observed_name": "%Cu",
+          "normalized_uri": "https://minmod.isi.edu/resource/Q538"
+        },
+        "category": [
+          {
+            "source": "SAND",
+            "confidence": 1.0,
+            "observed_name": "Proven",
+            "normalized_uri": "https://minmod.isi.edu/resource/Proven"
+          }
+        ],
+        "grade": {
+          "value": 0.10934456582114423,
+          "unit": {
+            "source": "SAND",
+            "confidence": 1.0,
+            "observed_name": "%Cu",
+            "normalized_uri": "https://minmod.isi.edu/resource/Q201"
+          }
+        },
+        "ore": {
+          "value": 54.01,
+          "unit": {
+            "source": "SAND",
+            "confidence": 1.0,
+            "observed_name": "Mt",
+            "normalized_uri": "https://minmod.isi.edu/resource/Q202"
+          }
+        }
+      },
+      {
+        "reference": {
+          "document": {
+            "doi": "10.5382/econgeo.4950",
+            "uri": "https://doi.org/10.5382/econgeo.4950",
+            "title": "The New Century for Nickel Resources, Reserves, and Mining: Reassessing the Sustainability of the Devil’s Metal"
+          }
+        },
+        "commodity": {
+          "source": "SAND",
+          "confidence": 1.0,
+          "observed_name": "g/t Au",
+          "normalized_uri": "https://minmod.isi.edu/resource/Q551"
+        },
+        "category": [
+          {
+            "source": "SAND",
+            "confidence": 1.0,
+            "observed_name": "Proven",
+            "normalized_uri": "https://minmod.isi.edu/resource/Proven"
+          }
+        ],
+        "grade": {
+          "value": 0.07343641833077319,
+          "unit": {
+            "source": "SAND",
+            "confidence": 1.0,
+            "observed_name": "g/t Au",
+            "normalized_uri": "https://minmod.isi.edu/resource/Q203"
+          }
+        },
+        "ore": {
+          "value": 54.01,
+          "unit": {
+            "source": "SAND",
+            "confidence": 1.0,
+            "observed_name": "Mt",
+            "normalized_uri": "https://minmod.isi.edu/resource/Q202"
+          }
+        }
+      },
+      {
+        "reference": {
+          "document": {
+            "doi": "10.5382/econgeo.4950",
+            "uri": "https://doi.org/10.5382/econgeo.4950",
+            "title": "The New Century for Nickel Resources, Reserves, and Mining: Reassessing the Sustainability of the Devil’s Metal"
+          }
+        },
+        "commodity": {
+          "source": "SAND",
+          "confidence": 1.0,
+          "observed_name": "%Ni",
+          "normalized_uri": "https://minmod.isi.edu/resource/Q578"
+        },
+        "category": [
+          {
+            "source": "SAND",
+            "confidence": 1.0,
+            "observed_name": "Proven",
+            "normalized_uri": "https://minmod.isi.edu/resource/Proven"
+          }
+        ],
+        "grade": {
+          "value": 0.298622477319015,
+          "unit": {
+            "source": "SAND",
+            "confidence": 1.0,
+            "observed_name": "%Ni",
+            "normalized_uri": "https://minmod.isi.edu/resource/Q201"
+          }
+        },
+        "ore": {
+          "value": 54.01,
+          "unit": {
+            "source": "SAND",
+            "confidence": 1.0,
+            "observed_name": "Mt",
+            "normalized_uri": "https://minmod.isi.edu/resource/Q202"
+          }
+        }
+      },
+      {
+        "reference": {
+          "document": {
+            "doi": "10.5382/econgeo.4950",
+            "uri": "https://doi.org/10.5382/econgeo.4950",
+            "title": "The New Century for Nickel Resources, Reserves, and Mining: Reassessing the Sustainability of the Devil’s Metal"
+          }
+        },
+        "commodity": {
+          "source": "SAND",
+          "confidence": 1.0,
+          "observed_name": "%Co",
+          "normalized_uri": "https://minmod.isi.edu/resource/Q537"
+        },
+        "category": [
+          {
+            "source": "SAND",
+            "confidence": 1.0,
+            "observed_name": "Proven",
+            "normalized_uri": "https://minmod.isi.edu/resource/Proven"
+          }
+        ],
+        "grade": {
+          "value": 0.019879651916311795,
+          "unit": {
+            "source": "SAND",
+            "confidence": 1.0,
+            "observed_name": "%Co",
+            "normalized_uri": "https://minmod.isi.edu/resource/Q201"
+          }
+        },
+        "ore": {
+          "value": 54.01,
+          "unit": {
+            "source": "SAND",
+            "confidence": 1.0,
+            "observed_name": "Mt",
+            "normalized_uri": "https://minmod.isi.edu/resource/Q202"
+          }
+        }
+      },
+      {
+        "reference": {
+          "document": {
+            "doi": "10.5382/econgeo.4950",
+            "uri": "https://doi.org/10.5382/econgeo.4950",
+            "title": "The New Century for Nickel Resources, Reserves, and Mining: Reassessing the Sustainability of the Devil’s Metal"
+          }
+        },
+        "commodity": {
+          "source": "SAND",
+          "confidence": 1.0,
+          "observed_name": "g/t Pt",
+          "normalized_uri": "https://minmod.isi.edu/resource/Q601"
+        },
+        "category": [
+          {
+            "source": "SAND",
+            "confidence": 1.0,
+            "observed_name": "Proven",
+            "normalized_uri": "https://minmod.isi.edu/resource/Proven"
+          }
+        ],
+        "grade": {
+          "value": 0.2076120071684588,
+          "unit": {
+            "source": "SAND",
+            "confidence": 1.0,
+            "observed_name": "g/t Pt",
+            "normalized_uri": "https://minmod.isi.edu/resource/Q203"
+          }
+        },
+        "ore": {
+          "value": 54.01,
+          "unit": {
+            "source": "SAND",
+            "confidence": 1.0,
+            "observed_name": "Mt",
+            "normalized_uri": "https://minmod.isi.edu/resource/Q202"
+          }
+        }
+      },
+      {
+        "reference": {
+          "document": {
+            "doi": "10.5382/econgeo.4950",
+            "uri": "https://doi.org/10.5382/econgeo.4950",
+            "title": "The New Century for Nickel Resources, Reserves, and Mining: Reassessing the Sustainability of the Devil’s Metal"
+          }
+        },
+        "commodity": {
+          "source": "SAND",
+          "confidence": 1.0,
+          "observed_name": "g/t Pd",
+          "normalized_uri": "https://minmod.isi.edu/resource/Q600"
+        },
+        "category": [
+          {
+            "source": "SAND",
+            "confidence": 1.0,
+            "observed_name": "Proven",
+            "normalized_uri": "https://minmod.isi.edu/resource/Proven"
+          }
+        ],
+        "grade": {
+          "value": 0.5255151561699949,
+          "unit": {
+            "source": "SAND",
+            "confidence": 1.0,
+            "observed_name": "g/t Pd",
+            "normalized_uri": "https://minmod.isi.edu/resource/Q203"
+          }
+        },
+        "ore": {
+          "value": 54.01,
+          "unit": {
+            "source": "SAND",
+            "confidence": 1.0,
+            "observed_name": "Mt",
+            "normalized_uri": "https://minmod.isi.edu/resource/Q202"
+          }
+        }
+      },
+      {
+        "reference": {
+          "document": {
+            "doi": "10.5382/econgeo.4950",
+            "uri": "https://doi.org/10.5382/econgeo.4950",
+            "title": "The New Century for Nickel Resources, Reserves, and Mining: Reassessing the Sustainability of the Devil’s Metal"
+          }
+        },
+        "commodity": {
+          "source": "SAND",
+          "confidence": 1.0,
+          "observed_name": "g/t Rh",
+          "normalized_uri": "https://minmod.isi.edu/resource/Q604"
+        },
+        "category": [
+          {
+            "source": "SAND",
+            "confidence": 1.0,
+            "observed_name": "Proven",
+            "normalized_uri": "https://minmod.isi.edu/resource/Proven"
+          }
+        ],
+        "grade": {
+          "value": 0.07343641833077319,
+          "unit": {
+            "source": "SAND",
+            "confidence": 1.0,
+            "observed_name": "g/t Rh",
+            "normalized_uri": "https://minmod.isi.edu/resource/Q203"
+          }
+        },
+        "ore": {
+          "value": 54.01,
+          "unit": {
+            "source": "SAND",
+            "confidence": 1.0,
+            "observed_name": "Mt",
+            "normalized_uri": "https://minmod.isi.edu/resource/Q202"
+          }
+        }
+      },
+      {
+        "reference": {
+          "document": {
+            "doi": "10.5382/econgeo.4950",
+            "uri": "https://doi.org/10.5382/econgeo.4950",
+            "title": "The New Century for Nickel Resources, Reserves, and Mining: Reassessing the Sustainability of the Devil’s Metal"
+          }
+        },
+        "commodity": {
+          "source": "SAND",
+          "confidence": 1.0,
+          "observed_name": "%Cr",
+          "normalized_uri": "https://minmod.isi.edu/resource/Q519"
+        },
+        "category": [
+          {
+            "source": "SAND",
+            "confidence": 1.0,
+            "observed_name": "Proven",
+            "normalized_uri": "https://minmod.isi.edu/resource/Proven"
+          }
+        ],
+        "grade": {
+          "value": 4.559329493461436,
+          "unit": {
+            "source": "SAND",
+            "confidence": 1.0,
+            "observed_name": "%Cr",
+            "normalized_uri": "https://minmod.isi.edu/resource/Q201"
+          }
+        },
+        "ore": {
+          "value": 54.01,
+          "unit": {
+            "source": "SAND",
+            "confidence": 1.0,
+            "observed_name": "Mt",
+            "normalized_uri": "https://minmod.isi.edu/resource/Q202"
+          }
+        }
+      },
+      {
+        "reference": {
+          "document": {
+            "doi": "10.5382/econgeo.4950",
+            "uri": "https://doi.org/10.5382/econgeo.4950",
+            "title": "The New Century for Nickel Resources, Reserves, and Mining: Reassessing the Sustainability of the Devil’s Metal"
+          }
+        },
+        "commodity": {
+          "source": "SAND",
+          "confidence": 1.0,
+          "observed_name": "%Cu",
+          "normalized_uri": "https://minmod.isi.edu/resource/Q538"
+        },
+        "category": [
+          {
+            "source": "SAND",
+            "confidence": 1.0,
+            "observed_name": "Probable",
+            "normalized_uri": "https://minmod.isi.edu/resource/Probable"
+          }
+        ],
+        "grade": {
+          "value": 0.13,
+          "unit": {
+            "source": "SAND",
+            "confidence": 1.0,
+            "observed_name": "%Cu",
+            "normalized_uri": "https://minmod.isi.edu/resource/Q201"
+          }
+        },
+        "ore": {
+          "value": 30.45,
+          "unit": {
+            "source": "SAND",
+            "confidence": 1.0,
+            "observed_name": "Mt",
+            "normalized_uri": "https://minmod.isi.edu/resource/Q202"
+          }
+        }
+      },
+      {
+        "reference": {
+          "document": {
+            "doi": "10.5382/econgeo.4950",
+            "uri": "https://doi.org/10.5382/econgeo.4950",
+            "title": "The New Century for Nickel Resources, Reserves, and Mining: Reassessing the Sustainability of the Devil’s Metal"
+          }
+        },
+        "commodity": {
+          "source": "SAND",
+          "confidence": 1.0,
+          "observed_name": "g/t Au",
+          "normalized_uri": "https://minmod.isi.edu/resource/Q551"
+        },
+        "category": [
+          {
+            "source": "SAND",
+            "confidence": 1.0,
+            "observed_name": "Probable",
+            "normalized_uri": "https://minmod.isi.edu/resource/Probable"
+          }
+        ],
+        "grade": {
+          "value": 0.0834364183307732,
+          "unit": {
+            "source": "SAND",
+            "confidence": 1.0,
+            "observed_name": "g/t Au",
+            "normalized_uri": "https://minmod.isi.edu/resource/Q203"
+          }
+        },
+        "ore": {
+          "value": 30.45,
+          "unit": {
+            "source": "SAND",
+            "confidence": 1.0,
+            "observed_name": "Mt",
+            "normalized_uri": "https://minmod.isi.edu/resource/Q202"
+          }
+        }
+      },
+      {
+        "reference": {
+          "document": {
+            "doi": "10.5382/econgeo.4950",
+            "uri": "https://doi.org/10.5382/econgeo.4950",
+            "title": "The New Century for Nickel Resources, Reserves, and Mining: Reassessing the Sustainability of the Devil’s Metal"
+          }
+        },
+        "commodity": {
+          "source": "SAND",
+          "confidence": 1.0,
+          "observed_name": "%Ni",
+          "normalized_uri": "https://minmod.isi.edu/resource/Q578"
+        },
+        "category": [
+          {
+            "source": "SAND",
+            "confidence": 1.0,
+            "observed_name": "Probable",
+            "normalized_uri": "https://minmod.isi.edu/resource/Probable"
+          }
+        ],
+        "grade": {
+          "value": 0.33,
+          "unit": {
+            "source": "SAND",
+            "confidence": 1.0,
+            "observed_name": "%Ni",
+            "normalized_uri": "https://minmod.isi.edu/resource/Q201"
+          }
+        },
+        "ore": {
+          "value": 30.45,
+          "unit": {
+            "source": "SAND",
+            "confidence": 1.0,
+            "observed_name": "Mt",
+            "normalized_uri": "https://minmod.isi.edu/resource/Q202"
+          }
+        }
+      },
+      {
+        "reference": {
+          "document": {
+            "doi": "10.5382/econgeo.4950",
+            "uri": "https://doi.org/10.5382/econgeo.4950",
+            "title": "The New Century for Nickel Resources, Reserves, and Mining: Reassessing the Sustainability of the Devil’s Metal"
+          }
+        },
+        "commodity": {
+          "source": "SAND",
+          "confidence": 1.0,
+          "observed_name": "%Co",
+          "normalized_uri": "https://minmod.isi.edu/resource/Q537"
+        },
+        "category": [
+          {
+            "source": "SAND",
+            "confidence": 1.0,
+            "observed_name": "Probable",
+            "normalized_uri": "https://minmod.isi.edu/resource/Probable"
+          }
+        ],
+        "grade": {
+          "value": 0.02,
+          "unit": {
+            "source": "SAND",
+            "confidence": 1.0,
+            "observed_name": "%Co",
+            "normalized_uri": "https://minmod.isi.edu/resource/Q201"
+          }
+        },
+        "ore": {
+          "value": 30.45,
+          "unit": {
+            "source": "SAND",
+            "confidence": 1.0,
+            "observed_name": "Mt",
+            "normalized_uri": "https://minmod.isi.edu/resource/Q202"
+          }
+        }
+      },
+      {
+        "reference": {
+          "document": {
+            "doi": "10.5382/econgeo.4950",
+            "uri": "https://doi.org/10.5382/econgeo.4950",
+            "title": "The New Century for Nickel Resources, Reserves, and Mining: Reassessing the Sustainability of the Devil’s Metal"
+          }
+        },
+        "commodity": {
+          "source": "SAND",
+          "confidence": 1.0,
+          "observed_name": "g/t Pt",
+          "normalized_uri": "https://minmod.isi.edu/resource/Q601"
+        },
+        "category": [
+          {
+            "source": "SAND",
+            "confidence": 1.0,
+            "observed_name": "Probable",
+            "normalized_uri": "https://minmod.isi.edu/resource/Probable"
+          }
+        ],
+        "grade": {
+          "value": 0.2076120071684588,
+          "unit": {
+            "source": "SAND",
+            "confidence": 1.0,
+            "observed_name": "g/t Pt",
+            "normalized_uri": "https://minmod.isi.edu/resource/Q203"
+          }
+        },
+        "ore": {
+          "value": 30.45,
+          "unit": {
+            "source": "SAND",
+            "confidence": 1.0,
+            "observed_name": "Mt",
+            "normalized_uri": "https://minmod.isi.edu/resource/Q202"
+          }
+        }
+      },
+      {
+        "reference": {
+          "document": {
+            "doi": "10.5382/econgeo.4950",
+            "uri": "https://doi.org/10.5382/econgeo.4950",
+            "title": "The New Century for Nickel Resources, Reserves, and Mining: Reassessing the Sustainability of the Devil’s Metal"
+          }
+        },
+        "commodity": {
+          "source": "SAND",
+          "confidence": 1.0,
+          "observed_name": "g/t Pd",
+          "normalized_uri": "https://minmod.isi.edu/resource/Q600"
+        },
+        "category": [
+          {
+            "source": "SAND",
+            "confidence": 1.0,
+            "observed_name": "Probable",
+            "normalized_uri": "https://minmod.isi.edu/resource/Probable"
+          }
+        ],
+        "grade": {
+          "value": 0.5255151561699949,
+          "unit": {
+            "source": "SAND",
+            "confidence": 1.0,
+            "observed_name": "g/t Pd",
+            "normalized_uri": "https://minmod.isi.edu/resource/Q203"
+          }
+        },
+        "ore": {
+          "value": 30.45,
+          "unit": {
+            "source": "SAND",
+            "confidence": 1.0,
+            "observed_name": "Mt",
+            "normalized_uri": "https://minmod.isi.edu/resource/Q202"
+          }
+        }
+      },
+      {
+        "reference": {
+          "document": {
+            "doi": "10.5382/econgeo.4950",
+            "uri": "https://doi.org/10.5382/econgeo.4950",
+            "title": "The New Century for Nickel Resources, Reserves, and Mining: Reassessing the Sustainability of the Devil’s Metal"
+          }
+        },
+        "commodity": {
+          "source": "SAND",
+          "confidence": 1.0,
+          "observed_name": "g/t Rh",
+          "normalized_uri": "https://minmod.isi.edu/resource/Q604"
+        },
+        "category": [
+          {
+            "source": "SAND",
+            "confidence": 1.0,
+            "observed_name": "Probable",
+            "normalized_uri": "https://minmod.isi.edu/resource/Probable"
+          }
+        ],
+        "grade": {
+          "value": 0.0834364183307732,
+          "unit": {
+            "source": "SAND",
+            "confidence": 1.0,
+            "observed_name": "g/t Rh",
+            "normalized_uri": "https://minmod.isi.edu/resource/Q203"
+          }
+        },
+        "ore": {
+          "value": 30.45,
+          "unit": {
+            "source": "SAND",
+            "confidence": 1.0,
+            "observed_name": "Mt",
+            "normalized_uri": "https://minmod.isi.edu/resource/Q202"
+          }
+        }
+      }
+    ],
+    "reference": [
+      {
+        "document": {
+          "doi": "10.5382/econgeo.4950",
+          "uri": "https://doi.org/10.5382/econgeo.4950",
+          "title": "The New Century for Nickel Resources, Reserves, and Mining: Reassessing the Sustainability of the Devil’s Metal"
+        }
+      }
+    ],
+    "created_by": [
+      "https://minmod.isi.edu/users/s/usc"
+    ],
+    "modified_at": "2024-09-20T00:00:00Z"
+  },
+  {
+    "source_id": "https://doi.org/10.5382/econgeo.4950",
+    "record_id": "Nonoc",
+    "name": "Nonoc",
+    "location_info": {
+      "country": [
+        {
+          "source": "SAND",
+          "confidence": 1.0,
+          "observed_name": "Philippines",
+          "normalized_uri": "https://minmod.isi.edu/resource/Q1173"
+        }
+      ],
+      "crs": {
+        "source": "SAND",
+        "confidence": 0.8,
+        "normalized_uri": "https://minmod.isi.edu/resource/Q701"
+      }
+    },
+    "deposit_type_candidate": [
+      {
+        "source": "SAND",
+        "confidence": 0.0,
+        "observed_name": "Laterite"
+      },
+      {
+        "source": "SAND",
+        "confidence": 0.0,
+        "observed_name": "Oxide-Clay silicate"
+      }
+    ],
+    "mineral_inventory": [
+      {
+        "reference": {
+          "document": {
+            "doi": "10.5382/econgeo.4950",
+            "uri": "https://doi.org/10.5382/econgeo.4950",
+            "title": "The New Century for Nickel Resources, Reserves, and Mining: Reassessing the Sustainability of the Devil’s Metal"
+          }
+        },
+        "commodity": {
+          "source": "SAND",
+          "confidence": 1.0,
+          "observed_name": "%Ni",
+          "normalized_uri": "https://minmod.isi.edu/resource/Q578"
+        },
+        "category": [
+          {
+            "source": "SAND",
+            "confidence": 1.0,
+            "observed_name": "Inferred",
+            "normalized_uri": "https://minmod.isi.edu/resource/Inferred"
+          }
+        ],
+        "grade": {
+          "value": 1.1,
+          "unit": {
+            "source": "SAND",
+            "confidence": 1.0,
+            "observed_name": "%Ni",
+            "normalized_uri": "https://minmod.isi.edu/resource/Q201"
+          }
+        },
+        "ore": {
+          "value": 144.7,
+          "unit": {
+            "source": "SAND",
+            "confidence": 1.0,
+            "observed_name": "Mt",
+            "normalized_uri": "https://minmod.isi.edu/resource/Q202"
+          }
+        }
+      },
+      {
+        "reference": {
+          "document": {
+            "doi": "10.5382/econgeo.4950",
+            "uri": "https://doi.org/10.5382/econgeo.4950",
+            "title": "The New Century for Nickel Resources, Reserves, and Mining: Reassessing the Sustainability of the Devil’s Metal"
+          }
+        },
+        "commodity": {
+          "source": "SAND",
+          "confidence": 1.0,
+          "observed_name": "%Co",
+          "normalized_uri": "https://minmod.isi.edu/resource/Q537"
+        },
+        "category": [
+          {
+            "source": "SAND",
+            "confidence": 1.0,
+            "observed_name": "Inferred",
+            "normalized_uri": "https://minmod.isi.edu/resource/Inferred"
+          }
+        ],
+        "grade": {
+          "value": 0.11,
+          "unit": {
+            "source": "SAND",
+            "confidence": 1.0,
+            "observed_name": "%Co",
+            "normalized_uri": "https://minmod.isi.edu/resource/Q201"
+          }
+        },
+        "ore": {
+          "value": 144.7,
+          "unit": {
+            "source": "SAND",
+            "confidence": 1.0,
+            "observed_name": "Mt",
+            "normalized_uri": "https://minmod.isi.edu/resource/Q202"
+          }
+        }
+      }
+    ],
+    "reference": [
+      {
+        "document": {
+          "doi": "10.5382/econgeo.4950",
+          "uri": "https://doi.org/10.5382/econgeo.4950",
+          "title": "The New Century for Nickel Resources, Reserves, and Mining: Reassessing the Sustainability of the Devil’s Metal"
+        }
+      }
+    ],
+    "created_by": [
+      "https://minmod.isi.edu/users/s/usc"
+    ],
+    "modified_at": "2024-09-20T00:00:00Z"
+  },
+  {
+    "source_id": "https://doi.org/10.5382/econgeo.4950",
+    "record_id": "Munali",
+    "name": "Munali",
+    "location_info": {
+      "country": [
+        {
+          "source": "SAND",
+          "confidence": 1.0,
+          "observed_name": "Zambia",
+          "normalized_uri": "https://minmod.isi.edu/resource/Q1248"
+        }
+      ],
+      "crs": {
+        "source": "SAND",
+        "confidence": 0.8,
+        "normalized_uri": "https://minmod.isi.edu/resource/Q701"
+      }
+    },
+    "deposit_type_candidate": [
+      {
+        "source": "SAND",
+        "confidence": 0.0,
+        "observed_name": "Magmatic Sulphide"
+      },
+      {
+        "source": "SAND",
+        "confidence": 0.0,
+        "observed_name": "Small M-UM Intrusion-related"
+      }
+    ],
+    "mineral_inventory": [
+      {
+        "reference": {
+          "document": {
+            "doi": "10.5382/econgeo.4950",
+            "uri": "https://doi.org/10.5382/econgeo.4950",
+            "title": "The New Century for Nickel Resources, Reserves, and Mining: Reassessing the Sustainability of the Devil’s Metal"
+          }
+        },
+        "commodity": {
+          "source": "SAND",
+          "confidence": 1.0,
+          "observed_name": "%Cu",
+          "normalized_uri": "https://minmod.isi.edu/resource/Q538"
+        },
+        "category": [
+          {
+            "source": "SAND",
+            "confidence": 1.0,
+            "observed_name": "Indicated",
+            "normalized_uri": "https://minmod.isi.edu/resource/Indicated"
+          }
+        ],
+        "grade": {
+          "value": 0.2,
+          "unit": {
+            "source": "SAND",
+            "confidence": 1.0,
+            "observed_name": "%Cu",
+            "normalized_uri": "https://minmod.isi.edu/resource/Q201"
+          }
+        },
+        "ore": {
+          "value": 5.65,
+          "unit": {
+            "source": "SAND",
+            "confidence": 1.0,
+            "observed_name": "Mt",
+            "normalized_uri": "https://minmod.isi.edu/resource/Q202"
+          }
+        }
+      },
+      {
+        "reference": {
+          "document": {
+            "doi": "10.5382/econgeo.4950",
+            "uri": "https://doi.org/10.5382/econgeo.4950",
+            "title": "The New Century for Nickel Resources, Reserves, and Mining: Reassessing the Sustainability of the Devil’s Metal"
+          }
+        },
+        "commodity": {
+          "source": "SAND",
+          "confidence": 1.0,
+          "observed_name": "%Ni",
+          "normalized_uri": "https://minmod.isi.edu/resource/Q578"
+        },
+        "category": [
+          {
+            "source": "SAND",
+            "confidence": 1.0,
+            "observed_name": "Indicated",
+            "normalized_uri": "https://minmod.isi.edu/resource/Indicated"
+          }
+        ],
+        "grade": {
+          "value": 1.01,
+          "unit": {
+            "source": "SAND",
+            "confidence": 1.0,
+            "observed_name": "%Ni",
+            "normalized_uri": "https://minmod.isi.edu/resource/Q201"
+          }
+        },
+        "ore": {
+          "value": 5.65,
+          "unit": {
+            "source": "SAND",
+            "confidence": 1.0,
+            "observed_name": "Mt",
+            "normalized_uri": "https://minmod.isi.edu/resource/Q202"
+          }
+        }
+      },
+      {
+        "reference": {
+          "document": {
+            "doi": "10.5382/econgeo.4950",
+            "uri": "https://doi.org/10.5382/econgeo.4950",
+            "title": "The New Century for Nickel Resources, Reserves, and Mining: Reassessing the Sustainability of the Devil’s Metal"
+          }
+        },
+        "commodity": {
+          "source": "SAND",
+          "confidence": 1.0,
+          "observed_name": "%Co",
+          "normalized_uri": "https://minmod.isi.edu/resource/Q537"
+        },
+        "category": [
+          {
+            "source": "SAND",
+            "confidence": 1.0,
+            "observed_name": "Indicated",
+            "normalized_uri": "https://minmod.isi.edu/resource/Indicated"
+          }
+        ],
+        "grade": {
+          "value": 0.07,
+          "unit": {
+            "source": "SAND",
+            "confidence": 1.0,
+            "observed_name": "%Co",
+            "normalized_uri": "https://minmod.isi.edu/resource/Q201"
+          }
+        },
+        "ore": {
+          "value": 5.65,
+          "unit": {
+            "source": "SAND",
+            "confidence": 1.0,
+            "observed_name": "Mt",
+            "normalized_uri": "https://minmod.isi.edu/resource/Q202"
+          }
+        }
+      },
+      {
+        "reference": {
+          "document": {
+            "doi": "10.5382/econgeo.4950",
+            "uri": "https://doi.org/10.5382/econgeo.4950",
+            "title": "The New Century for Nickel Resources, Reserves, and Mining: Reassessing the Sustainability of the Devil’s Metal"
+          }
+        },
+        "commodity": {
+          "source": "SAND",
+          "confidence": 1.0,
+          "observed_name": "g/t Pt",
+          "normalized_uri": "https://minmod.isi.edu/resource/Q601"
+        },
+        "category": [
+          {
+            "source": "SAND",
+            "confidence": 1.0,
+            "observed_name": "Indicated",
+            "normalized_uri": "https://minmod.isi.edu/resource/Indicated"
+          }
+        ],
+        "grade": {
+          "value": 0.03,
+          "unit": {
+            "source": "SAND",
+            "confidence": 1.0,
+            "observed_name": "g/t Pt",
+            "normalized_uri": "https://minmod.isi.edu/resource/Q203"
+          }
+        },
+        "ore": {
+          "value": 5.65,
+          "unit": {
+            "source": "SAND",
+            "confidence": 1.0,
+            "observed_name": "Mt",
+            "normalized_uri": "https://minmod.isi.edu/resource/Q202"
+          }
+        }
+      },
+      {
+        "reference": {
+          "document": {
+            "doi": "10.5382/econgeo.4950",
+            "uri": "https://doi.org/10.5382/econgeo.4950",
+            "title": "The New Century for Nickel Resources, Reserves, and Mining: Reassessing the Sustainability of the Devil’s Metal"
+          }
+        },
+        "commodity": {
+          "source": "SAND",
+          "confidence": 1.0,
+          "observed_name": "g/t Pd",
+          "normalized_uri": "https://minmod.isi.edu/resource/Q600"
+        },
+        "category": [
+          {
+            "source": "SAND",
+            "confidence": 1.0,
+            "observed_name": "Indicated",
+            "normalized_uri": "https://minmod.isi.edu/resource/Indicated"
+          }
+        ],
+        "grade": {
+          "value": 0.6,
+          "unit": {
+            "source": "SAND",
+            "confidence": 1.0,
+            "observed_name": "g/t Pd",
+            "normalized_uri": "https://minmod.isi.edu/resource/Q203"
+          }
+        },
+        "ore": {
+          "value": 5.65,
+          "unit": {
+            "source": "SAND",
+            "confidence": 1.0,
+            "observed_name": "Mt",
+            "normalized_uri": "https://minmod.isi.edu/resource/Q202"
+          }
+        }
+      },
+      {
+        "reference": {
+          "document": {
+            "doi": "10.5382/econgeo.4950",
+            "uri": "https://doi.org/10.5382/econgeo.4950",
+            "title": "The New Century for Nickel Resources, Reserves, and Mining: Reassessing the Sustainability of the Devil’s Metal"
+          }
+        },
+        "commodity": {
+          "source": "SAND",
+          "confidence": 1.0,
+          "observed_name": "%Cu",
+          "normalized_uri": "https://minmod.isi.edu/resource/Q538"
+        },
+        "category": [
+          {
+            "source": "SAND",
+            "confidence": 1.0,
+            "observed_name": "Inferred",
+            "normalized_uri": "https://minmod.isi.edu/resource/Inferred"
+          }
+        ],
+        "grade": {
+          "value": 0.2,
+          "unit": {
+            "source": "SAND",
+            "confidence": 1.0,
+            "observed_name": "%Cu",
+            "normalized_uri": "https://minmod.isi.edu/resource/Q201"
+          }
+        },
+        "ore": {
+          "value": 0.36,
+          "unit": {
+            "source": "SAND",
+            "confidence": 1.0,
+            "observed_name": "Mt",
+            "normalized_uri": "https://minmod.isi.edu/resource/Q202"
+          }
+        }
+      },
+      {
+        "reference": {
+          "document": {
+            "doi": "10.5382/econgeo.4950",
+            "uri": "https://doi.org/10.5382/econgeo.4950",
+            "title": "The New Century for Nickel Resources, Reserves, and Mining: Reassessing the Sustainability of the Devil’s Metal"
+          }
+        },
+        "commodity": {
+          "source": "SAND",
+          "confidence": 1.0,
+          "observed_name": "%Ni",
+          "normalized_uri": "https://minmod.isi.edu/resource/Q578"
+        },
+        "category": [
+          {
+            "source": "SAND",
+            "confidence": 1.0,
+            "observed_name": "Inferred",
+            "normalized_uri": "https://minmod.isi.edu/resource/Inferred"
+          }
+        ],
+        "grade": {
+          "value": 0.84,
+          "unit": {
+            "source": "SAND",
+            "confidence": 1.0,
+            "observed_name": "%Ni",
+            "normalized_uri": "https://minmod.isi.edu/resource/Q201"
+          }
+        },
+        "ore": {
+          "value": 0.36,
+          "unit": {
+            "source": "SAND",
+            "confidence": 1.0,
+            "observed_name": "Mt",
+            "normalized_uri": "https://minmod.isi.edu/resource/Q202"
+          }
+        }
+      },
+      {
+        "reference": {
+          "document": {
+            "doi": "10.5382/econgeo.4950",
+            "uri": "https://doi.org/10.5382/econgeo.4950",
+            "title": "The New Century for Nickel Resources, Reserves, and Mining: Reassessing the Sustainability of the Devil’s Metal"
+          }
+        },
+        "commodity": {
+          "source": "SAND",
+          "confidence": 1.0,
+          "observed_name": "%Co",
+          "normalized_uri": "https://minmod.isi.edu/resource/Q537"
+        },
+        "category": [
+          {
+            "source": "SAND",
+            "confidence": 1.0,
+            "observed_name": "Inferred",
+            "normalized_uri": "https://minmod.isi.edu/resource/Inferred"
+          }
+        ],
+        "grade": {
+          "value": 0.07,
+          "unit": {
+            "source": "SAND",
+            "confidence": 1.0,
+            "observed_name": "%Co",
+            "normalized_uri": "https://minmod.isi.edu/resource/Q201"
+          }
+        },
+        "ore": {
+          "value": 0.36,
+          "unit": {
+            "source": "SAND",
+            "confidence": 1.0,
+            "observed_name": "Mt",
+            "normalized_uri": "https://minmod.isi.edu/resource/Q202"
+          }
+        }
+      },
+      {
+        "reference": {
+          "document": {
+            "doi": "10.5382/econgeo.4950",
+            "uri": "https://doi.org/10.5382/econgeo.4950",
+            "title": "The New Century for Nickel Resources, Reserves, and Mining: Reassessing the Sustainability of the Devil’s Metal"
+          }
+        },
+        "commodity": {
+          "source": "SAND",
+          "confidence": 1.0,
+          "observed_name": "g/t Pt",
+          "normalized_uri": "https://minmod.isi.edu/resource/Q601"
+        },
+        "category": [
+          {
+            "source": "SAND",
+            "confidence": 1.0,
+            "observed_name": "Inferred",
+            "normalized_uri": "https://minmod.isi.edu/resource/Inferred"
+          }
+        ],
+        "grade": {
+          "value": 0.03,
+          "unit": {
+            "source": "SAND",
+            "confidence": 1.0,
+            "observed_name": "g/t Pt",
+            "normalized_uri": "https://minmod.isi.edu/resource/Q203"
+          }
+        },
+        "ore": {
+          "value": 0.36,
+          "unit": {
+            "source": "SAND",
+            "confidence": 1.0,
+            "observed_name": "Mt",
+            "normalized_uri": "https://minmod.isi.edu/resource/Q202"
+          }
+        }
+      },
+      {
+        "reference": {
+          "document": {
+            "doi": "10.5382/econgeo.4950",
+            "uri": "https://doi.org/10.5382/econgeo.4950",
+            "title": "The New Century for Nickel Resources, Reserves, and Mining: Reassessing the Sustainability of the Devil’s Metal"
+          }
+        },
+        "commodity": {
+          "source": "SAND",
+          "confidence": 1.0,
+          "observed_name": "g/t Pd",
+          "normalized_uri": "https://minmod.isi.edu/resource/Q600"
+        },
+        "category": [
+          {
+            "source": "SAND",
+            "confidence": 1.0,
+            "observed_name": "Inferred",
+            "normalized_uri": "https://minmod.isi.edu/resource/Inferred"
+          }
+        ],
+        "grade": {
+          "value": 0.6,
+          "unit": {
+            "source": "SAND",
+            "confidence": 1.0,
+            "observed_name": "g/t Pd",
+            "normalized_uri": "https://minmod.isi.edu/resource/Q203"
+          }
+        },
+        "ore": {
+          "value": 0.36,
+          "unit": {
+            "source": "SAND",
+            "confidence": 1.0,
+            "observed_name": "Mt",
+            "normalized_uri": "https://minmod.isi.edu/resource/Q202"
+          }
+        }
+      }
+    ],
+    "reference": [
+      {
+        "document": {
+          "doi": "10.5382/econgeo.4950",
+          "uri": "https://doi.org/10.5382/econgeo.4950",
+          "title": "The New Century for Nickel Resources, Reserves, and Mining: Reassessing the Sustainability of the Devil’s Metal"
+        }
+      }
+    ],
+    "created_by": [
+      "https://minmod.isi.edu/users/s/usc"
+    ],
+    "modified_at": "2024-09-20T00:00:00Z"
+  }
+]

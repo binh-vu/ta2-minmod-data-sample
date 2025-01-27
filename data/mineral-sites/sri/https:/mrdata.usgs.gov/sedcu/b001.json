@@ -1,0 +1,31 @@
+[
+  {
+    "source_id": "https://mrdata.usgs.gov/sedcu",
+    "record_id": "732",
+    "deposit_type_candidate": [
+      {
+        "source": "algorithm predictions, SRI deposit type classification, v2.1, 20241031",
+        "confidence": 0.5053734004497529,
+        "observed_name": "Sediment-hosted copper ± Co",
+        "normalized_uri": "https://minmod.isi.edu/resource/Q374"
+      },
+      {
+        "source": "algorithm predictions, SRI deposit type classification, v2.1, 20241031",
+        "confidence": 0.38992683291435243,
+        "observed_name": "Volcanic-hosted copper",
+        "normalized_uri": "https://minmod.isi.edu/resource/Q373"
+      }
+    ],
+    "reference": [
+      {
+        "document": {
+          "uri": "https://mrdata.usgs.gov/sedcu"
+        }
+      }
+    ],
+    "created_by": [
+      "https://minmod.isi.edu/users/s/sri"
+    ],
+    "modified_at": "2024-11-06T18:20:52Z"
+  }
+]

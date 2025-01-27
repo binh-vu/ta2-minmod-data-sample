@@ -1,0 +1,25 @@
+[
+  {
+    "source_id": "https://mrdata.usgs.gov/vms",
+    "record_id": "1351",
+    "deposit_type_candidate": [
+      {
+        "source": "algorithm predictions, SRI deposit type classification, v2.1, 20241031",
+        "confidence": 0.8921566307544708,
+        "observed_name": "Bimodal-mafic VMS",
+        "normalized_uri": "https://minmod.isi.edu/resource/Q411"
+      }
+    ],
+    "reference": [
+      {
+        "document": {
+          "uri": "https://mrdata.usgs.gov/vms"
+        }
+      }
+    ],
+    "created_by": [
+      "https://minmod.isi.edu/users/s/sri"
+    ],
+    "modified_at": "2024-11-06T18:58:08Z"
+  }
+]

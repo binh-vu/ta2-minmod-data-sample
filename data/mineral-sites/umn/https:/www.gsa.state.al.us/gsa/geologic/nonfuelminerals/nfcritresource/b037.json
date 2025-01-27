@@ -1,0 +1,766 @@
+[
+  {
+    "source_id": "https://www.gsa.state.al.us/gsa/geologic/nonfuelminerals/nfcritresource",
+    "record_id": "3384",
+    "name": "Unnamed occurrence",
+    "location_info": {
+      "country": [
+        {
+          "source": "UMN Matching System v1",
+          "confidence": 1.0,
+          "observed_name": "United States",
+          "normalized_uri": "https://minmod.isi.edu/resource/Q1235"
+        }
+      ],
+      "state_or_province": [
+        {
+          "source": "UMN Matching System v1",
+          "confidence": 1.0,
+          "observed_name": "Alabama",
+          "normalized_uri": "https://minmod.isi.edu/resource/Q6839"
+        }
+      ],
+      "crs": {
+        "source": "UMN Matching System v1",
+        "confidence": 1.0,
+        "observed_name": "EPSG:4326",
+        "normalized_uri": "https://minmod.isi.edu/resource/Q701"
+      },
+      "location": "POINT (-85.93609808 33.26972075)"
+    },
+    "mineral_inventory": [
+      {
+        "reference": {
+          "document": {
+            "uri": "https://www.gsa.state.al.us/gsa/geologic/nonfuelminerals/nfcritresource"
+          }
+        },
+        "commodity": {
+          "source": "UMN Matching System v1",
+          "confidence": 0.001,
+          "observed_name": "monazite"
+        }
+      },
+      {
+        "reference": {
+          "document": {
+            "uri": "https://www.gsa.state.al.us/gsa/geologic/nonfuelminerals/nfcritresource"
+          }
+        },
+        "commodity": {
+          "source": "UMN Matching System v1",
+          "confidence": 1.0,
+          "observed_name": "thorium",
+          "normalized_uri": "https://minmod.isi.edu/resource/Q613"
+        }
+      },
+      {
+        "reference": {
+          "document": {
+            "uri": "https://www.gsa.state.al.us/gsa/geologic/nonfuelminerals/nfcritresource"
+          }
+        },
+        "commodity": {
+          "source": "UMN Matching System v1",
+          "confidence": 1.0,
+          "observed_name": "uranium",
+          "normalized_uri": "https://minmod.isi.edu/resource/Q588"
+        }
+      },
+      {
+        "reference": {
+          "document": {
+            "uri": "https://www.gsa.state.al.us/gsa/geologic/nonfuelminerals/nfcritresource"
+          }
+        },
+        "commodity": {
+          "source": "UMN Matching System v1",
+          "confidence": 0.001,
+          "observed_name": "triuranium octoxide"
+        }
+      }
+    ],
+    "reference": [
+      {
+        "document": {
+          "uri": "https://www.gsa.state.al.us/gsa/geologic/nonfuelminerals/nfcritresource"
+        }
+      }
+    ],
+    "created_by": [
+      "https://minmod.isi.edu/users/s/umn"
+    ],
+    "modified_at": "2024-10-26T18:39:17Z"
+  },
+  {
+    "source_id": "https://www.gsa.state.al.us/gsa/geologic/nonfuelminerals/nfcritresource",
+    "record_id": "3257",
+    "name": "Unnamed occurrence",
+    "location_info": {
+      "country": [
+        {
+          "source": "UMN Matching System v1",
+          "confidence": 1.0,
+          "observed_name": "United States",
+          "normalized_uri": "https://minmod.isi.edu/resource/Q1235"
+        }
+      ],
+      "state_or_province": [
+        {
+          "source": "UMN Matching System v1",
+          "confidence": 1.0,
+          "observed_name": "Alabama",
+          "normalized_uri": "https://minmod.isi.edu/resource/Q6839"
+        }
+      ],
+      "crs": {
+        "source": "UMN Matching System v1",
+        "confidence": 1.0,
+        "observed_name": "EPSG:4326",
+        "normalized_uri": "https://minmod.isi.edu/resource/Q701"
+      },
+      "location": "POINT (-85.8774823 33.32587221)"
+    },
+    "mineral_inventory": [
+      {
+        "reference": {
+          "document": {
+            "uri": "https://www.gsa.state.al.us/gsa/geologic/nonfuelminerals/nfcritresource"
+          }
+        },
+        "commodity": {
+          "source": "UMN Matching System v1",
+          "confidence": 1.0,
+          "observed_name": "gold",
+          "normalized_uri": "https://minmod.isi.edu/resource/Q551"
+        }
+      },
+      {
+        "reference": {
+          "document": {
+            "uri": "https://www.gsa.state.al.us/gsa/geologic/nonfuelminerals/nfcritresource"
+          }
+        },
+        "commodity": {
+          "source": "UMN Matching System v1",
+          "confidence": 0.001,
+          "observed_name": "monazite"
+        }
+      },
+      {
+        "reference": {
+          "document": {
+            "uri": "https://www.gsa.state.al.us/gsa/geologic/nonfuelminerals/nfcritresource"
+          }
+        },
+        "commodity": {
+          "source": "UMN Matching System v1",
+          "confidence": 1.0,
+          "observed_name": "rare earth elements",
+          "normalized_uri": "https://minmod.isi.edu/resource/Q618"
+        }
+      },
+      {
+        "reference": {
+          "document": {
+            "uri": "https://www.gsa.state.al.us/gsa/geologic/nonfuelminerals/nfcritresource"
+          }
+        },
+        "commodity": {
+          "source": "UMN Matching System v1",
+          "confidence": 1.0,
+          "observed_name": "thorium",
+          "normalized_uri": "https://minmod.isi.edu/resource/Q613"
+        }
+      },
+      {
+        "reference": {
+          "document": {
+            "uri": "https://www.gsa.state.al.us/gsa/geologic/nonfuelminerals/nfcritresource"
+          }
+        },
+        "commodity": {
+          "source": "UMN Matching System v1",
+          "confidence": 1.0,
+          "observed_name": "titanium",
+          "normalized_uri": "https://minmod.isi.edu/resource/Q614"
+        }
+      },
+      {
+        "reference": {
+          "document": {
+            "uri": "https://www.gsa.state.al.us/gsa/geologic/nonfuelminerals/nfcritresource"
+          }
+        },
+        "commodity": {
+          "source": "UMN Matching System v1",
+          "confidence": 1.0,
+          "observed_name": "uranium",
+          "normalized_uri": "https://minmod.isi.edu/resource/Q588"
+        }
+      },
+      {
+        "reference": {
+          "document": {
+            "uri": "https://www.gsa.state.al.us/gsa/geologic/nonfuelminerals/nfcritresource"
+          }
+        },
+        "commodity": {
+          "source": "UMN Matching System v1",
+          "confidence": 1.0,
+          "observed_name": "zirconium",
+          "normalized_uri": "https://minmod.isi.edu/resource/Q617"
+        }
+      }
+    ],
+    "reference": [
+      {
+        "document": {
+          "uri": "https://www.gsa.state.al.us/gsa/geologic/nonfuelminerals/nfcritresource"
+        }
+      }
+    ],
+    "created_by": [
+      "https://minmod.isi.edu/users/s/umn"
+    ],
+    "modified_at": "2024-10-26T18:39:17Z"
+  },
+  {
+    "source_id": "https://www.gsa.state.al.us/gsa/geologic/nonfuelminerals/nfcritresource",
+    "record_id": "3387",
+    "name": "Unnamed occurrence",
+    "location_info": {
+      "country": [
+        {
+          "source": "UMN Matching System v1",
+          "confidence": 1.0,
+          "observed_name": "United States",
+          "normalized_uri": "https://minmod.isi.edu/resource/Q1235"
+        }
+      ],
+      "state_or_province": [
+        {
+          "source": "UMN Matching System v1",
+          "confidence": 1.0,
+          "observed_name": "Alabama",
+          "normalized_uri": "https://minmod.isi.edu/resource/Q6839"
+        }
+      ],
+      "crs": {
+        "source": "UMN Matching System v1",
+        "confidence": 1.0,
+        "observed_name": "EPSG:4326",
+        "normalized_uri": "https://minmod.isi.edu/resource/Q701"
+      },
+      "location": "POINT (-85.94466969 33.26625007)"
+    },
+    "mineral_inventory": [
+      {
+        "reference": {
+          "document": {
+            "uri": "https://www.gsa.state.al.us/gsa/geologic/nonfuelminerals/nfcritresource"
+          }
+        },
+        "commodity": {
+          "source": "UMN Matching System v1",
+          "confidence": 0.001,
+          "observed_name": "monazite"
+        }
+      },
+      {
+        "reference": {
+          "document": {
+            "uri": "https://www.gsa.state.al.us/gsa/geologic/nonfuelminerals/nfcritresource"
+          }
+        },
+        "commodity": {
+          "source": "UMN Matching System v1",
+          "confidence": 1.0,
+          "observed_name": "thorium",
+          "normalized_uri": "https://minmod.isi.edu/resource/Q613"
+        }
+      },
+      {
+        "reference": {
+          "document": {
+            "uri": "https://www.gsa.state.al.us/gsa/geologic/nonfuelminerals/nfcritresource"
+          }
+        },
+        "commodity": {
+          "source": "UMN Matching System v1",
+          "confidence": 1.0,
+          "observed_name": "uranium",
+          "normalized_uri": "https://minmod.isi.edu/resource/Q588"
+        }
+      },
+      {
+        "reference": {
+          "document": {
+            "uri": "https://www.gsa.state.al.us/gsa/geologic/nonfuelminerals/nfcritresource"
+          }
+        },
+        "commodity": {
+          "source": "UMN Matching System v1",
+          "confidence": 0.001,
+          "observed_name": "triuranium octoxide"
+        }
+      }
+    ],
+    "reference": [
+      {
+        "document": {
+          "uri": "https://www.gsa.state.al.us/gsa/geologic/nonfuelminerals/nfcritresource"
+        }
+      }
+    ],
+    "created_by": [
+      "https://minmod.isi.edu/users/s/umn"
+    ],
+    "modified_at": "2024-10-26T18:39:17Z"
+  },
+  {
+    "source_id": "https://www.gsa.state.al.us/gsa/geologic/nonfuelminerals/nfcritresource",
+    "record_id": "1977",
+    "name": "Unnamed occurrence",
+    "location_info": {
+      "country": [
+        {
+          "source": "UMN Matching System v1",
+          "confidence": 1.0,
+          "observed_name": "United States",
+          "normalized_uri": "https://minmod.isi.edu/resource/Q1235"
+        }
+      ],
+      "state_or_province": [
+        {
+          "source": "UMN Matching System v1",
+          "confidence": 1.0,
+          "observed_name": "Alabama",
+          "normalized_uri": "https://minmod.isi.edu/resource/Q6839"
+        }
+      ],
+      "crs": {
+        "source": "UMN Matching System v1",
+        "confidence": 1.0,
+        "observed_name": "EPSG:4326",
+        "normalized_uri": "https://minmod.isi.edu/resource/Q701"
+      },
+      "location": "POINT (-85.78163678 33.45315878)"
+    },
+    "mineral_inventory": [
+      {
+        "reference": {
+          "document": {
+            "uri": "https://www.gsa.state.al.us/gsa/geologic/nonfuelminerals/nfcritresource"
+          }
+        },
+        "commodity": {
+          "source": "UMN Matching System v1",
+          "confidence": 1.0,
+          "observed_name": "cobalt",
+          "normalized_uri": "https://minmod.isi.edu/resource/Q537"
+        }
+      },
+      {
+        "reference": {
+          "document": {
+            "uri": "https://www.gsa.state.al.us/gsa/geologic/nonfuelminerals/nfcritresource"
+          }
+        },
+        "commodity": {
+          "source": "UMN Matching System v1",
+          "confidence": 1.0,
+          "observed_name": "manganese",
+          "normalized_uri": "https://minmod.isi.edu/resource/Q571"
+        }
+      }
+    ],
+    "reference": [
+      {
+        "document": {
+          "uri": "https://www.gsa.state.al.us/gsa/geologic/nonfuelminerals/nfcritresource"
+        }
+      }
+    ],
+    "created_by": [
+      "https://minmod.isi.edu/users/s/umn"
+    ],
+    "modified_at": "2024-10-26T18:39:17Z"
+  },
+  {
+    "source_id": "https://www.gsa.state.al.us/gsa/geologic/nonfuelminerals/nfcritresource",
+    "record_id": "1889",
+    "name": "Unnamed occurrence",
+    "location_info": {
+      "country": [
+        {
+          "source": "UMN Matching System v1",
+          "confidence": 1.0,
+          "observed_name": "United States",
+          "normalized_uri": "https://minmod.isi.edu/resource/Q1235"
+        }
+      ],
+      "state_or_province": [
+        {
+          "source": "UMN Matching System v1",
+          "confidence": 1.0,
+          "observed_name": "Alabama",
+          "normalized_uri": "https://minmod.isi.edu/resource/Q6839"
+        }
+      ],
+      "crs": {
+        "source": "UMN Matching System v1",
+        "confidence": 1.0,
+        "observed_name": "EPSG:4326",
+        "normalized_uri": "https://minmod.isi.edu/resource/Q701"
+      },
+      "location": "POINT (-85.7909661 33.42400702)"
+    },
+    "mineral_inventory": [
+      {
+        "reference": {
+          "document": {
+            "uri": "https://www.gsa.state.al.us/gsa/geologic/nonfuelminerals/nfcritresource"
+          }
+        },
+        "commodity": {
+          "source": "UMN Matching System v1",
+          "confidence": 1.0,
+          "observed_name": "cobalt",
+          "normalized_uri": "https://minmod.isi.edu/resource/Q537"
+        }
+      },
+      {
+        "reference": {
+          "document": {
+            "uri": "https://www.gsa.state.al.us/gsa/geologic/nonfuelminerals/nfcritresource"
+          }
+        },
+        "commodity": {
+          "source": "UMN Matching System v1",
+          "confidence": 1.0,
+          "observed_name": "manganese",
+          "normalized_uri": "https://minmod.isi.edu/resource/Q571"
+        }
+      }
+    ],
+    "reference": [
+      {
+        "document": {
+          "uri": "https://www.gsa.state.al.us/gsa/geologic/nonfuelminerals/nfcritresource"
+        }
+      }
+    ],
+    "created_by": [
+      "https://minmod.isi.edu/users/s/umn"
+    ],
+    "modified_at": "2024-10-26T18:39:17Z"
+  },
+  {
+    "source_id": "https://www.gsa.state.al.us/gsa/geologic/nonfuelminerals/nfcritresource",
+    "record_id": "3422",
+    "name": "Unnamed occurrence",
+    "location_info": {
+      "country": [
+        {
+          "source": "UMN Matching System v1",
+          "confidence": 1.0,
+          "observed_name": "United States",
+          "normalized_uri": "https://minmod.isi.edu/resource/Q1235"
+        }
+      ],
+      "state_or_province": [
+        {
+          "source": "UMN Matching System v1",
+          "confidence": 1.0,
+          "observed_name": "Alabama",
+          "normalized_uri": "https://minmod.isi.edu/resource/Q6839"
+        }
+      ],
+      "crs": {
+        "source": "UMN Matching System v1",
+        "confidence": 1.0,
+        "observed_name": "EPSG:4326",
+        "normalized_uri": "https://minmod.isi.edu/resource/Q701"
+      },
+      "location": "POINT (-85.95756571 33.27019844)"
+    },
+    "mineral_inventory": [
+      {
+        "reference": {
+          "document": {
+            "uri": "https://www.gsa.state.al.us/gsa/geologic/nonfuelminerals/nfcritresource"
+          }
+        },
+        "commodity": {
+          "source": "UMN Matching System v1",
+          "confidence": 0.001,
+          "observed_name": "monazite"
+        }
+      },
+      {
+        "reference": {
+          "document": {
+            "uri": "https://www.gsa.state.al.us/gsa/geologic/nonfuelminerals/nfcritresource"
+          }
+        },
+        "commodity": {
+          "source": "UMN Matching System v1",
+          "confidence": 1.0,
+          "observed_name": "thorium",
+          "normalized_uri": "https://minmod.isi.edu/resource/Q613"
+        }
+      },
+      {
+        "reference": {
+          "document": {
+            "uri": "https://www.gsa.state.al.us/gsa/geologic/nonfuelminerals/nfcritresource"
+          }
+        },
+        "commodity": {
+          "source": "UMN Matching System v1",
+          "confidence": 1.0,
+          "observed_name": "uranium",
+          "normalized_uri": "https://minmod.isi.edu/resource/Q588"
+        }
+      },
+      {
+        "reference": {
+          "document": {
+            "uri": "https://www.gsa.state.al.us/gsa/geologic/nonfuelminerals/nfcritresource"
+          }
+        },
+        "commodity": {
+          "source": "UMN Matching System v1",
+          "confidence": 0.001,
+          "observed_name": "triuranium octoxide"
+        }
+      }
+    ],
+    "reference": [
+      {
+        "document": {
+          "uri": "https://www.gsa.state.al.us/gsa/geologic/nonfuelminerals/nfcritresource"
+        }
+      }
+    ],
+    "created_by": [
+      "https://minmod.isi.edu/users/s/umn"
+    ],
+    "modified_at": "2024-10-26T18:39:17Z"
+  },
+  {
+    "source_id": "https://www.gsa.state.al.us/gsa/geologic/nonfuelminerals/nfcritresource",
+    "record_id": "1867",
+    "name": "Unnamed occurrence",
+    "location_info": {
+      "country": [
+        {
+          "source": "UMN Matching System v1",
+          "confidence": 1.0,
+          "observed_name": "United States",
+          "normalized_uri": "https://minmod.isi.edu/resource/Q1235"
+        }
+      ],
+      "state_or_province": [
+        {
+          "source": "UMN Matching System v1",
+          "confidence": 1.0,
+          "observed_name": "Alabama",
+          "normalized_uri": "https://minmod.isi.edu/resource/Q6839"
+        }
+      ],
+      "crs": {
+        "source": "UMN Matching System v1",
+        "confidence": 1.0,
+        "observed_name": "EPSG:4326",
+        "normalized_uri": "https://minmod.isi.edu/resource/Q701"
+      },
+      "location": "POINT (-85.7909661 33.42400702)"
+    },
+    "mineral_inventory": [
+      {
+        "reference": {
+          "document": {
+            "uri": "https://www.gsa.state.al.us/gsa/geologic/nonfuelminerals/nfcritresource"
+          }
+        },
+        "commodity": {
+          "source": "UMN Matching System v1",
+          "confidence": 1.0,
+          "observed_name": "cobalt",
+          "normalized_uri": "https://minmod.isi.edu/resource/Q537"
+        }
+      },
+      {
+        "reference": {
+          "document": {
+            "uri": "https://www.gsa.state.al.us/gsa/geologic/nonfuelminerals/nfcritresource"
+          }
+        },
+        "commodity": {
+          "source": "UMN Matching System v1",
+          "confidence": 1.0,
+          "observed_name": "manganese",
+          "normalized_uri": "https://minmod.isi.edu/resource/Q571"
+        }
+      }
+    ],
+    "reference": [
+      {
+        "document": {
+          "uri": "https://www.gsa.state.al.us/gsa/geologic/nonfuelminerals/nfcritresource"
+        }
+      }
+    ],
+    "created_by": [
+      "https://minmod.isi.edu/users/s/umn"
+    ],
+    "modified_at": "2024-10-26T18:39:17Z"
+  },
+  {
+    "source_id": "https://www.gsa.state.al.us/gsa/geologic/nonfuelminerals/nfcritresource",
+    "record_id": "1733",
+    "name": "Unnamed occurrence",
+    "location_info": {
+      "country": [
+        {
+          "source": "UMN Matching System v1",
+          "confidence": 1.0,
+          "observed_name": "United States",
+          "normalized_uri": "https://minmod.isi.edu/resource/Q1235"
+        }
+      ],
+      "state_or_province": [
+        {
+          "source": "UMN Matching System v1",
+          "confidence": 1.0,
+          "observed_name": "Alabama",
+          "normalized_uri": "https://minmod.isi.edu/resource/Q6839"
+        }
+      ],
+      "crs": {
+        "source": "UMN Matching System v1",
+        "confidence": 1.0,
+        "observed_name": "EPSG:4326",
+        "normalized_uri": "https://minmod.isi.edu/resource/Q701"
+      },
+      "location": "POINT (-85.82228634 33.30379332)"
+    },
+    "mineral_inventory": [
+      {
+        "reference": {
+          "document": {
+            "uri": "https://www.gsa.state.al.us/gsa/geologic/nonfuelminerals/nfcritresource"
+          }
+        },
+        "commodity": {
+          "source": "UMN Matching System v1",
+          "confidence": 1.0,
+          "observed_name": "barium",
+          "normalized_uri": "https://minmod.isi.edu/resource/Q684"
+        }
+      },
+      {
+        "reference": {
+          "document": {
+            "uri": "https://www.gsa.state.al.us/gsa/geologic/nonfuelminerals/nfcritresource"
+          }
+        },
+        "commodity": {
+          "source": "UMN Matching System v1",
+          "confidence": 0.001,
+          "observed_name": "monazite"
+        }
+      },
+      {
+        "reference": {
+          "document": {
+            "uri": "https://www.gsa.state.al.us/gsa/geologic/nonfuelminerals/nfcritresource"
+          }
+        },
+        "commodity": {
+          "source": "UMN Matching System v1",
+          "confidence": 1.0,
+          "observed_name": "rare earth elements",
+          "normalized_uri": "https://minmod.isi.edu/resource/Q618"
+        }
+      },
+      {
+        "reference": {
+          "document": {
+            "uri": "https://www.gsa.state.al.us/gsa/geologic/nonfuelminerals/nfcritresource"
+          }
+        },
+        "commodity": {
+          "source": "UMN Matching System v1",
+          "confidence": 1.0,
+          "observed_name": "thorium",
+          "normalized_uri": "https://minmod.isi.edu/resource/Q613"
+        }
+      },
+      {
+        "reference": {
+          "document": {
+            "uri": "https://www.gsa.state.al.us/gsa/geologic/nonfuelminerals/nfcritresource"
+          }
+        },
+        "commodity": {
+          "source": "UMN Matching System v1",
+          "confidence": 1.0,
+          "observed_name": "titanium",
+          "normalized_uri": "https://minmod.isi.edu/resource/Q614"
+        }
+      },
+      {
+        "reference": {
+          "document": {
+            "uri": "https://www.gsa.state.al.us/gsa/geologic/nonfuelminerals/nfcritresource"
+          }
+        },
+        "commodity": {
+          "source": "UMN Matching System v1",
+          "confidence": 1.0,
+          "observed_name": "zirconium",
+          "normalized_uri": "https://minmod.isi.edu/resource/Q617"
+        }
+      },
+      {
+        "reference": {
+          "document": {
+            "uri": "https://www.gsa.state.al.us/gsa/geologic/nonfuelminerals/nfcritresource"
+          }
+        },
+        "commodity": {
+          "source": "UMN Matching System v1",
+          "confidence": 1.0,
+          "observed_name": "uranium",
+          "normalized_uri": "https://minmod.isi.edu/resource/Q588"
+        }
+      },
+      {
+        "reference": {
+          "document": {
+            "uri": "https://www.gsa.state.al.us/gsa/geologic/nonfuelminerals/nfcritresource"
+          }
+        },
+        "commodity": {
+          "source": "UMN Matching System v1",
+          "confidence": 0.001,
+          "observed_name": "triuranium octoxide"
+        }
+      }
+    ],
+    "reference": [
+      {
+        "document": {
+          "uri": "https://www.gsa.state.al.us/gsa/geologic/nonfuelminerals/nfcritresource"
+        }
+      }
+    ],
+    "created_by": [
+      "https://minmod.isi.edu/users/s/umn"
+    ],
+    "modified_at": "2024-10-26T18:39:17Z"
+  }
+]
