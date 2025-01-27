@@ -1,27 +1,6 @@
 [
   {
     "source_id": "https://mrdata.usgs.gov/sedznpb",
-    "record_id": "424",
-    "deposit_type_candidate": [
-      {
-        "source": "algorithm predictions, SRI deposit type classification, v2.1, 20241031",
-        "confidence": 0.2449678659439087,
-        "observed_name": "Iron silicate polymetallic",
-        "normalized_uri": "https://minmod.isi.edu/resource/Q401"
-      }
-    ],
-    "reference": [
-      {
-        "document": {
-          "uri": "https://mrdata.usgs.gov/sedznpb"
-        }
-      }
-    ],
-    "created_by": "https://minmod.isi.edu/users/s/sri",
-    "modified_at": "2024-11-06T19:07:12Z"
-  },
-  {
-    "source_id": "https://mrdata.usgs.gov/sedznpb",
     "record_id": "323",
     "deposit_type_candidate": [
       {
