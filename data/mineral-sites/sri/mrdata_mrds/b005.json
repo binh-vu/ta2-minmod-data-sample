@@ -7226,62 +7226,6 @@
   },
   {
     "source_id": "https://mrdata.usgs.gov/mrds",
-    "record_id": "10036188",
-    "site_rank": "D",
-    "deposit_type_candidate": [
-      {
-        "source": "algorithm predictions, SRI deposit type classification, v2.1, 20241031",
-        "confidence": 0.2609311401844025,
-        "observed_name": "Magnetite- dominant IOCG",
-        "normalized_uri": "https://minmod.isi.edu/resource/Q406"
-      },
-      {
-        "source": "algorithm predictions, SRI deposit type classification, v2.1, 20241031",
-        "confidence": 0.1923398405313492,
-        "observed_name": "Iron oxide poly- metallic",
-        "normalized_uri": "https://minmod.isi.edu/resource/Q402"
-      }
-    ],
-    "mineral_inventory": [
-      {
-        "reference": {
-          "document": {
-            "uri": "https://mrdata.usgs.gov/mrds"
-          }
-        },
-        "commodity": {
-          "source": "SRI database agent v0",
-          "confidence": 1.0,
-          "observed_name": "Iron",
-          "normalized_uri": "https://minmod.isi.edu/resource/Q561"
-        }
-      },
-      {
-        "reference": {
-          "document": {
-            "uri": "https://mrdata.usgs.gov/mrds"
-          }
-        },
-        "commodity": {
-          "source": "SRI database agent v0",
-          "confidence": 1.0,
-          "observed_name": "Copper",
-          "normalized_uri": "https://minmod.isi.edu/resource/Q538"
-        }
-      }
-    ],
-    "reference": [
-      {
-        "document": {
-          "uri": "https://mrdata.usgs.gov/mrds"
-        }
-      }
-    ],
-    "created_by": "https://minmod.isi.edu/users/s/sri",
-    "modified_at": "2024-11-06T11:13:06Z"
-  },
-  {
-    "source_id": "https://mrdata.usgs.gov/mrds",
     "record_id": "10262477",
     "site_rank": "D",
     "deposit_type_candidate": [
@@ -7323,6 +7267,62 @@
           "confidence": 1.0,
           "observed_name": "Lead",
           "normalized_uri": "https://minmod.isi.edu/resource/Q565"
+        }
+      }
+    ],
+    "reference": [
+      {
+        "document": {
+          "uri": "https://mrdata.usgs.gov/mrds"
+        }
+      }
+    ],
+    "created_by": "https://minmod.isi.edu/users/s/sri",
+    "modified_at": "2024-11-06T11:13:06Z"
+  },
+  {
+    "source_id": "https://mrdata.usgs.gov/mrds",
+    "record_id": "10036188",
+    "site_rank": "D",
+    "deposit_type_candidate": [
+      {
+        "source": "algorithm predictions, SRI deposit type classification, v2.1, 20241031",
+        "confidence": 0.2609311401844025,
+        "observed_name": "Magnetite- dominant IOCG",
+        "normalized_uri": "https://minmod.isi.edu/resource/Q406"
+      },
+      {
+        "source": "algorithm predictions, SRI deposit type classification, v2.1, 20241031",
+        "confidence": 0.1923398405313492,
+        "observed_name": "Iron oxide poly- metallic",
+        "normalized_uri": "https://minmod.isi.edu/resource/Q402"
+      }
+    ],
+    "mineral_inventory": [
+      {
+        "reference": {
+          "document": {
+            "uri": "https://mrdata.usgs.gov/mrds"
+          }
+        },
+        "commodity": {
+          "source": "SRI database agent v0",
+          "confidence": 1.0,
+          "observed_name": "Iron",
+          "normalized_uri": "https://minmod.isi.edu/resource/Q561"
+        }
+      },
+      {
+        "reference": {
+          "document": {
+            "uri": "https://mrdata.usgs.gov/mrds"
+          }
+        },
+        "commodity": {
+          "source": "SRI database agent v0",
+          "confidence": 1.0,
+          "observed_name": "Copper",
+          "normalized_uri": "https://minmod.isi.edu/resource/Q538"
         }
       }
     ],
@@ -10549,49 +10549,6 @@
   },
   {
     "source_id": "https://mrdata.usgs.gov/mrds",
-    "record_id": "10136172",
-    "site_rank": "D",
-    "deposit_type_candidate": [
-      {
-        "source": "algorithm predictions, SRI deposit type classification, v2.1, 20241031",
-        "confidence": 0.3193434029817581,
-        "observed_name": "Residual clay",
-        "normalized_uri": "https://minmod.isi.edu/resource/Q322"
-      },
-      {
-        "source": "algorithm predictions, SRI deposit type classification, v2.1, 20241031",
-        "confidence": 0.3106727600097656,
-        "observed_name": "Bauxite",
-        "normalized_uri": "https://minmod.isi.edu/resource/Q317"
-      }
-    ],
-    "mineral_inventory": [
-      {
-        "reference": {
-          "document": {
-            "uri": "https://mrdata.usgs.gov/mrds"
-          }
-        },
-        "commodity": {
-          "source": "SRI database agent v0",
-          "confidence": 1.0,
-          "observed_name": "Aluminum",
-          "normalized_uri": "https://minmod.isi.edu/resource/Q506"
-        }
-      }
-    ],
-    "reference": [
-      {
-        "document": {
-          "uri": "https://mrdata.usgs.gov/mrds"
-        }
-      }
-    ],
-    "created_by": "https://minmod.isi.edu/users/s/sri",
-    "modified_at": "2024-11-06T11:13:06Z"
-  },
-  {
-    "source_id": "https://mrdata.usgs.gov/mrds",
     "record_id": "10208874",
     "site_rank": "D",
     "deposit_type_candidate": [
@@ -10649,6 +10606,49 @@
         "confidence": 0.28456692695617675,
         "observed_name": "Karst bauxite",
         "normalized_uri": "https://minmod.isi.edu/resource/Q318"
+      }
+    ],
+    "mineral_inventory": [
+      {
+        "reference": {
+          "document": {
+            "uri": "https://mrdata.usgs.gov/mrds"
+          }
+        },
+        "commodity": {
+          "source": "SRI database agent v0",
+          "confidence": 1.0,
+          "observed_name": "Aluminum",
+          "normalized_uri": "https://minmod.isi.edu/resource/Q506"
+        }
+      }
+    ],
+    "reference": [
+      {
+        "document": {
+          "uri": "https://mrdata.usgs.gov/mrds"
+        }
+      }
+    ],
+    "created_by": "https://minmod.isi.edu/users/s/sri",
+    "modified_at": "2024-11-06T11:13:06Z"
+  },
+  {
+    "source_id": "https://mrdata.usgs.gov/mrds",
+    "record_id": "10136172",
+    "site_rank": "D",
+    "deposit_type_candidate": [
+      {
+        "source": "algorithm predictions, SRI deposit type classification, v2.1, 20241031",
+        "confidence": 0.3193434029817581,
+        "observed_name": "Residual clay",
+        "normalized_uri": "https://minmod.isi.edu/resource/Q322"
+      },
+      {
+        "source": "algorithm predictions, SRI deposit type classification, v2.1, 20241031",
+        "confidence": 0.3106727600097656,
+        "observed_name": "Bauxite",
+        "normalized_uri": "https://minmod.isi.edu/resource/Q317"
       }
     ],
     "mineral_inventory": [
@@ -12922,18 +12922,74 @@
   },
   {
     "source_id": "https://mrdata.usgs.gov/mrds",
-    "record_id": "10221210",
+    "record_id": "10171915",
     "site_rank": "D",
     "deposit_type_candidate": [
       {
         "source": "algorithm predictions, SRI deposit type classification, v2.1, 20241031",
-        "confidence": 0.53586266040802,
+        "confidence": 0.6090157806873322,
         "observed_name": "MVT zinc-lead",
         "normalized_uri": "https://minmod.isi.edu/resource/Q380"
       },
       {
         "source": "algorithm predictions, SRI deposit type classification, v2.1, 20241031",
-        "confidence": 0.24526095092296601,
+        "confidence": 0.20211095362901688,
+        "observed_name": "Irish-type sediment- hosted zinc- lead",
+        "normalized_uri": "https://minmod.isi.edu/resource/Q378"
+      }
+    ],
+    "mineral_inventory": [
+      {
+        "reference": {
+          "document": {
+            "uri": "https://mrdata.usgs.gov/mrds"
+          }
+        },
+        "commodity": {
+          "source": "SRI database agent v0",
+          "confidence": 1.0,
+          "observed_name": "Lead",
+          "normalized_uri": "https://minmod.isi.edu/resource/Q565"
+        }
+      },
+      {
+        "reference": {
+          "document": {
+            "uri": "https://mrdata.usgs.gov/mrds"
+          }
+        },
+        "commodity": {
+          "source": "SRI database agent v0",
+          "confidence": 1.0,
+          "observed_name": "Zinc",
+          "normalized_uri": "https://minmod.isi.edu/resource/Q589"
+        }
+      }
+    ],
+    "reference": [
+      {
+        "document": {
+          "uri": "https://mrdata.usgs.gov/mrds"
+        }
+      }
+    ],
+    "created_by": "https://minmod.isi.edu/users/s/sri",
+    "modified_at": "2024-11-06T11:13:06Z"
+  },
+  {
+    "source_id": "https://mrdata.usgs.gov/mrds",
+    "record_id": "10293293",
+    "site_rank": "D",
+    "deposit_type_candidate": [
+      {
+        "source": "algorithm predictions, SRI deposit type classification, v2.1, 20241031",
+        "confidence": 0.5218306839466095,
+        "observed_name": "MVT zinc-lead",
+        "normalized_uri": "https://minmod.isi.edu/resource/Q380"
+      },
+      {
+        "source": "algorithm predictions, SRI deposit type classification, v2.1, 20241031",
+        "confidence": 0.2981115192174912,
         "observed_name": "Irish-type sediment- hosted zinc- lead",
         "normalized_uri": "https://minmod.isi.edu/resource/Q378"
       }
@@ -13084,20 +13140,126 @@
   },
   {
     "source_id": "https://mrdata.usgs.gov/mrds",
-    "record_id": "10147609",
+    "record_id": "10269825",
     "site_rank": "D",
     "deposit_type_candidate": [
       {
         "source": "algorithm predictions, SRI deposit type classification, v2.1, 20241031",
-        "confidence": 0.5347464323043823,
+        "confidence": 0.6644370317459106,
         "observed_name": "MVT zinc-lead",
         "normalized_uri": "https://minmod.isi.edu/resource/Q380"
       },
       {
         "source": "algorithm predictions, SRI deposit type classification, v2.1, 20241031",
-        "confidence": 0.24494431614875795,
+        "confidence": 0.20483040511608125,
         "observed_name": "Irish-type sediment- hosted zinc- lead",
         "normalized_uri": "https://minmod.isi.edu/resource/Q378"
+      }
+    ],
+    "mineral_inventory": [
+      {
+        "reference": {
+          "document": {
+            "uri": "https://mrdata.usgs.gov/mrds"
+          }
+        },
+        "commodity": {
+          "source": "SRI database agent v0",
+          "confidence": 1.0,
+          "observed_name": "Lead",
+          "normalized_uri": "https://minmod.isi.edu/resource/Q565"
+        }
+      },
+      {
+        "reference": {
+          "document": {
+            "uri": "https://mrdata.usgs.gov/mrds"
+          }
+        },
+        "commodity": {
+          "source": "SRI database agent v0",
+          "confidence": 1.0,
+          "observed_name": "Zinc",
+          "normalized_uri": "https://minmod.isi.edu/resource/Q589"
+        }
+      }
+    ],
+    "reference": [
+      {
+        "document": {
+          "uri": "https://mrdata.usgs.gov/mrds"
+        }
+      }
+    ],
+    "created_by": "https://minmod.isi.edu/users/s/sri",
+    "modified_at": "2024-11-06T11:13:06Z"
+  },
+  {
+    "source_id": "https://mrdata.usgs.gov/mrds",
+    "record_id": "10171702",
+    "site_rank": "D",
+    "deposit_type_candidate": [
+      {
+        "source": "algorithm predictions, SRI deposit type classification, v2.1, 20241031",
+        "confidence": 0.5386898696422577,
+        "observed_name": "MVT zinc-lead",
+        "normalized_uri": "https://minmod.isi.edu/resource/Q380"
+      },
+      {
+        "source": "algorithm predictions, SRI deposit type classification, v2.1, 20241031",
+        "confidence": 0.23330532610416413,
+        "observed_name": "Irish-type sediment- hosted zinc- lead",
+        "normalized_uri": "https://minmod.isi.edu/resource/Q378"
+      }
+    ],
+    "mineral_inventory": [
+      {
+        "reference": {
+          "document": {
+            "uri": "https://mrdata.usgs.gov/mrds"
+          }
+        },
+        "commodity": {
+          "source": "SRI database agent v0",
+          "confidence": 1.0,
+          "observed_name": "Lead",
+          "normalized_uri": "https://minmod.isi.edu/resource/Q565"
+        }
+      },
+      {
+        "reference": {
+          "document": {
+            "uri": "https://mrdata.usgs.gov/mrds"
+          }
+        },
+        "commodity": {
+          "source": "SRI database agent v0",
+          "confidence": 1.0,
+          "observed_name": "Zinc",
+          "normalized_uri": "https://minmod.isi.edu/resource/Q589"
+        }
+      }
+    ],
+    "reference": [
+      {
+        "document": {
+          "uri": "https://mrdata.usgs.gov/mrds"
+        }
+      }
+    ],
+    "created_by": "https://minmod.isi.edu/users/s/sri",
+    "modified_at": "2024-11-06T11:13:06Z"
+  },
+  {
+    "source_id": "https://mrdata.usgs.gov/mrds",
+    "record_id": "10124098",
+    "site_rank": "D",
+    "deposit_type_candidate": [
+      {
+        "source": "algorithm predictions, SRI deposit type classification, v2.1, 20241031",
+        "confidence": 0.69310040473938,
+        "observed_name": "MVT zinc-lead",
+        "normalized_uri": "https://minmod.isi.edu/resource/Q380"
       }
     ],
     "mineral_inventory": [
@@ -13196,230 +13358,18 @@
   },
   {
     "source_id": "https://mrdata.usgs.gov/mrds",
-    "record_id": "10171915",
+    "record_id": "10147609",
     "site_rank": "D",
     "deposit_type_candidate": [
       {
         "source": "algorithm predictions, SRI deposit type classification, v2.1, 20241031",
-        "confidence": 0.6090157806873322,
+        "confidence": 0.5347464323043823,
         "observed_name": "MVT zinc-lead",
         "normalized_uri": "https://minmod.isi.edu/resource/Q380"
       },
       {
         "source": "algorithm predictions, SRI deposit type classification, v2.1, 20241031",
-        "confidence": 0.20211095362901688,
-        "observed_name": "Irish-type sediment- hosted zinc- lead",
-        "normalized_uri": "https://minmod.isi.edu/resource/Q378"
-      }
-    ],
-    "mineral_inventory": [
-      {
-        "reference": {
-          "document": {
-            "uri": "https://mrdata.usgs.gov/mrds"
-          }
-        },
-        "commodity": {
-          "source": "SRI database agent v0",
-          "confidence": 1.0,
-          "observed_name": "Lead",
-          "normalized_uri": "https://minmod.isi.edu/resource/Q565"
-        }
-      },
-      {
-        "reference": {
-          "document": {
-            "uri": "https://mrdata.usgs.gov/mrds"
-          }
-        },
-        "commodity": {
-          "source": "SRI database agent v0",
-          "confidence": 1.0,
-          "observed_name": "Zinc",
-          "normalized_uri": "https://minmod.isi.edu/resource/Q589"
-        }
-      }
-    ],
-    "reference": [
-      {
-        "document": {
-          "uri": "https://mrdata.usgs.gov/mrds"
-        }
-      }
-    ],
-    "created_by": "https://minmod.isi.edu/users/s/sri",
-    "modified_at": "2024-11-06T11:13:06Z"
-  },
-  {
-    "source_id": "https://mrdata.usgs.gov/mrds",
-    "record_id": "10244552",
-    "site_rank": "D",
-    "deposit_type_candidate": [
-      {
-        "source": "algorithm predictions, SRI deposit type classification, v2.1, 20241031",
-        "confidence": 0.7012741684913636,
-        "observed_name": "MVT zinc-lead",
-        "normalized_uri": "https://minmod.isi.edu/resource/Q380"
-      }
-    ],
-    "mineral_inventory": [
-      {
-        "reference": {
-          "document": {
-            "uri": "https://mrdata.usgs.gov/mrds"
-          }
-        },
-        "commodity": {
-          "source": "SRI database agent v0",
-          "confidence": 1.0,
-          "observed_name": "Lead",
-          "normalized_uri": "https://minmod.isi.edu/resource/Q565"
-        }
-      },
-      {
-        "reference": {
-          "document": {
-            "uri": "https://mrdata.usgs.gov/mrds"
-          }
-        },
-        "commodity": {
-          "source": "SRI database agent v0",
-          "confidence": 1.0,
-          "observed_name": "Zinc",
-          "normalized_uri": "https://minmod.isi.edu/resource/Q589"
-        }
-      }
-    ],
-    "reference": [
-      {
-        "document": {
-          "uri": "https://mrdata.usgs.gov/mrds"
-        }
-      }
-    ],
-    "created_by": "https://minmod.isi.edu/users/s/sri",
-    "modified_at": "2024-11-06T11:13:06Z"
-  },
-  {
-    "source_id": "https://mrdata.usgs.gov/mrds",
-    "record_id": "10293293",
-    "site_rank": "D",
-    "deposit_type_candidate": [
-      {
-        "source": "algorithm predictions, SRI deposit type classification, v2.1, 20241031",
-        "confidence": 0.5218306839466095,
-        "observed_name": "MVT zinc-lead",
-        "normalized_uri": "https://minmod.isi.edu/resource/Q380"
-      },
-      {
-        "source": "algorithm predictions, SRI deposit type classification, v2.1, 20241031",
-        "confidence": 0.2981115192174912,
-        "observed_name": "Irish-type sediment- hosted zinc- lead",
-        "normalized_uri": "https://minmod.isi.edu/resource/Q378"
-      }
-    ],
-    "mineral_inventory": [
-      {
-        "reference": {
-          "document": {
-            "uri": "https://mrdata.usgs.gov/mrds"
-          }
-        },
-        "commodity": {
-          "source": "SRI database agent v0",
-          "confidence": 1.0,
-          "observed_name": "Lead",
-          "normalized_uri": "https://minmod.isi.edu/resource/Q565"
-        }
-      },
-      {
-        "reference": {
-          "document": {
-            "uri": "https://mrdata.usgs.gov/mrds"
-          }
-        },
-        "commodity": {
-          "source": "SRI database agent v0",
-          "confidence": 1.0,
-          "observed_name": "Zinc",
-          "normalized_uri": "https://minmod.isi.edu/resource/Q589"
-        }
-      }
-    ],
-    "reference": [
-      {
-        "document": {
-          "uri": "https://mrdata.usgs.gov/mrds"
-        }
-      }
-    ],
-    "created_by": "https://minmod.isi.edu/users/s/sri",
-    "modified_at": "2024-11-06T11:13:06Z"
-  },
-  {
-    "source_id": "https://mrdata.usgs.gov/mrds",
-    "record_id": "10124098",
-    "site_rank": "D",
-    "deposit_type_candidate": [
-      {
-        "source": "algorithm predictions, SRI deposit type classification, v2.1, 20241031",
-        "confidence": 0.69310040473938,
-        "observed_name": "MVT zinc-lead",
-        "normalized_uri": "https://minmod.isi.edu/resource/Q380"
-      }
-    ],
-    "mineral_inventory": [
-      {
-        "reference": {
-          "document": {
-            "uri": "https://mrdata.usgs.gov/mrds"
-          }
-        },
-        "commodity": {
-          "source": "SRI database agent v0",
-          "confidence": 1.0,
-          "observed_name": "Lead",
-          "normalized_uri": "https://minmod.isi.edu/resource/Q565"
-        }
-      },
-      {
-        "reference": {
-          "document": {
-            "uri": "https://mrdata.usgs.gov/mrds"
-          }
-        },
-        "commodity": {
-          "source": "SRI database agent v0",
-          "confidence": 1.0,
-          "observed_name": "Zinc",
-          "normalized_uri": "https://minmod.isi.edu/resource/Q589"
-        }
-      }
-    ],
-    "reference": [
-      {
-        "document": {
-          "uri": "https://mrdata.usgs.gov/mrds"
-        }
-      }
-    ],
-    "created_by": "https://minmod.isi.edu/users/s/sri",
-    "modified_at": "2024-11-06T11:13:06Z"
-  },
-  {
-    "source_id": "https://mrdata.usgs.gov/mrds",
-    "record_id": "10269825",
-    "site_rank": "D",
-    "deposit_type_candidate": [
-      {
-        "source": "algorithm predictions, SRI deposit type classification, v2.1, 20241031",
-        "confidence": 0.6644370317459106,
-        "observed_name": "MVT zinc-lead",
-        "normalized_uri": "https://minmod.isi.edu/resource/Q380"
-      },
-      {
-        "source": "algorithm predictions, SRI deposit type classification, v2.1, 20241031",
-        "confidence": 0.20483040511608125,
+        "confidence": 0.24494431614875795,
         "observed_name": "Irish-type sediment- hosted zinc- lead",
         "normalized_uri": "https://minmod.isi.edu/resource/Q378"
       }
@@ -13514,20 +13464,70 @@
   },
   {
     "source_id": "https://mrdata.usgs.gov/mrds",
-    "record_id": "10171702",
+    "record_id": "10221210",
     "site_rank": "D",
     "deposit_type_candidate": [
       {
         "source": "algorithm predictions, SRI deposit type classification, v2.1, 20241031",
-        "confidence": 0.5386898696422577,
+        "confidence": 0.53586266040802,
         "observed_name": "MVT zinc-lead",
         "normalized_uri": "https://minmod.isi.edu/resource/Q380"
       },
       {
         "source": "algorithm predictions, SRI deposit type classification, v2.1, 20241031",
-        "confidence": 0.23330532610416413,
+        "confidence": 0.24526095092296601,
         "observed_name": "Irish-type sediment- hosted zinc- lead",
         "normalized_uri": "https://minmod.isi.edu/resource/Q378"
+      }
+    ],
+    "mineral_inventory": [
+      {
+        "reference": {
+          "document": {
+            "uri": "https://mrdata.usgs.gov/mrds"
+          }
+        },
+        "commodity": {
+          "source": "SRI database agent v0",
+          "confidence": 1.0,
+          "observed_name": "Lead",
+          "normalized_uri": "https://minmod.isi.edu/resource/Q565"
+        }
+      },
+      {
+        "reference": {
+          "document": {
+            "uri": "https://mrdata.usgs.gov/mrds"
+          }
+        },
+        "commodity": {
+          "source": "SRI database agent v0",
+          "confidence": 1.0,
+          "observed_name": "Zinc",
+          "normalized_uri": "https://minmod.isi.edu/resource/Q589"
+        }
+      }
+    ],
+    "reference": [
+      {
+        "document": {
+          "uri": "https://mrdata.usgs.gov/mrds"
+        }
+      }
+    ],
+    "created_by": "https://minmod.isi.edu/users/s/sri",
+    "modified_at": "2024-11-06T11:13:06Z"
+  },
+  {
+    "source_id": "https://mrdata.usgs.gov/mrds",
+    "record_id": "10244552",
+    "site_rank": "D",
+    "deposit_type_candidate": [
+      {
+        "source": "algorithm predictions, SRI deposit type classification, v2.1, 20241031",
+        "confidence": 0.7012741684913636,
+        "observed_name": "MVT zinc-lead",
+        "normalized_uri": "https://minmod.isi.edu/resource/Q380"
       }
     ],
     "mineral_inventory": [
@@ -14345,62 +14345,6 @@
   },
   {
     "source_id": "https://mrdata.usgs.gov/mrds",
-    "record_id": "10147749",
-    "site_rank": "D",
-    "deposit_type_candidate": [
-      {
-        "source": "algorithm predictions, SRI deposit type classification, v2.1, 20241031",
-        "confidence": 0.49483666419982913,
-        "observed_name": "MVT zinc-lead",
-        "normalized_uri": "https://minmod.isi.edu/resource/Q380"
-      },
-      {
-        "source": "algorithm predictions, SRI deposit type classification, v2.1, 20241031",
-        "confidence": 0.22793972790241243,
-        "observed_name": "Irish-type sediment- hosted zinc- lead",
-        "normalized_uri": "https://minmod.isi.edu/resource/Q378"
-      }
-    ],
-    "mineral_inventory": [
-      {
-        "reference": {
-          "document": {
-            "uri": "https://mrdata.usgs.gov/mrds"
-          }
-        },
-        "commodity": {
-          "source": "SRI database agent v0",
-          "confidence": 1.0,
-          "observed_name": "Lead",
-          "normalized_uri": "https://minmod.isi.edu/resource/Q565"
-        }
-      },
-      {
-        "reference": {
-          "document": {
-            "uri": "https://mrdata.usgs.gov/mrds"
-          }
-        },
-        "commodity": {
-          "source": "SRI database agent v0",
-          "confidence": 1.0,
-          "observed_name": "Zinc",
-          "normalized_uri": "https://minmod.isi.edu/resource/Q589"
-        }
-      }
-    ],
-    "reference": [
-      {
-        "document": {
-          "uri": "https://mrdata.usgs.gov/mrds"
-        }
-      }
-    ],
-    "created_by": "https://minmod.isi.edu/users/s/sri",
-    "modified_at": "2024-11-06T11:13:06Z"
-  },
-  {
-    "source_id": "https://mrdata.usgs.gov/mrds",
     "record_id": "10220595",
     "site_rank": "D",
     "deposit_type_candidate": [
@@ -14457,12 +14401,12 @@
   },
   {
     "source_id": "https://mrdata.usgs.gov/mrds",
-    "record_id": "10294071",
+    "record_id": "10219950",
     "site_rank": "D",
     "deposit_type_candidate": [
       {
         "source": "algorithm predictions, SRI deposit type classification, v2.1, 20241031",
-        "confidence": 0.6614209949970246,
+        "confidence": 0.6204793274402619,
         "observed_name": "MVT zinc-lead",
         "normalized_uri": "https://minmod.isi.edu/resource/Q380"
       }
@@ -14557,14 +14501,70 @@
   },
   {
     "source_id": "https://mrdata.usgs.gov/mrds",
-    "record_id": "10219950",
+    "record_id": "10294071",
     "site_rank": "D",
     "deposit_type_candidate": [
       {
         "source": "algorithm predictions, SRI deposit type classification, v2.1, 20241031",
-        "confidence": 0.6204793274402619,
+        "confidence": 0.6614209949970246,
         "observed_name": "MVT zinc-lead",
         "normalized_uri": "https://minmod.isi.edu/resource/Q380"
+      }
+    ],
+    "mineral_inventory": [
+      {
+        "reference": {
+          "document": {
+            "uri": "https://mrdata.usgs.gov/mrds"
+          }
+        },
+        "commodity": {
+          "source": "SRI database agent v0",
+          "confidence": 1.0,
+          "observed_name": "Lead",
+          "normalized_uri": "https://minmod.isi.edu/resource/Q565"
+        }
+      },
+      {
+        "reference": {
+          "document": {
+            "uri": "https://mrdata.usgs.gov/mrds"
+          }
+        },
+        "commodity": {
+          "source": "SRI database agent v0",
+          "confidence": 1.0,
+          "observed_name": "Zinc",
+          "normalized_uri": "https://minmod.isi.edu/resource/Q589"
+        }
+      }
+    ],
+    "reference": [
+      {
+        "document": {
+          "uri": "https://mrdata.usgs.gov/mrds"
+        }
+      }
+    ],
+    "created_by": "https://minmod.isi.edu/users/s/sri",
+    "modified_at": "2024-11-06T11:13:06Z"
+  },
+  {
+    "source_id": "https://mrdata.usgs.gov/mrds",
+    "record_id": "10147749",
+    "site_rank": "D",
+    "deposit_type_candidate": [
+      {
+        "source": "algorithm predictions, SRI deposit type classification, v2.1, 20241031",
+        "confidence": 0.49483666419982913,
+        "observed_name": "MVT zinc-lead",
+        "normalized_uri": "https://minmod.isi.edu/resource/Q380"
+      },
+      {
+        "source": "algorithm predictions, SRI deposit type classification, v2.1, 20241031",
+        "confidence": 0.22793972790241243,
+        "observed_name": "Irish-type sediment- hosted zinc- lead",
+        "normalized_uri": "https://minmod.isi.edu/resource/Q378"
       }
     ],
     "mineral_inventory": [
@@ -14825,20 +14825,14 @@
   },
   {
     "source_id": "https://mrdata.usgs.gov/mrds",
-    "record_id": "10244772",
+    "record_id": "10196150",
     "site_rank": "D",
     "deposit_type_candidate": [
       {
         "source": "algorithm predictions, SRI deposit type classification, v2.1, 20241031",
-        "confidence": 0.24457771182060242,
+        "confidence": 0.18471694886684417,
         "observed_name": "MVT zinc-lead",
         "normalized_uri": "https://minmod.isi.edu/resource/Q380"
-      },
-      {
-        "source": "algorithm predictions, SRI deposit type classification, v2.1, 20241031",
-        "confidence": 0.243000465631485,
-        "observed_name": "Irish-type sediment- hosted zinc- lead",
-        "normalized_uri": "https://minmod.isi.edu/resource/Q378"
       }
     ],
     "mineral_inventory": [
@@ -14881,14 +14875,20 @@
   },
   {
     "source_id": "https://mrdata.usgs.gov/mrds",
-    "record_id": "10196150",
+    "record_id": "10244772",
     "site_rank": "D",
     "deposit_type_candidate": [
       {
         "source": "algorithm predictions, SRI deposit type classification, v2.1, 20241031",
-        "confidence": 0.18471694886684417,
+        "confidence": 0.24457771182060242,
         "observed_name": "MVT zinc-lead",
         "normalized_uri": "https://minmod.isi.edu/resource/Q380"
+      },
+      {
+        "source": "algorithm predictions, SRI deposit type classification, v2.1, 20241031",
+        "confidence": 0.243000465631485,
+        "observed_name": "Irish-type sediment- hosted zinc- lead",
+        "normalized_uri": "https://minmod.isi.edu/resource/Q378"
       }
     ],
     "mineral_inventory": [

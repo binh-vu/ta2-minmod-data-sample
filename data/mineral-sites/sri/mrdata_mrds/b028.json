@@ -7220,6 +7220,49 @@
   },
   {
     "source_id": "https://mrdata.usgs.gov/mrds",
+    "record_id": "10259922",
+    "site_rank": "D",
+    "deposit_type_candidate": [
+      {
+        "source": "algorithm predictions, SRI crosswalk agent v0",
+        "confidence": 1.0,
+        "observed_name": "Bimodal felsic VMS",
+        "normalized_uri": "https://minmod.isi.edu/resource/Q412"
+      },
+      {
+        "source": "algorithm predictions, SRI deposit type classification, v2.1, 20241031",
+        "confidence": 0.18478353470563888,
+        "observed_name": "Bimodal felsic VMS",
+        "normalized_uri": "https://minmod.isi.edu/resource/Q412"
+      }
+    ],
+    "mineral_inventory": [
+      {
+        "reference": {
+          "document": {
+            "uri": "https://mrdata.usgs.gov/mrds"
+          }
+        },
+        "commodity": {
+          "source": "SRI database agent v0",
+          "confidence": 1.0,
+          "observed_name": "Copper",
+          "normalized_uri": "https://minmod.isi.edu/resource/Q538"
+        }
+      }
+    ],
+    "reference": [
+      {
+        "document": {
+          "uri": "https://mrdata.usgs.gov/mrds"
+        }
+      }
+    ],
+    "created_by": "https://minmod.isi.edu/users/s/sri",
+    "modified_at": "2024-11-06T11:13:06Z"
+  },
+  {
+    "source_id": "https://mrdata.usgs.gov/mrds",
     "record_id": "10089676",
     "site_rank": "C",
     "deposit_type_candidate": [
@@ -7274,49 +7317,6 @@
           "confidence": 1.0,
           "observed_name": "Zinc",
           "normalized_uri": "https://minmod.isi.edu/resource/Q589"
-        }
-      }
-    ],
-    "reference": [
-      {
-        "document": {
-          "uri": "https://mrdata.usgs.gov/mrds"
-        }
-      }
-    ],
-    "created_by": "https://minmod.isi.edu/users/s/sri",
-    "modified_at": "2024-11-06T11:13:06Z"
-  },
-  {
-    "source_id": "https://mrdata.usgs.gov/mrds",
-    "record_id": "10259922",
-    "site_rank": "D",
-    "deposit_type_candidate": [
-      {
-        "source": "algorithm predictions, SRI crosswalk agent v0",
-        "confidence": 1.0,
-        "observed_name": "Bimodal felsic VMS",
-        "normalized_uri": "https://minmod.isi.edu/resource/Q412"
-      },
-      {
-        "source": "algorithm predictions, SRI deposit type classification, v2.1, 20241031",
-        "confidence": 0.18478353470563888,
-        "observed_name": "Bimodal felsic VMS",
-        "normalized_uri": "https://minmod.isi.edu/resource/Q412"
-      }
-    ],
-    "mineral_inventory": [
-      {
-        "reference": {
-          "document": {
-            "uri": "https://mrdata.usgs.gov/mrds"
-          }
-        },
-        "commodity": {
-          "source": "SRI database agent v0",
-          "confidence": 1.0,
-          "observed_name": "Copper",
-          "normalized_uri": "https://minmod.isi.edu/resource/Q538"
         }
       }
     ],
@@ -8957,6 +8957,49 @@
   },
   {
     "source_id": "https://mrdata.usgs.gov/mrds",
+    "record_id": "10278636",
+    "site_rank": "D",
+    "deposit_type_candidate": [
+      {
+        "source": "algorithm predictions, SRI deposit type classification, v2.1, 20241031",
+        "confidence": 0.26028998494148253,
+        "observed_name": "Sandstone uranium",
+        "normalized_uri": "https://minmod.isi.edu/resource/Q336"
+      },
+      {
+        "source": "algorithm predictions, SRI deposit type classification, v2.1, 20241031",
+        "confidence": 0.24723610281944275,
+        "observed_name": "Supergene uranium",
+        "normalized_uri": "https://minmod.isi.edu/resource/Q327"
+      }
+    ],
+    "mineral_inventory": [
+      {
+        "reference": {
+          "document": {
+            "uri": "https://mrdata.usgs.gov/mrds"
+          }
+        },
+        "commodity": {
+          "source": "SRI database agent v0",
+          "confidence": 1.0,
+          "observed_name": "Uranium",
+          "normalized_uri": "https://minmod.isi.edu/resource/Q588"
+        }
+      }
+    ],
+    "reference": [
+      {
+        "document": {
+          "uri": "https://mrdata.usgs.gov/mrds"
+        }
+      }
+    ],
+    "created_by": "https://minmod.isi.edu/users/s/sri",
+    "modified_at": "2024-11-06T11:13:06Z"
+  },
+  {
+    "source_id": "https://mrdata.usgs.gov/mrds",
     "record_id": "10208345",
     "site_rank": "D",
     "deposit_type_candidate": [
@@ -9031,49 +9074,6 @@
   },
   {
     "source_id": "https://mrdata.usgs.gov/mrds",
-    "record_id": "10278636",
-    "site_rank": "D",
-    "deposit_type_candidate": [
-      {
-        "source": "algorithm predictions, SRI deposit type classification, v2.1, 20241031",
-        "confidence": 0.26028998494148253,
-        "observed_name": "Sandstone uranium",
-        "normalized_uri": "https://minmod.isi.edu/resource/Q336"
-      },
-      {
-        "source": "algorithm predictions, SRI deposit type classification, v2.1, 20241031",
-        "confidence": 0.24723610281944275,
-        "observed_name": "Supergene uranium",
-        "normalized_uri": "https://minmod.isi.edu/resource/Q327"
-      }
-    ],
-    "mineral_inventory": [
-      {
-        "reference": {
-          "document": {
-            "uri": "https://mrdata.usgs.gov/mrds"
-          }
-        },
-        "commodity": {
-          "source": "SRI database agent v0",
-          "confidence": 1.0,
-          "observed_name": "Uranium",
-          "normalized_uri": "https://minmod.isi.edu/resource/Q588"
-        }
-      }
-    ],
-    "reference": [
-      {
-        "document": {
-          "uri": "https://mrdata.usgs.gov/mrds"
-        }
-      }
-    ],
-    "created_by": "https://minmod.isi.edu/users/s/sri",
-    "modified_at": "2024-11-06T11:13:06Z"
-  },
-  {
-    "source_id": "https://mrdata.usgs.gov/mrds",
     "record_id": "10132366",
     "site_rank": "D",
     "deposit_type_candidate": [
@@ -9111,12 +9111,12 @@
   },
   {
     "source_id": "https://mrdata.usgs.gov/mrds",
-    "record_id": "10132182",
+    "record_id": "10279217",
     "site_rank": "D",
     "deposit_type_candidate": [
       {
         "source": "algorithm predictions, SRI deposit type classification, v2.1, 20241031",
-        "confidence": 0.5319743692874909,
+        "confidence": 0.31103622615337373,
         "observed_name": "Sandstone uranium",
         "normalized_uri": "https://minmod.isi.edu/resource/Q336"
       }
@@ -9148,12 +9148,12 @@
   },
   {
     "source_id": "https://mrdata.usgs.gov/mrds",
-    "record_id": "10279217",
+    "record_id": "10132182",
     "site_rank": "D",
     "deposit_type_candidate": [
       {
         "source": "algorithm predictions, SRI deposit type classification, v2.1, 20241031",
-        "confidence": 0.31103622615337373,
+        "confidence": 0.5319743692874909,
         "observed_name": "Sandstone uranium",
         "normalized_uri": "https://minmod.isi.edu/resource/Q336"
       }
@@ -9396,14 +9396,14 @@
   },
   {
     "source_id": "https://mrdata.usgs.gov/mrds",
-    "record_id": "10182141",
+    "record_id": "10181614",
     "site_rank": "D",
     "deposit_type_candidate": [
       {
         "source": "algorithm predictions, SRI deposit type classification, v2.1, 20241031",
-        "confidence": 0.18940127938985826,
-        "observed_name": "Sandstone uranium",
-        "normalized_uri": "https://minmod.isi.edu/resource/Q336"
+        "confidence": 0.22852179408073425,
+        "observed_name": "Coal/peat/bog uranium",
+        "normalized_uri": "https://minmod.isi.edu/resource/Q338"
       }
     ],
     "mineral_inventory": [
@@ -9433,14 +9433,14 @@
   },
   {
     "source_id": "https://mrdata.usgs.gov/mrds",
-    "record_id": "10181614",
+    "record_id": "10182141",
     "site_rank": "D",
     "deposit_type_candidate": [
       {
         "source": "algorithm predictions, SRI deposit type classification, v2.1, 20241031",
-        "confidence": 0.22852179408073425,
-        "observed_name": "Coal/peat/bog uranium",
-        "normalized_uri": "https://minmod.isi.edu/resource/Q338"
+        "confidence": 0.18940127938985826,
+        "observed_name": "Sandstone uranium",
+        "normalized_uri": "https://minmod.isi.edu/resource/Q336"
       }
     ],
     "mineral_inventory": [
@@ -10298,18 +10298,18 @@
   },
   {
     "source_id": "https://mrdata.usgs.gov/mrds",
-    "record_id": "10233291",
+    "record_id": "10233139",
     "site_rank": "D",
     "deposit_type_candidate": [
       {
         "source": "algorithm predictions, SRI deposit type classification, v2.1, 20241031",
-        "confidence": 0.589317798614502,
+        "confidence": 0.7000140666961671,
         "observed_name": "Bauxite",
         "normalized_uri": "https://minmod.isi.edu/resource/Q317"
       },
       {
         "source": "algorithm predictions, SRI deposit type classification, v2.1, 20241031",
-        "confidence": 0.3063691556453705,
+        "confidence": 0.1997876912355423,
         "observed_name": "Karst bauxite",
         "normalized_uri": "https://minmod.isi.edu/resource/Q318"
       }
@@ -10341,18 +10341,18 @@
   },
   {
     "source_id": "https://mrdata.usgs.gov/mrds",
-    "record_id": "10233139",
+    "record_id": "10233291",
     "site_rank": "D",
     "deposit_type_candidate": [
       {
         "source": "algorithm predictions, SRI deposit type classification, v2.1, 20241031",
-        "confidence": 0.7000140666961671,
+        "confidence": 0.589317798614502,
         "observed_name": "Bauxite",
         "normalized_uri": "https://minmod.isi.edu/resource/Q317"
       },
       {
         "source": "algorithm predictions, SRI deposit type classification, v2.1, 20241031",
-        "confidence": 0.1997876912355423,
+        "confidence": 0.3063691556453705,
         "observed_name": "Karst bauxite",
         "normalized_uri": "https://minmod.isi.edu/resource/Q318"
       }
@@ -10470,6 +10470,49 @@
   },
   {
     "source_id": "https://mrdata.usgs.gov/mrds",
+    "record_id": "10160548",
+    "site_rank": "D",
+    "deposit_type_candidate": [
+      {
+        "source": "algorithm predictions, SRI deposit type classification, v2.1, 20241031",
+        "confidence": 0.4172934919595718,
+        "observed_name": "Karst bauxite",
+        "normalized_uri": "https://minmod.isi.edu/resource/Q318"
+      },
+      {
+        "source": "algorithm predictions, SRI deposit type classification, v2.1, 20241031",
+        "confidence": 0.28620680272579196,
+        "observed_name": "Bauxite",
+        "normalized_uri": "https://minmod.isi.edu/resource/Q317"
+      }
+    ],
+    "mineral_inventory": [
+      {
+        "reference": {
+          "document": {
+            "uri": "https://mrdata.usgs.gov/mrds"
+          }
+        },
+        "commodity": {
+          "source": "SRI database agent v0",
+          "confidence": 1.0,
+          "observed_name": "Aluminum",
+          "normalized_uri": "https://minmod.isi.edu/resource/Q506"
+        }
+      }
+    ],
+    "reference": [
+      {
+        "document": {
+          "uri": "https://mrdata.usgs.gov/mrds"
+        }
+      }
+    ],
+    "created_by": "https://minmod.isi.edu/users/s/sri",
+    "modified_at": "2024-11-06T11:13:06Z"
+  },
+  {
+    "source_id": "https://mrdata.usgs.gov/mrds",
     "record_id": "10136286",
     "site_rank": "D",
     "deposit_type_candidate": [
@@ -10484,6 +10527,49 @@
         "confidence": 0.20336101055145264,
         "observed_name": "Karst bauxite",
         "normalized_uri": "https://minmod.isi.edu/resource/Q318"
+      }
+    ],
+    "mineral_inventory": [
+      {
+        "reference": {
+          "document": {
+            "uri": "https://mrdata.usgs.gov/mrds"
+          }
+        },
+        "commodity": {
+          "source": "SRI database agent v0",
+          "confidence": 1.0,
+          "observed_name": "Aluminum",
+          "normalized_uri": "https://minmod.isi.edu/resource/Q506"
+        }
+      }
+    ],
+    "reference": [
+      {
+        "document": {
+          "uri": "https://mrdata.usgs.gov/mrds"
+        }
+      }
+    ],
+    "created_by": "https://minmod.isi.edu/users/s/sri",
+    "modified_at": "2024-11-06T11:13:06Z"
+  },
+  {
+    "source_id": "https://mrdata.usgs.gov/mrds",
+    "record_id": "10257520",
+    "site_rank": "D",
+    "deposit_type_candidate": [
+      {
+        "source": "algorithm predictions, SRI deposit type classification, v2.1, 20241031",
+        "confidence": 0.5955818831920624,
+        "observed_name": "Karst bauxite",
+        "normalized_uri": "https://minmod.isi.edu/resource/Q318"
+      },
+      {
+        "source": "algorithm predictions, SRI deposit type classification, v2.1, 20241031",
+        "confidence": 0.2660032778978348,
+        "observed_name": "Bauxite",
+        "normalized_uri": "https://minmod.isi.edu/resource/Q317"
       }
     ],
     "mineral_inventory": [
@@ -10533,92 +10619,6 @@
         "confidence": 0.21412319988012316,
         "observed_name": "Karst bauxite",
         "normalized_uri": "https://minmod.isi.edu/resource/Q318"
-      }
-    ],
-    "mineral_inventory": [
-      {
-        "reference": {
-          "document": {
-            "uri": "https://mrdata.usgs.gov/mrds"
-          }
-        },
-        "commodity": {
-          "source": "SRI database agent v0",
-          "confidence": 1.0,
-          "observed_name": "Aluminum",
-          "normalized_uri": "https://minmod.isi.edu/resource/Q506"
-        }
-      }
-    ],
-    "reference": [
-      {
-        "document": {
-          "uri": "https://mrdata.usgs.gov/mrds"
-        }
-      }
-    ],
-    "created_by": "https://minmod.isi.edu/users/s/sri",
-    "modified_at": "2024-11-06T11:13:06Z"
-  },
-  {
-    "source_id": "https://mrdata.usgs.gov/mrds",
-    "record_id": "10160548",
-    "site_rank": "D",
-    "deposit_type_candidate": [
-      {
-        "source": "algorithm predictions, SRI deposit type classification, v2.1, 20241031",
-        "confidence": 0.4172934919595718,
-        "observed_name": "Karst bauxite",
-        "normalized_uri": "https://minmod.isi.edu/resource/Q318"
-      },
-      {
-        "source": "algorithm predictions, SRI deposit type classification, v2.1, 20241031",
-        "confidence": 0.28620680272579196,
-        "observed_name": "Bauxite",
-        "normalized_uri": "https://minmod.isi.edu/resource/Q317"
-      }
-    ],
-    "mineral_inventory": [
-      {
-        "reference": {
-          "document": {
-            "uri": "https://mrdata.usgs.gov/mrds"
-          }
-        },
-        "commodity": {
-          "source": "SRI database agent v0",
-          "confidence": 1.0,
-          "observed_name": "Aluminum",
-          "normalized_uri": "https://minmod.isi.edu/resource/Q506"
-        }
-      }
-    ],
-    "reference": [
-      {
-        "document": {
-          "uri": "https://mrdata.usgs.gov/mrds"
-        }
-      }
-    ],
-    "created_by": "https://minmod.isi.edu/users/s/sri",
-    "modified_at": "2024-11-06T11:13:06Z"
-  },
-  {
-    "source_id": "https://mrdata.usgs.gov/mrds",
-    "record_id": "10257520",
-    "site_rank": "D",
-    "deposit_type_candidate": [
-      {
-        "source": "algorithm predictions, SRI deposit type classification, v2.1, 20241031",
-        "confidence": 0.5955818831920624,
-        "observed_name": "Karst bauxite",
-        "normalized_uri": "https://minmod.isi.edu/resource/Q318"
-      },
-      {
-        "source": "algorithm predictions, SRI deposit type classification, v2.1, 20241031",
-        "confidence": 0.2660032778978348,
-        "observed_name": "Bauxite",
-        "normalized_uri": "https://minmod.isi.edu/resource/Q317"
       }
     ],
     "mineral_inventory": [
@@ -11925,43 +11925,6 @@
   },
   {
     "source_id": "https://mrdata.usgs.gov/mrds",
-    "record_id": "10246946",
-    "site_rank": "D",
-    "deposit_type_candidate": [
-      {
-        "source": "algorithm predictions, SRI deposit type classification, v2.1, 20241031",
-        "confidence": 0.37964289486408237,
-        "observed_name": "Vein tungsten",
-        "normalized_uri": "https://minmod.isi.edu/resource/Q427"
-      }
-    ],
-    "mineral_inventory": [
-      {
-        "reference": {
-          "document": {
-            "uri": "https://mrdata.usgs.gov/mrds"
-          }
-        },
-        "commodity": {
-          "source": "SRI database agent v0",
-          "confidence": 1.0,
-          "observed_name": "Tungsten",
-          "normalized_uri": "https://minmod.isi.edu/resource/Q615"
-        }
-      }
-    ],
-    "reference": [
-      {
-        "document": {
-          "uri": "https://mrdata.usgs.gov/mrds"
-        }
-      }
-    ],
-    "created_by": "https://minmod.isi.edu/users/s/sri",
-    "modified_at": "2024-11-06T11:13:06Z"
-  },
-  {
-    "source_id": "https://mrdata.usgs.gov/mrds",
     "record_id": "10014523",
     "site_rank": "C",
     "deposit_type_candidate": [
@@ -12055,6 +12018,43 @@
           "confidence": 1.0,
           "observed_name": "Fluorine-Fluorite",
           "normalized_uri": "https://minmod.isi.edu/resource/Q543"
+        }
+      }
+    ],
+    "reference": [
+      {
+        "document": {
+          "uri": "https://mrdata.usgs.gov/mrds"
+        }
+      }
+    ],
+    "created_by": "https://minmod.isi.edu/users/s/sri",
+    "modified_at": "2024-11-06T11:13:06Z"
+  },
+  {
+    "source_id": "https://mrdata.usgs.gov/mrds",
+    "record_id": "10246946",
+    "site_rank": "D",
+    "deposit_type_candidate": [
+      {
+        "source": "algorithm predictions, SRI deposit type classification, v2.1, 20241031",
+        "confidence": 0.37964289486408237,
+        "observed_name": "Vein tungsten",
+        "normalized_uri": "https://minmod.isi.edu/resource/Q427"
+      }
+    ],
+    "mineral_inventory": [
+      {
+        "reference": {
+          "document": {
+            "uri": "https://mrdata.usgs.gov/mrds"
+          }
+        },
+        "commodity": {
+          "source": "SRI database agent v0",
+          "confidence": 1.0,
+          "observed_name": "Tungsten",
+          "normalized_uri": "https://minmod.isi.edu/resource/Q615"
         }
       }
     ],
@@ -13210,62 +13210,6 @@
   },
   {
     "source_id": "https://mrdata.usgs.gov/mrds",
-    "record_id": "10196170",
-    "site_rank": "D",
-    "deposit_type_candidate": [
-      {
-        "source": "algorithm predictions, SRI deposit type classification, v2.1, 20241031",
-        "confidence": 0.6184117197990417,
-        "observed_name": "MVT zinc-lead",
-        "normalized_uri": "https://minmod.isi.edu/resource/Q380"
-      },
-      {
-        "source": "algorithm predictions, SRI deposit type classification, v2.1, 20241031",
-        "confidence": 0.23023886382579803,
-        "observed_name": "Irish-type sediment- hosted zinc- lead",
-        "normalized_uri": "https://minmod.isi.edu/resource/Q378"
-      }
-    ],
-    "mineral_inventory": [
-      {
-        "reference": {
-          "document": {
-            "uri": "https://mrdata.usgs.gov/mrds"
-          }
-        },
-        "commodity": {
-          "source": "SRI database agent v0",
-          "confidence": 1.0,
-          "observed_name": "Lead",
-          "normalized_uri": "https://minmod.isi.edu/resource/Q565"
-        }
-      },
-      {
-        "reference": {
-          "document": {
-            "uri": "https://mrdata.usgs.gov/mrds"
-          }
-        },
-        "commodity": {
-          "source": "SRI database agent v0",
-          "confidence": 1.0,
-          "observed_name": "Zinc",
-          "normalized_uri": "https://minmod.isi.edu/resource/Q589"
-        }
-      }
-    ],
-    "reference": [
-      {
-        "document": {
-          "uri": "https://mrdata.usgs.gov/mrds"
-        }
-      }
-    ],
-    "created_by": "https://minmod.isi.edu/users/s/sri",
-    "modified_at": "2024-11-06T11:13:06Z"
-  },
-  {
-    "source_id": "https://mrdata.usgs.gov/mrds",
     "record_id": "10147462",
     "site_rank": "D",
     "deposit_type_candidate": [
@@ -13366,18 +13310,18 @@
   },
   {
     "source_id": "https://mrdata.usgs.gov/mrds",
-    "record_id": "10195647",
+    "record_id": "10196170",
     "site_rank": "D",
     "deposit_type_candidate": [
       {
         "source": "algorithm predictions, SRI deposit type classification, v2.1, 20241031",
-        "confidence": 0.5112859010696411,
+        "confidence": 0.6184117197990417,
         "observed_name": "MVT zinc-lead",
         "normalized_uri": "https://minmod.isi.edu/resource/Q380"
       },
       {
         "source": "algorithm predictions, SRI deposit type classification, v2.1, 20241031",
-        "confidence": 0.3347777992486954,
+        "confidence": 0.23023886382579803,
         "observed_name": "Irish-type sediment- hosted zinc- lead",
         "normalized_uri": "https://minmod.isi.edu/resource/Q378"
       }
@@ -13490,6 +13434,62 @@
       {
         "source": "algorithm predictions, SRI deposit type classification, v2.1, 20241031",
         "confidence": 0.20058717727661132,
+        "observed_name": "Irish-type sediment- hosted zinc- lead",
+        "normalized_uri": "https://minmod.isi.edu/resource/Q378"
+      }
+    ],
+    "mineral_inventory": [
+      {
+        "reference": {
+          "document": {
+            "uri": "https://mrdata.usgs.gov/mrds"
+          }
+        },
+        "commodity": {
+          "source": "SRI database agent v0",
+          "confidence": 1.0,
+          "observed_name": "Lead",
+          "normalized_uri": "https://minmod.isi.edu/resource/Q565"
+        }
+      },
+      {
+        "reference": {
+          "document": {
+            "uri": "https://mrdata.usgs.gov/mrds"
+          }
+        },
+        "commodity": {
+          "source": "SRI database agent v0",
+          "confidence": 1.0,
+          "observed_name": "Zinc",
+          "normalized_uri": "https://minmod.isi.edu/resource/Q589"
+        }
+      }
+    ],
+    "reference": [
+      {
+        "document": {
+          "uri": "https://mrdata.usgs.gov/mrds"
+        }
+      }
+    ],
+    "created_by": "https://minmod.isi.edu/users/s/sri",
+    "modified_at": "2024-11-06T11:13:06Z"
+  },
+  {
+    "source_id": "https://mrdata.usgs.gov/mrds",
+    "record_id": "10195647",
+    "site_rank": "D",
+    "deposit_type_candidate": [
+      {
+        "source": "algorithm predictions, SRI deposit type classification, v2.1, 20241031",
+        "confidence": 0.5112859010696411,
+        "observed_name": "MVT zinc-lead",
+        "normalized_uri": "https://minmod.isi.edu/resource/Q380"
+      },
+      {
+        "source": "algorithm predictions, SRI deposit type classification, v2.1, 20241031",
+        "confidence": 0.3347777992486954,
         "observed_name": "Irish-type sediment- hosted zinc- lead",
         "normalized_uri": "https://minmod.isi.edu/resource/Q378"
       }
@@ -16531,12 +16531,12 @@
   },
   {
     "source_id": "https://mrdata.usgs.gov/mrds",
-    "record_id": "10141155",
+    "record_id": "10238071",
     "site_rank": "D",
     "deposit_type_candidate": [
       {
         "source": "algorithm predictions, SRI deposit type classification, v2.1, 20241031",
-        "confidence": 0.4324351787567139,
+        "confidence": 0.3246494293212891,
         "observed_name": "Breccia pipe gold",
         "normalized_uri": "https://minmod.isi.edu/resource/Q432"
       }
@@ -16594,12 +16594,12 @@
   },
   {
     "source_id": "https://mrdata.usgs.gov/mrds",
-    "record_id": "10238071",
+    "record_id": "10141155",
     "site_rank": "D",
     "deposit_type_candidate": [
       {
         "source": "algorithm predictions, SRI deposit type classification, v2.1, 20241031",
-        "confidence": 0.3246494293212891,
+        "confidence": 0.4324351787567139,
         "observed_name": "Breccia pipe gold",
         "normalized_uri": "https://minmod.isi.edu/resource/Q432"
       }

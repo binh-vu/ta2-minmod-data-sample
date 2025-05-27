@@ -120,8 +120,8 @@
   },
   {
     "source_id": "https://doi.org/10.5066/P9HTERGK",
-    "record_id": "38101",
-    "name": "Unnamed Prospects",
+    "record_id": "20480",
+    "name": "Unnamed Prospect",
     "location_info": {
       "country": [
         {
@@ -145,7 +145,7 @@
         "observed_name": "EPSG:4326",
         "normalized_uri": "https://minmod.isi.edu/resource/Q701"
       },
-      "location": "POINT (-116.71806 34.66502)"
+      "location": "POINT (-116.78556 34.57282)"
     },
     "mineral_inventory": [
       {
@@ -172,6 +172,19 @@
           "confidence": 1.0,
           "observed_name": "Copper",
           "normalized_uri": "https://minmod.isi.edu/resource/Q538"
+        }
+      },
+      {
+        "reference": {
+          "document": {
+            "uri": "https://doi.org/10.5066/P9HTERGK"
+          }
+        },
+        "commodity": {
+          "source": "UMN Matching System v1",
+          "confidence": 1.0,
+          "observed_name": "Silver",
+          "normalized_uri": "https://minmod.isi.edu/resource/Q585"
         }
       }
     ],
@@ -267,8 +280,8 @@
   },
   {
     "source_id": "https://doi.org/10.5066/P9HTERGK",
-    "record_id": "20480",
-    "name": "Unnamed Prospect",
+    "record_id": "7617",
+    "name": "Unnamed",
     "location_info": {
       "country": [
         {
@@ -292,7 +305,7 @@
         "observed_name": "EPSG:4326",
         "normalized_uri": "https://minmod.isi.edu/resource/Q701"
       },
-      "location": "POINT (-116.78556 34.57282)"
+      "location": "POINT (-117.04199 35.07583)"
     },
     "mineral_inventory": [
       {
@@ -320,19 +333,6 @@
           "observed_name": "Copper",
           "normalized_uri": "https://minmod.isi.edu/resource/Q538"
         }
-      },
-      {
-        "reference": {
-          "document": {
-            "uri": "https://doi.org/10.5066/P9HTERGK"
-          }
-        },
-        "commodity": {
-          "source": "UMN Matching System v1",
-          "confidence": 1.0,
-          "observed_name": "Silver",
-          "normalized_uri": "https://minmod.isi.edu/resource/Q585"
-        }
       }
     ],
     "reference": [
@@ -347,8 +347,8 @@
   },
   {
     "source_id": "https://doi.org/10.5066/P9HTERGK",
-    "record_id": "7617",
-    "name": "Unnamed",
+    "record_id": "38101",
+    "name": "Unnamed Prospects",
     "location_info": {
       "country": [
         {
@@ -372,7 +372,7 @@
         "observed_name": "EPSG:4326",
         "normalized_uri": "https://minmod.isi.edu/resource/Q701"
       },
-      "location": "POINT (-117.04199 35.07583)"
+      "location": "POINT (-116.71806 34.66502)"
     },
     "mineral_inventory": [
       {

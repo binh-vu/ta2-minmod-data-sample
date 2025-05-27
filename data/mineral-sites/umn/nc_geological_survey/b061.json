@@ -3,30 +3,36 @@
     "source_id": "https://www.deq.nc.gov/about/divisions/energy-mineral-and-land-resources/nc-geological-survey",
     "record_id": "659",
     "name": "Miller Shaft",
+    "site_type": "Producer",
+    "geology_info": {
+      "host_rock": {
+        "unit": "Tillery Formation"
+      }
+    },
     "location_info": {
       "country": [
         {
-          "source": "UMN Matching System v1",
-          "confidence": 1.0,
+          "source": "UMN Matching System-ProcMinev2",
+          "confidence": 0.9999,
           "observed_name": "United States",
           "normalized_uri": "https://minmod.isi.edu/resource/Q1235"
         }
       ],
       "state_or_province": [
         {
-          "source": "UMN Matching System v1",
-          "confidence": 1.0,
+          "source": "UMN Matching System-ProcMinev2",
+          "confidence": 0.9999,
           "observed_name": "North Carolina",
           "normalized_uri": "https://minmod.isi.edu/resource/Q6881"
         }
       ],
       "crs": {
-        "source": "UMN Matching System v1",
-        "confidence": 1.0,
+        "source": "UMN Matching System-ProcMinev2",
+        "confidence": 0.9999,
         "observed_name": "EPSG:4326",
         "normalized_uri": "https://minmod.isi.edu/resource/Q701"
       },
-      "location": "POINT (-80.3444431 35.511677)"
+      "location": "POINT (-80.3444431000000066 35.5116769999999988)"
     },
     "mineral_inventory": [
       {
@@ -36,8 +42,8 @@
           }
         },
         "commodity": {
-          "source": "UMN Matching System v1",
-          "confidence": 1.0,
+          "source": "UMN Matching System-ProcMinev2",
+          "confidence": 0.9999,
           "observed_name": "Gold",
           "normalized_uri": "https://minmod.isi.edu/resource/Q551"
         }
@@ -49,8 +55,8 @@
           }
         },
         "commodity": {
-          "source": "UMN Matching System v1",
-          "confidence": 1.0,
+          "source": "UMN Matching System-ProcMinev2",
+          "confidence": 0.9999,
           "observed_name": "Copper",
           "normalized_uri": "https://minmod.isi.edu/resource/Q538"
         }
@@ -64,36 +70,37 @@
       }
     ],
     "created_by": "https://minmod.isi.edu/users/s/umn",
-    "modified_at": "2024-10-23T19:13:15Z"
+    "modified_at": "2025-05-23T19:29:31Z"
   },
   {
     "source_id": "https://www.deq.nc.gov/about/divisions/energy-mineral-and-land-resources/nc-geological-survey",
     "record_id": "2541",
     "name": "Norton Chromite Prospect",
+    "site_type": "Prospect",
     "location_info": {
       "country": [
         {
-          "source": "UMN Matching System v1",
-          "confidence": 1.0,
+          "source": "UMN Matching System-ProcMinev2",
+          "confidence": 0.9999,
           "observed_name": "United States",
           "normalized_uri": "https://minmod.isi.edu/resource/Q1235"
         }
       ],
       "state_or_province": [
         {
-          "source": "UMN Matching System v1",
-          "confidence": 1.0,
+          "source": "UMN Matching System-ProcMinev2",
+          "confidence": 0.9999,
           "observed_name": "North Carolina",
           "normalized_uri": "https://minmod.isi.edu/resource/Q6881"
         }
       ],
       "crs": {
-        "source": "UMN Matching System v1",
-        "confidence": 1.0,
+        "source": "UMN Matching System-ProcMinev2",
+        "confidence": 0.9999,
         "observed_name": "EPSG:4326",
         "normalized_uri": "https://minmod.isi.edu/resource/Q701"
       },
-      "location": "POINT (-83.399704 35.0019067)"
+      "location": "POINT (-83.3997039999999998 35.0019066999999993)"
     },
     "mineral_inventory": [
       {
@@ -103,10 +110,10 @@
           }
         },
         "commodity": {
-          "source": "UMN Matching System v1",
-          "confidence": 1.0,
-          "observed_name": "Chromium",
-          "normalized_uri": "https://minmod.isi.edu/resource/Q519"
+          "source": "UMN Matching System-ProcMinev2",
+          "confidence": 0.9999,
+          "observed_name": "Iron",
+          "normalized_uri": "https://minmod.isi.edu/resource/Q561"
         }
       },
       {
@@ -116,10 +123,10 @@
           }
         },
         "commodity": {
-          "source": "UMN Matching System v1",
-          "confidence": 1.0,
-          "observed_name": "Iron",
-          "normalized_uri": "https://minmod.isi.edu/resource/Q561"
+          "source": "UMN Matching System-ProcMinev2",
+          "confidence": 0.9999,
+          "observed_name": "Chromium",
+          "normalized_uri": "https://minmod.isi.edu/resource/Q519"
         }
       }
     ],
@@ -131,38 +138,57 @@
       }
     ],
     "created_by": "https://minmod.isi.edu/users/s/umn",
-    "modified_at": "2024-10-23T19:13:15Z"
+    "modified_at": "2025-05-23T19:29:31Z"
   },
   {
     "source_id": "https://www.deq.nc.gov/about/divisions/energy-mineral-and-land-resources/nc-geological-survey",
     "record_id": "318",
     "name": "Caney Fork Bald Prospect",
-    "site_type": "Vein",
+    "site_type": "Occurrence",
+    "geology_info": {
+      "host_rock": {
+        "unit": "Muscovite Schist And Gneiss: Mica-Quartz-Plagioclase Schist Generally Interlayered With Gneissic Micaceous Metasandstone; Schist"
+      }
+    },
     "location_info": {
       "country": [
         {
-          "source": "UMN Matching System v1",
-          "confidence": 1.0,
+          "source": "UMN Matching System-ProcMinev2",
+          "confidence": 0.9999,
           "observed_name": "United States",
           "normalized_uri": "https://minmod.isi.edu/resource/Q1235"
         }
       ],
       "state_or_province": [
         {
-          "source": "UMN Matching System v1",
-          "confidence": 1.0,
+          "source": "UMN Matching System-ProcMinev2",
+          "confidence": 0.9999,
           "observed_name": "North Carolina",
           "normalized_uri": "https://minmod.isi.edu/resource/Q6881"
         }
       ],
       "crs": {
-        "source": "UMN Matching System v1",
-        "confidence": 1.0,
+        "source": "UMN Matching System-ProcMinev2",
+        "confidence": 0.9999,
         "observed_name": "EPSG:4326",
         "normalized_uri": "https://minmod.isi.edu/resource/Q701"
       },
-      "location": "POINT (-83.0416739 35.3722268)"
+      "location": "POINT (-83.0416739000000064 35.3722268000000000)"
     },
+    "deposit_type_candidate": [
+      {
+        "source": "UMN Matching System-ProcMinev2",
+        "confidence": 0.7508956930162153,
+        "observed_name": "Vein Iron",
+        "normalized_uri": "https://minmod.isi.edu/resource/Q426"
+      },
+      {
+        "source": "UMN Matching System-ProcMinev2",
+        "confidence": 0.6529239053695575,
+        "observed_name": "Copper",
+        "normalized_uri": "https://minmod.isi.edu/resource/Q425"
+      }
+    ],
     "mineral_inventory": [
       {
         "reference": {
@@ -171,10 +197,10 @@
           }
         },
         "commodity": {
-          "source": "UMN Matching System v1",
-          "confidence": 1.0,
-          "observed_name": "Iron",
-          "normalized_uri": "https://minmod.isi.edu/resource/Q561"
+          "source": "UMN Matching System-ProcMinev2",
+          "confidence": 0.9999,
+          "observed_name": "Copper",
+          "normalized_uri": "https://minmod.isi.edu/resource/Q538"
         }
       },
       {
@@ -184,10 +210,10 @@
           }
         },
         "commodity": {
-          "source": "UMN Matching System v1",
-          "confidence": 1.0,
-          "observed_name": "Copper",
-          "normalized_uri": "https://minmod.isi.edu/resource/Q538"
+          "source": "UMN Matching System-ProcMinev2",
+          "confidence": 0.9999,
+          "observed_name": "Iron",
+          "normalized_uri": "https://minmod.isi.edu/resource/Q561"
         }
       }
     ],
@@ -199,6 +225,6 @@
       }
     ],
     "created_by": "https://minmod.isi.edu/users/s/umn",
-    "modified_at": "2024-10-23T19:13:15Z"
+    "modified_at": "2025-05-23T19:29:31Z"
   }
 ]

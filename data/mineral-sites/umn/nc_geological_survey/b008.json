@@ -3,32 +3,46 @@
     "source_id": "https://www.deq.nc.gov/about/divisions/energy-mineral-and-land-resources/nc-geological-survey",
     "record_id": "639",
     "name": "Ellwood Mine",
-    "site_type": "Hydrothermal Vein",
+    "site_type": "Producer",
     "location_info": {
       "country": [
         {
-          "source": "UMN Matching System v1",
-          "confidence": 1.0,
+          "source": "UMN Matching System-ProcMinev2",
+          "confidence": 0.9999,
           "observed_name": "United States",
           "normalized_uri": "https://minmod.isi.edu/resource/Q1235"
         }
       ],
       "state_or_province": [
         {
-          "source": "UMN Matching System v1",
-          "confidence": 1.0,
+          "source": "UMN Matching System-ProcMinev2",
+          "confidence": 0.9999,
           "observed_name": "North Carolina",
           "normalized_uri": "https://minmod.isi.edu/resource/Q6881"
         }
       ],
       "crs": {
-        "source": "UMN Matching System v1",
-        "confidence": 1.0,
+        "source": "UMN Matching System-ProcMinev2",
+        "confidence": 0.9999,
         "observed_name": "EPSG:4326",
         "normalized_uri": "https://minmod.isi.edu/resource/Q701"
       },
-      "location": "POINT (-81.9416736 35.4097269)"
+      "location": "POINT (-81.9416736000000014 35.4097269000000026)"
     },
+    "deposit_type_candidate": [
+      {
+        "source": "UMN Matching System-ProcMinev2",
+        "confidence": 0.5316809507110627,
+        "observed_name": "Hydrothermal Vein Gold",
+        "normalized_uri": "https://minmod.isi.edu/resource/Q387"
+      },
+      {
+        "source": "UMN Matching System-ProcMinev2",
+        "confidence": 0.6529239053695575,
+        "observed_name": "Copper",
+        "normalized_uri": "https://minmod.isi.edu/resource/Q425"
+      }
+    ],
     "mineral_inventory": [
       {
         "reference": {
@@ -37,8 +51,8 @@
           }
         },
         "commodity": {
-          "source": "UMN Matching System v1",
-          "confidence": 1.0,
+          "source": "UMN Matching System-ProcMinev2",
+          "confidence": 0.9999,
           "observed_name": "Gold",
           "normalized_uri": "https://minmod.isi.edu/resource/Q551"
         }
@@ -50,8 +64,8 @@
           }
         },
         "commodity": {
-          "source": "UMN Matching System v1",
-          "confidence": 1.0,
+          "source": "UMN Matching System-ProcMinev2",
+          "confidence": 0.9999,
           "observed_name": "Copper",
           "normalized_uri": "https://minmod.isi.edu/resource/Q538"
         }
@@ -65,6 +79,6 @@
       }
     ],
     "created_by": "https://minmod.isi.edu/users/s/umn",
-    "modified_at": "2024-10-23T19:13:15Z"
+    "modified_at": "2025-05-23T19:29:31Z"
   }
 ]

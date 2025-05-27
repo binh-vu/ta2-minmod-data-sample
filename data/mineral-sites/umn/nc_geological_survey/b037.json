@@ -3,30 +3,32 @@
     "source_id": "https://www.deq.nc.gov/about/divisions/energy-mineral-and-land-resources/nc-geological-survey",
     "record_id": "631",
     "name": "Pioneer Mills Mine-East Shaft",
+    "site_type": "Producer",
+    "geology_info": {},
     "location_info": {
       "country": [
         {
-          "source": "UMN Matching System v1",
-          "confidence": 1.0,
+          "source": "UMN Matching System-ProcMinev2",
+          "confidence": 0.9999,
           "observed_name": "United States",
           "normalized_uri": "https://minmod.isi.edu/resource/Q1235"
         }
       ],
       "state_or_province": [
         {
-          "source": "UMN Matching System v1",
-          "confidence": 1.0,
+          "source": "UMN Matching System-ProcMinev2",
+          "confidence": 0.9999,
           "observed_name": "North Carolina",
           "normalized_uri": "https://minmod.isi.edu/resource/Q6881"
         }
       ],
       "crs": {
-        "source": "UMN Matching System v1",
-        "confidence": 1.0,
+        "source": "UMN Matching System-ProcMinev2",
+        "confidence": 0.9999,
         "observed_name": "EPSG:4326",
         "normalized_uri": "https://minmod.isi.edu/resource/Q701"
       },
-      "location": "POINT (-80.5830632 35.2611169)"
+      "location": "POINT (-80.5830631999999980 35.2611168999999975)"
     },
     "mineral_inventory": [
       {
@@ -36,8 +38,21 @@
           }
         },
         "commodity": {
-          "source": "UMN Matching System v1",
-          "confidence": 1.0,
+          "source": "UMN Matching System-ProcMinev2",
+          "confidence": 0.9999,
+          "observed_name": "Molybdenum",
+          "normalized_uri": "https://minmod.isi.edu/resource/Q576"
+        }
+      },
+      {
+        "reference": {
+          "document": {
+            "uri": "https://www.deq.nc.gov/about/divisions/energy-mineral-and-land-resources/nc-geological-survey"
+          }
+        },
+        "commodity": {
+          "source": "UMN Matching System-ProcMinev2",
+          "confidence": 0.9999,
           "observed_name": "Gold",
           "normalized_uri": "https://minmod.isi.edu/resource/Q551"
         }
@@ -49,23 +64,10 @@
           }
         },
         "commodity": {
-          "source": "UMN Matching System v1",
-          "confidence": 1.0,
+          "source": "UMN Matching System-ProcMinev2",
+          "confidence": 0.9999,
           "observed_name": "Copper",
           "normalized_uri": "https://minmod.isi.edu/resource/Q538"
-        }
-      },
-      {
-        "reference": {
-          "document": {
-            "uri": "https://www.deq.nc.gov/about/divisions/energy-mineral-and-land-resources/nc-geological-survey"
-          }
-        },
-        "commodity": {
-          "source": "UMN Matching System v1",
-          "confidence": 1.0,
-          "observed_name": "Molybdenum",
-          "normalized_uri": "https://minmod.isi.edu/resource/Q576"
         }
       }
     ],
@@ -77,36 +79,37 @@
       }
     ],
     "created_by": "https://minmod.isi.edu/users/s/umn",
-    "modified_at": "2024-10-23T19:13:15Z"
+    "modified_at": "2025-05-23T19:29:31Z"
   },
   {
     "source_id": "https://www.deq.nc.gov/about/divisions/energy-mineral-and-land-resources/nc-geological-survey",
     "record_id": "4317",
     "name": "Buck Creek Olivine Deposit",
+    "site_type": "Past Producer",
     "location_info": {
       "country": [
         {
-          "source": "UMN Matching System v1",
-          "confidence": 1.0,
+          "source": "UMN Matching System-ProcMinev2",
+          "confidence": 0.9999,
           "observed_name": "United States",
           "normalized_uri": "https://minmod.isi.edu/resource/Q1235"
         }
       ],
       "state_or_province": [
         {
-          "source": "UMN Matching System v1",
-          "confidence": 1.0,
+          "source": "UMN Matching System-ProcMinev2",
+          "confidence": 0.9999,
           "observed_name": "North Carolina",
           "normalized_uri": "https://minmod.isi.edu/resource/Q6881"
         }
       ],
       "crs": {
-        "source": "UMN Matching System v1",
-        "confidence": 1.0,
+        "source": "UMN Matching System-ProcMinev2",
+        "confidence": 0.9999,
         "observed_name": "EPSG:4326",
         "normalized_uri": "https://minmod.isi.edu/resource/Q701"
       },
-      "location": "POINT (-83.6175041 35.0822067)"
+      "location": "POINT (-83.6175041000000050 35.0822067000000004)"
     },
     "mineral_inventory": [
       {
@@ -116,8 +119,8 @@
           }
         },
         "commodity": {
-          "source": "UMN Matching System v1",
-          "confidence": 1.0,
+          "source": "UMN Matching System-ProcMinev2",
+          "confidence": 0.9999,
           "observed_name": "Silica",
           "normalized_uri": "https://minmod.isi.edu/resource/Q657"
         }
@@ -129,9 +132,10 @@
           }
         },
         "commodity": {
-          "source": "UMN Matching System v1",
-          "confidence": 0.001,
-          "observed_name": "Corundum"
+          "source": "UMN Matching System-ProcMinev2",
+          "confidence": 0.9999,
+          "observed_name": "Vermiculite",
+          "normalized_uri": "https://minmod.isi.edu/resource/Q635"
         }
       },
       {
@@ -141,10 +145,10 @@
           }
         },
         "commodity": {
-          "source": "UMN Matching System v1",
-          "confidence": 1.0,
-          "observed_name": "Chromium",
-          "normalized_uri": "https://minmod.isi.edu/resource/Q519"
+          "source": "UMN Matching System-ProcMinev2",
+          "confidence": 0.696960839660197,
+          "observed_name": "Corundum",
+          "normalized_uri": "https://minmod.isi.edu/resource/Q502"
         }
       },
       {
@@ -154,8 +158,8 @@
           }
         },
         "commodity": {
-          "source": "UMN Matching System v1",
-          "confidence": 1.0,
+          "source": "UMN Matching System-ProcMinev2",
+          "confidence": 0.9999,
           "observed_name": "Magnesite",
           "normalized_uri": "https://minmod.isi.edu/resource/Q570"
         }
@@ -167,10 +171,10 @@
           }
         },
         "commodity": {
-          "source": "UMN Matching System v1",
-          "confidence": 1.0,
-          "observed_name": "Vermiculite",
-          "normalized_uri": "https://minmod.isi.edu/resource/Q635"
+          "source": "UMN Matching System-ProcMinev2",
+          "confidence": 0.9999,
+          "observed_name": "Chromium",
+          "normalized_uri": "https://minmod.isi.edu/resource/Q519"
         }
       }
     ],
@@ -182,6 +186,6 @@
       }
     ],
     "created_by": "https://minmod.isi.edu/users/s/umn",
-    "modified_at": "2024-10-23T19:13:15Z"
+    "modified_at": "2025-05-23T19:29:31Z"
   }
 ]

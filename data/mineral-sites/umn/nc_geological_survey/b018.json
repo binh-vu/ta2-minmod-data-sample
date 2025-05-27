@@ -3,32 +3,69 @@
     "source_id": "https://www.deq.nc.gov/about/divisions/energy-mineral-and-land-resources/nc-geological-survey",
     "record_id": "684",
     "name": "Long Mine",
-    "site_type": "Hydrothermal Vein",
+    "site_type": "Past Producer",
+    "geology_info": {
+      "associated_rock": {
+        "unit": "Albemarle Group"
+      }
+    },
     "location_info": {
       "country": [
         {
-          "source": "UMN Matching System v1",
-          "confidence": 1.0,
+          "source": "UMN Matching System-ProcMinev2",
+          "confidence": 0.9999,
           "observed_name": "United States",
           "normalized_uri": "https://minmod.isi.edu/resource/Q1235"
         }
       ],
       "state_or_province": [
         {
-          "source": "UMN Matching System v1",
-          "confidence": 1.0,
+          "source": "UMN Matching System-ProcMinev2",
+          "confidence": 0.9999,
           "observed_name": "North Carolina",
           "normalized_uri": "https://minmod.isi.edu/resource/Q6881"
         }
       ],
       "crs": {
-        "source": "UMN Matching System v1",
-        "confidence": 1.0,
+        "source": "UMN Matching System-ProcMinev2",
+        "confidence": 0.9999,
         "observed_name": "EPSG:4326",
         "normalized_uri": "https://minmod.isi.edu/resource/Q701"
       },
-      "location": "POINT (-80.5855632 35.1719469)"
+      "location": "POINT (-80.5855631999999957 35.1719469000000018)"
     },
+    "deposit_type_candidate": [
+      {
+        "source": "UMN Matching System-ProcMinev2",
+        "confidence": 0.5316809507110627,
+        "observed_name": "Hydrothermal Vein Gold",
+        "normalized_uri": "https://minmod.isi.edu/resource/Q387"
+      },
+      {
+        "source": "UMN Matching System-ProcMinev2",
+        "confidence": 0.5565525968067689,
+        "observed_name": "Zinc",
+        "normalized_uri": "https://minmod.isi.edu/resource/Q380"
+      },
+      {
+        "source": "UMN Matching System-ProcMinev2",
+        "confidence": 0.6054454016015699,
+        "observed_name": "Silver",
+        "normalized_uri": "https://minmod.isi.edu/resource/Q325"
+      },
+      {
+        "source": "UMN Matching System-ProcMinev2",
+        "confidence": 0.6529239053695575,
+        "observed_name": "Copper",
+        "normalized_uri": "https://minmod.isi.edu/resource/Q425"
+      },
+      {
+        "source": "UMN Matching System-ProcMinev2",
+        "confidence": 0.5253139117193537,
+        "observed_name": "Lead",
+        "normalized_uri": "https://minmod.isi.edu/resource/Q302"
+      }
+    ],
     "mineral_inventory": [
       {
         "reference": {
@@ -37,34 +74,8 @@
           }
         },
         "commodity": {
-          "source": "UMN Matching System v1",
-          "confidence": 1.0,
-          "observed_name": "Gold",
-          "normalized_uri": "https://minmod.isi.edu/resource/Q551"
-        }
-      },
-      {
-        "reference": {
-          "document": {
-            "uri": "https://www.deq.nc.gov/about/divisions/energy-mineral-and-land-resources/nc-geological-survey"
-          }
-        },
-        "commodity": {
-          "source": "UMN Matching System v1",
-          "confidence": 1.0,
-          "observed_name": "Zinc",
-          "normalized_uri": "https://minmod.isi.edu/resource/Q589"
-        }
-      },
-      {
-        "reference": {
-          "document": {
-            "uri": "https://www.deq.nc.gov/about/divisions/energy-mineral-and-land-resources/nc-geological-survey"
-          }
-        },
-        "commodity": {
-          "source": "UMN Matching System v1",
-          "confidence": 1.0,
+          "source": "UMN Matching System-ProcMinev2",
+          "confidence": 0.9999,
           "observed_name": "Silver",
           "normalized_uri": "https://minmod.isi.edu/resource/Q585"
         }
@@ -76,8 +87,8 @@
           }
         },
         "commodity": {
-          "source": "UMN Matching System v1",
-          "confidence": 1.0,
+          "source": "UMN Matching System-ProcMinev2",
+          "confidence": 0.9999,
           "observed_name": "Copper",
           "normalized_uri": "https://minmod.isi.edu/resource/Q538"
         }
@@ -89,10 +100,36 @@
           }
         },
         "commodity": {
-          "source": "UMN Matching System v1",
-          "confidence": 1.0,
+          "source": "UMN Matching System-ProcMinev2",
+          "confidence": 0.9999,
           "observed_name": "Lead",
           "normalized_uri": "https://minmod.isi.edu/resource/Q565"
+        }
+      },
+      {
+        "reference": {
+          "document": {
+            "uri": "https://www.deq.nc.gov/about/divisions/energy-mineral-and-land-resources/nc-geological-survey"
+          }
+        },
+        "commodity": {
+          "source": "UMN Matching System-ProcMinev2",
+          "confidence": 0.9999,
+          "observed_name": "Zinc",
+          "normalized_uri": "https://minmod.isi.edu/resource/Q589"
+        }
+      },
+      {
+        "reference": {
+          "document": {
+            "uri": "https://www.deq.nc.gov/about/divisions/energy-mineral-and-land-resources/nc-geological-survey"
+          }
+        },
+        "commodity": {
+          "source": "UMN Matching System-ProcMinev2",
+          "confidence": 0.9999,
+          "observed_name": "Gold",
+          "normalized_uri": "https://minmod.isi.edu/resource/Q551"
         }
       }
     ],
@@ -104,6 +141,6 @@
       }
     ],
     "created_by": "https://minmod.isi.edu/users/s/umn",
-    "modified_at": "2024-10-23T19:13:15Z"
+    "modified_at": "2025-05-23T19:29:31Z"
   }
 ]
