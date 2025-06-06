@@ -1,0 +1,83 @@
+[
+  {
+    "source_id": "https://doi.org/10.5382/econgeo.4950",
+    "record_id": "Wellgreen",
+    "name": "Wellgreen",
+    "site_rank": "U",
+    "site_type": "NotSpecified",
+    "location_info": {
+      "country": [
+        {
+          "source": "https://minmod.isi.edu/users/a/bvu",
+          "confidence": 1.0,
+          "observed_name": "Canada",
+          "normalized_uri": "https://minmod.isi.edu/resource/Q1038"
+        }
+      ]
+    },
+    "mineral_inventory": [
+      {
+        "reference": {
+          "document": {
+            "uri": "https://doi.org/10.5382/econgeo.4950",
+            "title": "The New Century for Nickel Resources, Reserves, and Mining: Reassessing the Sustainability of the Devil’s Metal"
+          }
+        },
+        "commodity": {
+          "source": "https://minmod.isi.edu/users/a/bvu",
+          "confidence": 1.0,
+          "observed_name": "Nickel",
+          "normalized_uri": "https://minmod.isi.edu/resource/Q578"
+        },
+        "category": [
+          {
+            "source": "https://minmod.isi.edu/users/a/bvu",
+            "confidence": 1.0,
+            "observed_name": "Inferred",
+            "normalized_uri": "https://minmod.isi.edu/resource/Inferred"
+          },
+          {
+            "source": "https://minmod.isi.edu/users/a/bvu",
+            "confidence": 1.0,
+            "observed_name": "Indicated",
+            "normalized_uri": "https://minmod.isi.edu/resource/Indicated"
+          },
+          {
+            "source": "https://minmod.isi.edu/users/a/bvu",
+            "confidence": 1.0,
+            "observed_name": "Measured",
+            "normalized_uri": "https://minmod.isi.edu/resource/Measured"
+          }
+        ],
+        "grade": {
+          "value": 0.2436544400034681,
+          "unit": {
+            "source": "https://minmod.isi.edu/users/a/bvu",
+            "confidence": 1.0,
+            "observed_name": "%",
+            "normalized_uri": "https://minmod.isi.edu/resource/Q201"
+          }
+        },
+        "ore": {
+          "value": 1176.4180000000001,
+          "unit": {
+            "source": "https://minmod.isi.edu/users/a/bvu",
+            "confidence": 1.0,
+            "observed_name": "%",
+            "normalized_uri": "https://minmod.isi.edu/resource/Q202"
+          }
+        }
+      }
+    ],
+    "reference": [
+      {
+        "document": {
+          "uri": "https://doi.org/10.5382/econgeo.4950",
+          "title": "The New Century for Nickel Resources, Reserves, and Mining: Reassessing the Sustainability of the Devil’s Metal"
+        }
+      }
+    ],
+    "created_by": "https://minmod.isi.edu/users/a/bvu",
+    "modified_at": "2025-06-06T03:22:09.035874Z"
+  }
+]
