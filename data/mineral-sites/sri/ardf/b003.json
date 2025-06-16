@@ -1,12 +1,18 @@
 [
   {
     "source_id": "https://doi.org/10.5066/P96MMRFD",
-    "record_id": "BN038",
+    "record_id": "NM146",
     "site_type": "Mine",
     "deposit_type_candidate": [
       {
         "source": "algorithm predictions, SRI deposit type classification, v2.1, 20241031",
-        "confidence": 0.8757540643215179,
+        "confidence": 0.4568743944168091,
+        "observed_name": "Shoreline placer gold",
+        "normalized_uri": "https://minmod.isi.edu/resource/Q313"
+      },
+      {
+        "source": "algorithm predictions, SRI deposit type classification, v2.1, 20241031",
+        "confidence": 0.282591050863266,
         "observed_name": "Fluvial placer gold",
         "normalized_uri": "https://minmod.isi.edu/resource/Q303"
       }
@@ -33,7 +39,223 @@
         "commodity": {
           "source": "SRI database agent v0",
           "confidence": 1.0,
+          "observed_name": "Bi"
+        }
+      },
+      {
+        "reference": {
+          "document": {
+            "uri": "https://doi.org/10.5066/P96MMRFD"
+          }
+        },
+        "commodity": {
+          "source": "SRI database agent v0",
+          "confidence": 1.0,
+          "observed_name": "Ti"
+        }
+      },
+      {
+        "reference": {
+          "document": {
+            "uri": "https://doi.org/10.5066/P96MMRFD"
+          }
+        },
+        "commodity": {
+          "source": "SRI database agent v0",
+          "confidence": 1.0,
           "observed_name": "W"
+        }
+      }
+    ],
+    "reference": [
+      {
+        "document": {
+          "uri": "https://doi.org/10.5066/P96MMRFD"
+        }
+      }
+    ],
+    "created_by": "https://minmod.isi.edu/users/s/sri",
+    "modified_at": "2024-11-06T18:58:25Z"
+  },
+  {
+    "source_id": "https://doi.org/10.5066/P96MMRFD",
+    "record_id": "MD056",
+    "site_type": "Prospects",
+    "deposit_type_candidate": [
+      {
+        "source": "algorithm predictions, SRI deposit type classification, v2.1, 20241031",
+        "confidence": 0.8320909738540649,
+        "observed_name": "MVT zinc-lead",
+        "normalized_uri": "https://minmod.isi.edu/resource/Q380"
+      }
+    ],
+    "mineral_inventory": [
+      {
+        "reference": {
+          "document": {
+            "uri": "https://doi.org/10.5066/P96MMRFD"
+          }
+        },
+        "commodity": {
+          "source": "SRI database agent v0",
+          "confidence": 1.0,
+          "observed_name": "Zn"
+        }
+      },
+      {
+        "reference": {
+          "document": {
+            "uri": "https://doi.org/10.5066/P96MMRFD"
+          }
+        },
+        "commodity": {
+          "source": "SRI database agent v0",
+          "confidence": 1.0,
+          "observed_name": "Pb"
+        }
+      }
+    ],
+    "reference": [
+      {
+        "document": {
+          "uri": "https://doi.org/10.5066/P96MMRFD"
+        }
+      }
+    ],
+    "created_by": "https://minmod.isi.edu/users/s/sri",
+    "modified_at": "2024-11-06T18:58:25Z"
+  },
+  {
+    "source_id": "https://doi.org/10.5066/P96MMRFD",
+    "record_id": "BS011",
+    "site_type": "Prospect",
+    "deposit_type_candidate": [
+      {
+        "source": "algorithm predictions, SRI deposit type classification, v2.1, 20241031",
+        "confidence": 0.8134582042694092,
+        "observed_name": "Mafic-ultramafic VMS",
+        "normalized_uri": "https://minmod.isi.edu/resource/Q409"
+      }
+    ],
+    "mineral_inventory": [
+      {
+        "reference": {
+          "document": {
+            "uri": "https://doi.org/10.5066/P96MMRFD"
+          }
+        },
+        "commodity": {
+          "source": "SRI database agent v0",
+          "confidence": 1.0,
+          "observed_name": "Cu"
+        }
+      },
+      {
+        "reference": {
+          "document": {
+            "uri": "https://doi.org/10.5066/P96MMRFD"
+          }
+        },
+        "commodity": {
+          "source": "SRI database agent v0",
+          "confidence": 1.0,
+          "observed_name": "Zn"
+        }
+      }
+    ],
+    "reference": [
+      {
+        "document": {
+          "uri": "https://doi.org/10.5066/P96MMRFD"
+        }
+      }
+    ],
+    "created_by": "https://minmod.isi.edu/users/s/sri",
+    "modified_at": "2024-11-06T18:58:25Z"
+  },
+  {
+    "source_id": "https://doi.org/10.5066/P96MMRFD",
+    "record_id": "CR069",
+    "site_type": "Prospect",
+    "deposit_type_candidate": [
+      {
+        "source": "algorithm predictions, SRI deposit type classification, v2.1, 20241031",
+        "confidence": 0.38006276786327364,
+        "observed_name": "Vein polymetallic",
+        "normalized_uri": "https://minmod.isi.edu/resource/Q430"
+      }
+    ],
+    "mineral_inventory": [
+      {
+        "reference": {
+          "document": {
+            "uri": "https://doi.org/10.5066/P96MMRFD"
+          }
+        },
+        "commodity": {
+          "source": "SRI database agent v0",
+          "confidence": 1.0,
+          "observed_name": "Ag"
+        }
+      },
+      {
+        "reference": {
+          "document": {
+            "uri": "https://doi.org/10.5066/P96MMRFD"
+          }
+        },
+        "commodity": {
+          "source": "SRI database agent v0",
+          "confidence": 1.0,
+          "observed_name": "Au"
+        }
+      },
+      {
+        "reference": {
+          "document": {
+            "uri": "https://doi.org/10.5066/P96MMRFD"
+          }
+        },
+        "commodity": {
+          "source": "SRI database agent v0",
+          "confidence": 1.0,
+          "observed_name": "Cu"
+        }
+      }
+    ],
+    "reference": [
+      {
+        "document": {
+          "uri": "https://doi.org/10.5066/P96MMRFD"
+        }
+      }
+    ],
+    "created_by": "https://minmod.isi.edu/users/s/sri",
+    "modified_at": "2024-11-06T18:58:25Z"
+  },
+  {
+    "source_id": "https://doi.org/10.5066/P96MMRFD",
+    "record_id": "DP002",
+    "site_type": "Occurrence",
+    "deposit_type_candidate": [
+      {
+        "source": "algorithm predictions, SRI deposit type classification, v2.1, 20241031",
+        "confidence": 0.2302720159292221,
+        "observed_name": "Vein copper",
+        "normalized_uri": "https://minmod.isi.edu/resource/Q425"
+      }
+    ],
+    "mineral_inventory": [
+      {
+        "reference": {
+          "document": {
+            "uri": "https://doi.org/10.5066/P96MMRFD"
+          }
+        },
+        "commodity": {
+          "source": "SRI database agent v0",
+          "confidence": 1.0,
+          "observed_name": "Cu"
         }
       }
     ],

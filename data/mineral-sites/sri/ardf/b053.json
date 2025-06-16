@@ -1,6 +1,78 @@
 [
   {
     "source_id": "https://doi.org/10.5066/P96MMRFD",
+    "record_id": "CI006",
+    "site_type": "Mine",
+    "deposit_type_candidate": [
+      {
+        "source": "algorithm predictions, SRI deposit type classification, v2.1, 20241031",
+        "confidence": 0.7091120660305024,
+        "observed_name": "Fluvial placer gold",
+        "normalized_uri": "https://minmod.isi.edu/resource/Q303"
+      }
+    ],
+    "mineral_inventory": [
+      {
+        "reference": {
+          "document": {
+            "uri": "https://doi.org/10.5066/P96MMRFD"
+          }
+        },
+        "commodity": {
+          "source": "SRI database agent v0",
+          "confidence": 1.0,
+          "observed_name": "Au"
+        }
+      },
+      {
+        "reference": {
+          "document": {
+            "uri": "https://doi.org/10.5066/P96MMRFD"
+          }
+        },
+        "commodity": {
+          "source": "SRI database agent v0",
+          "confidence": 1.0,
+          "observed_name": "As"
+        }
+      },
+      {
+        "reference": {
+          "document": {
+            "uri": "https://doi.org/10.5066/P96MMRFD"
+          }
+        },
+        "commodity": {
+          "source": "SRI database agent v0",
+          "confidence": 1.0,
+          "observed_name": "Cu"
+        }
+      },
+      {
+        "reference": {
+          "document": {
+            "uri": "https://doi.org/10.5066/P96MMRFD"
+          }
+        },
+        "commodity": {
+          "source": "SRI database agent v0",
+          "confidence": 1.0,
+          "observed_name": "Zn"
+        }
+      }
+    ],
+    "reference": [
+      {
+        "document": {
+          "uri": "https://doi.org/10.5066/P96MMRFD"
+        }
+      }
+    ],
+    "created_by": "https://minmod.isi.edu/users/s/sri",
+    "modified_at": "2024-11-06T18:58:25Z"
+  },
+  {
+    "source_id": "https://doi.org/10.5066/P96MMRFD",
     "record_id": "UK004",
     "site_type": "Occurrence",
     "deposit_type_candidate": [
@@ -58,6 +130,66 @@
           "source": "SRI database agent v0",
           "confidence": 1.0,
           "observed_name": "Hg"
+        }
+      }
+    ],
+    "reference": [
+      {
+        "document": {
+          "uri": "https://doi.org/10.5066/P96MMRFD"
+        }
+      }
+    ],
+    "created_by": "https://minmod.isi.edu/users/s/sri",
+    "modified_at": "2024-11-06T18:58:25Z"
+  },
+  {
+    "source_id": "https://doi.org/10.5066/P96MMRFD",
+    "record_id": "MG012",
+    "site_type": "Occurrence",
+    "deposit_type_candidate": [
+      {
+        "source": "algorithm predictions, SRI deposit type classification, v2.1, 20241031",
+        "confidence": 0.87594712972641,
+        "observed_name": "Skarn copper",
+        "normalized_uri": "https://minmod.isi.edu/resource/Q446"
+      }
+    ],
+    "mineral_inventory": [
+      {
+        "reference": {
+          "document": {
+            "uri": "https://doi.org/10.5066/P96MMRFD"
+          }
+        },
+        "commodity": {
+          "source": "SRI database agent v0",
+          "confidence": 1.0,
+          "observed_name": "Cu"
+        }
+      },
+      {
+        "reference": {
+          "document": {
+            "uri": "https://doi.org/10.5066/P96MMRFD"
+          }
+        },
+        "commodity": {
+          "source": "SRI database agent v0",
+          "confidence": 1.0,
+          "observed_name": "Fe"
+        }
+      },
+      {
+        "reference": {
+          "document": {
+            "uri": "https://doi.org/10.5066/P96MMRFD"
+          }
+        },
+        "commodity": {
+          "source": "SRI database agent v0",
+          "confidence": 1.0,
+          "observed_name": "Ag"
         }
       }
     ],

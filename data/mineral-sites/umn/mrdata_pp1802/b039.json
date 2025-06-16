@@ -1,8 +1,8 @@
 [
   {
     "source_id": "https://mrdata.usgs.gov/pp1802",
-    "record_id": "1150",
-    "name": "Graphite Basin",
+    "record_id": "1833",
+    "name": "Kougarok",
     "location_info": {
       "country": [
         {
@@ -16,8 +16,8 @@
         {
           "source": "UMN Matching System v1",
           "confidence": 1.0,
-          "observed_name": "Colorado",
-          "normalized_uri": "https://minmod.isi.edu/resource/Q6846"
+          "observed_name": "Alaska",
+          "normalized_uri": "https://minmod.isi.edu/resource/Q6840"
         }
       ],
       "crs": {
@@ -26,7 +26,7 @@
         "observed_name": "EPSG:4326",
         "normalized_uri": "https://minmod.isi.edu/resource/Q701"
       },
-      "location": "POINT (-106.3778 38.5898099998)"
+      "location": "POINT (-165.2289 65.7103000002)"
     },
     "mineral_inventory": [
       {
@@ -38,8 +38,20 @@
         "commodity": {
           "source": "UMN Matching System v1",
           "confidence": 1.0,
-          "observed_name": "Graphite",
-          "normalized_uri": "https://minmod.isi.edu/resource/Q553"
+          "observed_name": "Niobium and Tantalum"
+        }
+      },
+      {
+        "reference": {
+          "document": {
+            "uri": "https://mrdata.usgs.gov/pp1802"
+          }
+        },
+        "commodity": {
+          "source": "UMN Matching System v1",
+          "confidence": 1.0,
+          "observed_name": "Tin",
+          "normalized_uri": "https://minmod.isi.edu/resource/Q587"
         }
       }
     ],

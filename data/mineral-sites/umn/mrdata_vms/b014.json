@@ -1,0 +1,52 @@
+[
+  {
+    "source_id": "https://mrdata.usgs.gov/vms",
+    "record_id": "1418",
+    "name": "Jungle Lake",
+    "mineral_form": [
+      "Sphalerite"
+    ],
+    "location_info": {
+      "country": [
+        {
+          "source": "UMN Matching System-ProcMinev2",
+          "confidence": 0.9999,
+          "observed_name": "Canada",
+          "normalized_uri": "https://minmod.isi.edu/resource/Q1038"
+        }
+      ],
+      "state_or_province": [
+        {
+          "source": "UMN Matching System-ProcMinev2",
+          "confidence": 0.9999,
+          "observed_name": "Manitoba",
+          "normalized_uri": "https://minmod.isi.edu/resource/Q2655"
+        }
+      ],
+      "crs": {
+        "source": "UMN Matching System-ProcMinev2",
+        "confidence": 0.9999,
+        "observed_name": "EPSG:4326",
+        "normalized_uri": "https://minmod.isi.edu/resource/Q701"
+      },
+      "location": "POINT (-100.9722222222220012 55.1638888888888985)"
+    },
+    "deposit_type_candidate": [
+      {
+        "source": "UMN Matching System-ProcMinev2",
+        "confidence": 0.9133265312060384,
+        "observed_name": "Bimodal-Mafic ",
+        "normalized_uri": "https://minmod.isi.edu/resource/Q411"
+      }
+    ],
+    "reference": [
+      {
+        "document": {
+          "uri": "https://mrdata.usgs.gov/vms"
+        }
+      }
+    ],
+    "created_by": "https://minmod.isi.edu/users/s/umn",
+    "modified_at": "2025-06-15T13:44:53Z"
+  }
+]

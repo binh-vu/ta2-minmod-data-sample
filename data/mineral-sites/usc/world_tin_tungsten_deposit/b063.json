@@ -67,5 +67,176 @@
     ],
     "created_by": "https://minmod.isi.edu/users/s/usc",
     "modified_at": "2024-09-20T00:00:00Z"
+  },
+  {
+    "source_id": "https://doi.org/10.4095/295581",
+    "record_id": "961",
+    "name": "Kougarok",
+    "location_info": {
+      "country": [
+        {
+          "source": "SAND",
+          "confidence": 1.0,
+          "observed_name": "United States of America",
+          "normalized_uri": "https://minmod.isi.edu/resource/Q1235"
+        }
+      ],
+      "crs": {
+        "source": "SAND",
+        "confidence": 1.0,
+        "observed_name": "EPSG:4326",
+        "normalized_uri": "https://minmod.isi.edu/resource/Q701"
+      },
+      "location": "POINT(-165.23306 65.70361)"
+    },
+    "mineral_inventory": [
+      {
+        "reference": {
+          "document": {
+            "doi": "10.4095/295581",
+            "uri": "https://doi.org/10.4095/295581",
+            "title": "World tin and tungsten deposit database"
+          }
+        },
+        "commodity": {
+          "source": "SAND",
+          "confidence": 1.0,
+          "observed_name": "Sn",
+          "normalized_uri": "https://minmod.isi.edu/resource/Q587"
+        },
+        "grade": {
+          "value": 1.0,
+          "unit": {
+            "source": "SAND",
+            "confidence": 1.0,
+            "observed_name": "percent",
+            "normalized_uri": "https://minmod.isi.edu/resource/Q201"
+          }
+        },
+        "ore": {
+          "value": 150000.0,
+          "unit": {
+            "source": "SAND",
+            "confidence": 1.0,
+            "observed_name": "metric tons",
+            "normalized_uri": "https://minmod.isi.edu/resource/Q200"
+          }
+        },
+        "date": "2001"
+      },
+      {
+        "reference": {
+          "document": {
+            "doi": "10.4095/295581",
+            "uri": "https://doi.org/10.4095/295581",
+            "title": "World tin and tungsten deposit database"
+          }
+        },
+        "commodity": {
+          "source": "SAND",
+          "confidence": 1.0,
+          "observed_name": "Sn",
+          "normalized_uri": "https://minmod.isi.edu/resource/Q587"
+        },
+        "grade": {
+          "value": 1.0,
+          "unit": {
+            "source": "SAND",
+            "confidence": 1.0,
+            "observed_name": "percent",
+            "normalized_uri": "https://minmod.isi.edu/resource/Q201"
+          }
+        },
+        "ore": {
+          "value": 150000.0,
+          "unit": {
+            "source": "SAND",
+            "confidence": 1.0,
+            "observed_name": "metric tons",
+            "normalized_uri": "https://minmod.isi.edu/resource/Q200"
+          }
+        },
+        "date": "2001"
+      },
+      {
+        "reference": {
+          "document": {
+            "doi": "10.4095/295581",
+            "uri": "https://doi.org/10.4095/295581",
+            "title": "World tin and tungsten deposit database"
+          }
+        },
+        "commodity": {
+          "source": "SAND",
+          "confidence": 1.0,
+          "observed_name": "Sn",
+          "normalized_uri": "https://minmod.isi.edu/resource/Q587"
+        },
+        "grade": {
+          "value": 1.0,
+          "unit": {
+            "source": "SAND",
+            "confidence": 1.0,
+            "observed_name": "percent",
+            "normalized_uri": "https://minmod.isi.edu/resource/Q201"
+          }
+        },
+        "ore": {
+          "value": 150000.0,
+          "unit": {
+            "source": "SAND",
+            "confidence": 1.0,
+            "observed_name": "metric tons",
+            "normalized_uri": "https://minmod.isi.edu/resource/Q200"
+          }
+        },
+        "date": "2001"
+      },
+      {
+        "reference": {
+          "document": {
+            "doi": "10.4095/295581",
+            "uri": "https://doi.org/10.4095/295581",
+            "title": "World tin and tungsten deposit database"
+          }
+        },
+        "commodity": {
+          "source": "SAND",
+          "confidence": 1.0,
+          "observed_name": "Sn",
+          "normalized_uri": "https://minmod.isi.edu/resource/Q587"
+        },
+        "grade": {
+          "value": 1.0,
+          "unit": {
+            "source": "SAND",
+            "confidence": 1.0,
+            "observed_name": "percent",
+            "normalized_uri": "https://minmod.isi.edu/resource/Q201"
+          }
+        },
+        "ore": {
+          "value": 150000.0,
+          "unit": {
+            "source": "SAND",
+            "confidence": 1.0,
+            "observed_name": "metric tons",
+            "normalized_uri": "https://minmod.isi.edu/resource/Q200"
+          }
+        },
+        "date": "2001"
+      }
+    ],
+    "reference": [
+      {
+        "document": {
+          "doi": "10.4095/295581",
+          "uri": "https://doi.org/10.4095/295581",
+          "title": "World tin and tungsten deposit database"
+        }
+      }
+    ],
+    "created_by": "https://minmod.isi.edu/users/s/usc",
+    "modified_at": "2024-09-20T00:00:00Z"
   }
 ]

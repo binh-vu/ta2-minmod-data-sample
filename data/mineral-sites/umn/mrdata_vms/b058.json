@@ -1,0 +1,214 @@
+[
+  {
+    "source_id": "https://mrdata.usgs.gov/vms",
+    "record_id": "1276",
+    "name": "Vihanti",
+    "aliases": [
+      "Lampinsaari",
+      "Isoaho"
+    ],
+    "mineral_form": [
+      "Breithauptite"
+    ],
+    "location_info": {
+      "country": [
+        {
+          "source": "UMN Matching System-ProcMinev2",
+          "confidence": 0.9999,
+          "observed_name": "Finland",
+          "normalized_uri": "https://minmod.isi.edu/resource/Q1074"
+        }
+      ],
+      "state_or_province": [
+        {
+          "source": "UMN Matching System-ProcMinev2",
+          "confidence": 0.75,
+          "observed_name": "Oulu",
+          "normalized_uri": "https://minmod.isi.edu/resource/Q5228"
+        }
+      ],
+      "crs": {
+        "source": "UMN Matching System-ProcMinev2",
+        "confidence": 0.9999,
+        "observed_name": "EPSG:4326",
+        "normalized_uri": "https://minmod.isi.edu/resource/Q701"
+      },
+      "location": "POINT (25.1266666666667007 64.4080555555555065)"
+    },
+    "deposit_type_candidate": [
+      {
+        "source": "UMN Matching System-ProcMinev2",
+        "confidence": 0.7873677774935566,
+        "observed_name": "Bimodal-Mafic Copper",
+        "normalized_uri": "https://minmod.isi.edu/resource/Q411"
+      }
+    ],
+    "mineral_inventory": [
+      {
+        "reference": {
+          "document": {
+            "uri": "https://mrdata.usgs.gov/vms"
+          }
+        },
+        "commodity": {
+          "source": "UMN Matching System-ProcMinev2",
+          "confidence": 0.9999,
+          "observed_name": "Copper",
+          "normalized_uri": "https://minmod.isi.edu/resource/Q538"
+        },
+        "grade": {
+          "value": 0.42,
+          "unit": {
+            "source": "UMN Matching System-ProcMinev2",
+            "confidence": 0.9999,
+            "observed_name": "Wt-Pct",
+            "normalized_uri": "https://minmod.isi.edu/resource/Q201"
+          }
+        },
+        "ore": {
+          "value": 29.63,
+          "unit": {
+            "source": "UMN Matching System-ProcMinev2",
+            "confidence": 0.9999,
+            "observed_name": "million tonnes",
+            "normalized_uri": "https://minmod.isi.edu/resource/Q202"
+          }
+        }
+      },
+      {
+        "reference": {
+          "document": {
+            "uri": "https://mrdata.usgs.gov/vms"
+          }
+        },
+        "commodity": {
+          "source": "UMN Matching System-ProcMinev2",
+          "confidence": 0.9999,
+          "observed_name": "Lead",
+          "normalized_uri": "https://minmod.isi.edu/resource/Q565"
+        },
+        "grade": {
+          "value": 0.28,
+          "unit": {
+            "source": "UMN Matching System-ProcMinev2",
+            "confidence": 0.9999,
+            "observed_name": "Wt-Pct",
+            "normalized_uri": "https://minmod.isi.edu/resource/Q201"
+          }
+        },
+        "ore": {
+          "value": 29.63,
+          "unit": {
+            "source": "UMN Matching System-ProcMinev2",
+            "confidence": 0.9999,
+            "observed_name": "million tonnes",
+            "normalized_uri": "https://minmod.isi.edu/resource/Q202"
+          }
+        }
+      },
+      {
+        "reference": {
+          "document": {
+            "uri": "https://mrdata.usgs.gov/vms"
+          }
+        },
+        "commodity": {
+          "source": "UMN Matching System-ProcMinev2",
+          "confidence": 0.9999,
+          "observed_name": "Silver",
+          "normalized_uri": "https://minmod.isi.edu/resource/Q585"
+        },
+        "grade": {
+          "value": 21.0,
+          "unit": {
+            "source": "UMN Matching System-ProcMinev2",
+            "confidence": 0.9999,
+            "observed_name": "G/T",
+            "normalized_uri": "https://minmod.isi.edu/resource/Q203"
+          }
+        },
+        "ore": {
+          "value": 29.63,
+          "unit": {
+            "source": "UMN Matching System-ProcMinev2",
+            "confidence": 0.9999,
+            "observed_name": "million tonnes",
+            "normalized_uri": "https://minmod.isi.edu/resource/Q202"
+          }
+        }
+      },
+      {
+        "reference": {
+          "document": {
+            "uri": "https://mrdata.usgs.gov/vms"
+          }
+        },
+        "commodity": {
+          "source": "UMN Matching System-ProcMinev2",
+          "confidence": 0.9999,
+          "observed_name": "Zinc",
+          "normalized_uri": "https://minmod.isi.edu/resource/Q589"
+        },
+        "grade": {
+          "value": 4.68,
+          "unit": {
+            "source": "UMN Matching System-ProcMinev2",
+            "confidence": 0.9999,
+            "observed_name": "Wt-Pct",
+            "normalized_uri": "https://minmod.isi.edu/resource/Q201"
+          }
+        },
+        "ore": {
+          "value": 29.63,
+          "unit": {
+            "source": "UMN Matching System-ProcMinev2",
+            "confidence": 0.9999,
+            "observed_name": "million tonnes",
+            "normalized_uri": "https://minmod.isi.edu/resource/Q202"
+          }
+        }
+      },
+      {
+        "reference": {
+          "document": {
+            "uri": "https://mrdata.usgs.gov/vms"
+          }
+        },
+        "commodity": {
+          "source": "UMN Matching System-ProcMinev2",
+          "confidence": 0.9999,
+          "observed_name": "Gold",
+          "normalized_uri": "https://minmod.isi.edu/resource/Q551"
+        },
+        "grade": {
+          "value": 0.3,
+          "unit": {
+            "source": "UMN Matching System-ProcMinev2",
+            "confidence": 0.9999,
+            "observed_name": "G/T",
+            "normalized_uri": "https://minmod.isi.edu/resource/Q203"
+          }
+        },
+        "ore": {
+          "value": 29.63,
+          "unit": {
+            "source": "UMN Matching System-ProcMinev2",
+            "confidence": 0.9999,
+            "observed_name": "million tonnes",
+            "normalized_uri": "https://minmod.isi.edu/resource/Q202"
+          }
+        }
+      }
+    ],
+    "reference": [
+      {
+        "document": {
+          "uri": "https://mrdata.usgs.gov/vms"
+        }
+      }
+    ],
+    "discovered_year": 1954,
+    "created_by": "https://minmod.isi.edu/users/s/umn",
+    "modified_at": "2025-06-15T13:44:53Z"
+  }
+]

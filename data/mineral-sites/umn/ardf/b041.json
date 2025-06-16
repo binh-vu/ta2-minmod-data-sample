@@ -95,9 +95,9 @@
   },
   {
     "source_id": "https://doi.org/10.5066/P96MMRFD",
-    "record_id": "CI026",
-    "name": "Hope Creek",
-    "site_type": "Prospect",
+    "record_id": "CO023",
+    "name": "Unnamed",
+    "site_type": "Occurrence",
     "location_info": {
       "country": [
         {
@@ -121,7 +121,7 @@
         "observed_name": "EPSG:4267",
         "normalized_uri": "https://minmod.isi.edu/resource/Q702"
       },
-      "location": "POINT (-146.3565 65.3996)"
+      "location": "POINT (-141.36 67.8)"
     },
     "mineral_inventory": [
       {
@@ -133,8 +133,8 @@
         "commodity": {
           "source": "UMN Matching System v1",
           "confidence": 1.0,
-          "observed_name": "Au",
-          "normalized_uri": "https://minmod.isi.edu/resource/Q551"
+          "observed_name": "Sn",
+          "normalized_uri": "https://minmod.isi.edu/resource/Q587"
         }
       },
       {
@@ -146,8 +146,8 @@
         "commodity": {
           "source": "UMN Matching System v1",
           "confidence": 1.0,
-          "observed_name": "Cu",
-          "normalized_uri": "https://minmod.isi.edu/resource/Q538"
+          "observed_name": "Be",
+          "normalized_uri": "https://minmod.isi.edu/resource/Q590"
         }
       },
       {
@@ -162,20 +162,49 @@
           "observed_name": "Mo",
           "normalized_uri": "https://minmod.isi.edu/resource/Q576"
         }
-      },
+      }
+    ],
+    "reference": [
       {
-        "reference": {
-          "document": {
-            "uri": "https://doi.org/10.5066/P96MMRFD"
-          }
-        },
-        "commodity": {
+        "document": {
+          "uri": "https://doi.org/10.5066/P96MMRFD"
+        }
+      }
+    ],
+    "created_by": "https://minmod.isi.edu/users/s/umn",
+    "modified_at": "2024-10-22T03:54:38Z"
+  },
+  {
+    "source_id": "https://doi.org/10.5066/P96MMRFD",
+    "record_id": "LH007",
+    "name": "Unnamed (near Swift River)",
+    "site_type": "Occurrence",
+    "location_info": {
+      "country": [
+        {
           "source": "UMN Matching System v1",
           "confidence": 1.0,
-          "observed_name": "Pb",
-          "normalized_uri": "https://minmod.isi.edu/resource/Q565"
+          "observed_name": "United States",
+          "normalized_uri": "https://minmod.isi.edu/resource/Q1235"
         }
+      ],
+      "state_or_province": [
+        {
+          "source": "UMN Matching System v1",
+          "confidence": 1.0,
+          "observed_name": "Alaska",
+          "normalized_uri": "https://minmod.isi.edu/resource/Q6840"
+        }
+      ],
+      "crs": {
+        "source": "UMN Matching System v1",
+        "confidence": 1.0,
+        "observed_name": "EPSG:4267",
+        "normalized_uri": "https://minmod.isi.edu/resource/Q702"
       },
+      "location": "POINT (-154.1089 61.4552)"
+    },
+    "mineral_inventory": [
       {
         "reference": {
           "document": {
@@ -370,6 +399,61 @@
           "observed_name": "Lutetium",
           "normalized_uri": "https://minmod.isi.edu/resource/Q700"
         }
+      }
+    ],
+    "reference": [
+      {
+        "document": {
+          "uri": "https://doi.org/10.5066/P96MMRFD"
+        }
+      }
+    ],
+    "created_by": "https://minmod.isi.edu/users/s/umn",
+    "modified_at": "2024-10-22T03:54:38Z"
+  },
+  {
+    "source_id": "https://doi.org/10.5066/P96MMRFD",
+    "record_id": "TL034",
+    "name": "Upper Nugget Creek",
+    "site_type": "Prospect",
+    "location_info": {
+      "country": [
+        {
+          "source": "UMN Matching System v1",
+          "confidence": 1.0,
+          "observed_name": "United States",
+          "normalized_uri": "https://minmod.isi.edu/resource/Q1235"
+        }
+      ],
+      "state_or_province": [
+        {
+          "source": "UMN Matching System v1",
+          "confidence": 1.0,
+          "observed_name": "Alaska",
+          "normalized_uri": "https://minmod.isi.edu/resource/Q6840"
+        }
+      ],
+      "crs": {
+        "source": "UMN Matching System v1",
+        "confidence": 1.0,
+        "observed_name": "EPSG:4267",
+        "normalized_uri": "https://minmod.isi.edu/resource/Q702"
+      },
+      "location": "POINT (-150.982 62.561)"
+    },
+    "mineral_inventory": [
+      {
+        "reference": {
+          "document": {
+            "uri": "https://doi.org/10.5066/P96MMRFD"
+          }
+        },
+        "commodity": {
+          "source": "UMN Matching System v1",
+          "confidence": 1.0,
+          "observed_name": "Au",
+          "normalized_uri": "https://minmod.isi.edu/resource/Q551"
+        }
       },
       {
         "reference": {
@@ -380,8 +464,63 @@
         "commodity": {
           "source": "UMN Matching System v1",
           "confidence": 1.0,
-          "observed_name": "Sb",
-          "normalized_uri": "https://minmod.isi.edu/resource/Q510"
+          "observed_name": "As",
+          "normalized_uri": "https://minmod.isi.edu/resource/Q511"
+        }
+      }
+    ],
+    "reference": [
+      {
+        "document": {
+          "uri": "https://doi.org/10.5066/P96MMRFD"
+        }
+      }
+    ],
+    "created_by": "https://minmod.isi.edu/users/s/umn",
+    "modified_at": "2024-10-22T03:54:38Z"
+  },
+  {
+    "source_id": "https://doi.org/10.5066/P96MMRFD",
+    "record_id": "SO022",
+    "name": "Big Hurrah Creek",
+    "site_type": "Mine",
+    "location_info": {
+      "country": [
+        {
+          "source": "UMN Matching System v1",
+          "confidence": 1.0,
+          "observed_name": "United States",
+          "normalized_uri": "https://minmod.isi.edu/resource/Q1235"
+        }
+      ],
+      "state_or_province": [
+        {
+          "source": "UMN Matching System v1",
+          "confidence": 1.0,
+          "observed_name": "Alaska",
+          "normalized_uri": "https://minmod.isi.edu/resource/Q6840"
+        }
+      ],
+      "crs": {
+        "source": "UMN Matching System v1",
+        "confidence": 1.0,
+        "observed_name": "EPSG:4267",
+        "normalized_uri": "https://minmod.isi.edu/resource/Q702"
+      },
+      "location": "POINT (-164.247 64.653)"
+    },
+    "mineral_inventory": [
+      {
+        "reference": {
+          "document": {
+            "uri": "https://doi.org/10.5066/P96MMRFD"
+          }
+        },
+        "commodity": {
+          "source": "UMN Matching System v1",
+          "confidence": 1.0,
+          "observed_name": "Au",
+          "normalized_uri": "https://minmod.isi.edu/resource/Q551"
         }
       },
       {
@@ -410,8 +549,8 @@
   },
   {
     "source_id": "https://doi.org/10.5066/P96MMRFD",
-    "record_id": "CO023",
-    "name": "Unnamed",
+    "record_id": "NM041",
+    "name": "Unnamed (near North Star Creek)",
     "site_type": "Occurrence",
     "location_info": {
       "country": [
@@ -436,7 +575,7 @@
         "observed_name": "EPSG:4267",
         "normalized_uri": "https://minmod.isi.edu/resource/Q702"
       },
-      "location": "POINT (-141.36 67.8)"
+      "location": "POINT (-165.3728 64.915)"
     },
     "mineral_inventory": [
       {
@@ -448,89 +587,8 @@
         "commodity": {
           "source": "UMN Matching System v1",
           "confidence": 1.0,
-          "observed_name": "Sn",
-          "normalized_uri": "https://minmod.isi.edu/resource/Q587"
-        }
-      },
-      {
-        "reference": {
-          "document": {
-            "uri": "https://doi.org/10.5066/P96MMRFD"
-          }
-        },
-        "commodity": {
-          "source": "UMN Matching System v1",
-          "confidence": 1.0,
-          "observed_name": "Be",
-          "normalized_uri": "https://minmod.isi.edu/resource/Q590"
-        }
-      },
-      {
-        "reference": {
-          "document": {
-            "uri": "https://doi.org/10.5066/P96MMRFD"
-          }
-        },
-        "commodity": {
-          "source": "UMN Matching System v1",
-          "confidence": 1.0,
-          "observed_name": "Mo",
-          "normalized_uri": "https://minmod.isi.edu/resource/Q576"
-        }
-      }
-    ],
-    "reference": [
-      {
-        "document": {
-          "uri": "https://doi.org/10.5066/P96MMRFD"
-        }
-      }
-    ],
-    "created_by": "https://minmod.isi.edu/users/s/umn",
-    "modified_at": "2024-10-22T03:54:38Z"
-  },
-  {
-    "source_id": "https://doi.org/10.5066/P96MMRFD",
-    "record_id": "CV066",
-    "name": "Tansey 2",
-    "site_type": "Prospect",
-    "location_info": {
-      "country": [
-        {
-          "source": "UMN Matching System v1",
-          "confidence": 1.0,
-          "observed_name": "United States",
-          "normalized_uri": "https://minmod.isi.edu/resource/Q1235"
-        }
-      ],
-      "state_or_province": [
-        {
-          "source": "UMN Matching System v1",
-          "confidence": 1.0,
-          "observed_name": "Alaska",
-          "normalized_uri": "https://minmod.isi.edu/resource/Q6840"
-        }
-      ],
-      "crs": {
-        "source": "UMN Matching System v1",
-        "confidence": 1.0,
-        "observed_name": "EPSG:4267",
-        "normalized_uri": "https://minmod.isi.edu/resource/Q702"
-      },
-      "location": "POINT (-145.944 60.464)"
-    },
-    "mineral_inventory": [
-      {
-        "reference": {
-          "document": {
-            "uri": "https://doi.org/10.5066/P96MMRFD"
-          }
-        },
-        "commodity": {
-          "source": "UMN Matching System v1",
-          "confidence": 1.0,
-          "observed_name": "Cu",
-          "normalized_uri": "https://minmod.isi.edu/resource/Q538"
+          "observed_name": "W",
+          "normalized_uri": "https://minmod.isi.edu/resource/Q615"
         }
       }
     ],

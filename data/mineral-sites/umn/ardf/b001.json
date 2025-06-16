@@ -1,9 +1,9 @@
 [
   {
     "source_id": "https://doi.org/10.5066/P96MMRFD",
-    "record_id": "GU003",
-    "name": "Platypus Mountain",
-    "site_type": "Occurrence",
+    "record_id": "LG001",
+    "name": "Troublesome Creek",
+    "site_type": "Mine",
     "location_info": {
       "country": [
         {
@@ -27,22 +27,9 @@
         "observed_name": "EPSG:4267",
         "normalized_uri": "https://minmod.isi.edu/resource/Q702"
       },
-      "location": "POINT (-146.404 62.854)"
+      "location": "POINT (-149.6034 65.5056)"
     },
     "mineral_inventory": [
-      {
-        "reference": {
-          "document": {
-            "uri": "https://doi.org/10.5066/P96MMRFD"
-          }
-        },
-        "commodity": {
-          "source": "UMN Matching System v1",
-          "confidence": 1.0,
-          "observed_name": "Ag",
-          "normalized_uri": "https://minmod.isi.edu/resource/Q585"
-        }
-      },
       {
         "reference": {
           "document": {
@@ -65,8 +52,34 @@
         "commodity": {
           "source": "UMN Matching System v1",
           "confidence": 1.0,
-          "observed_name": "Cu",
-          "normalized_uri": "https://minmod.isi.edu/resource/Q538"
+          "observed_name": "Hg",
+          "normalized_uri": "https://minmod.isi.edu/resource/Q573"
+        }
+      },
+      {
+        "reference": {
+          "document": {
+            "uri": "https://doi.org/10.5066/P96MMRFD"
+          }
+        },
+        "commodity": {
+          "source": "UMN Matching System v1",
+          "confidence": 1.0,
+          "observed_name": "Pb",
+          "normalized_uri": "https://minmod.isi.edu/resource/Q565"
+        }
+      },
+      {
+        "reference": {
+          "document": {
+            "uri": "https://doi.org/10.5066/P96MMRFD"
+          }
+        },
+        "commodity": {
+          "source": "UMN Matching System v1",
+          "confidence": 1.0,
+          "observed_name": "Sn",
+          "normalized_uri": "https://minmod.isi.edu/resource/Q587"
         }
       }
     ],

@@ -1,13 +1,19 @@
 [
   {
     "source_id": "https://mrdata.usgs.gov/sedznpb",
-    "record_id": "208",
+    "record_id": "501",
     "deposit_type_candidate": [
       {
         "source": "algorithm predictions, SRI deposit type classification, v2.1, 20241031",
-        "confidence": 0.7946559190750122,
-        "observed_name": "Siliciclastic-mafic zinc-lead",
-        "normalized_uri": "https://minmod.isi.edu/resource/Q375"
+        "confidence": 0.4885327219963074,
+        "observed_name": "Irish-type sediment- hosted zinc- lead",
+        "normalized_uri": "https://minmod.isi.edu/resource/Q378"
+      },
+      {
+        "source": "algorithm predictions, SRI deposit type classification, v2.1, 20241031",
+        "confidence": 0.18501348048448563,
+        "observed_name": "Replacement zinc-lead",
+        "normalized_uri": "https://minmod.isi.edu/resource/Q441"
       }
     ],
     "reference": [

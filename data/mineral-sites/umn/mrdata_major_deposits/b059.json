@@ -1,6 +1,59 @@
 [
   {
     "source_id": "https://mrdata.usgs.gov/major-deposits",
+    "record_id": "3076",
+    "name": "Inyala",
+    "location_info": {
+      "country": [
+        {
+          "source": "UMN Matching System v1",
+          "confidence": 1.0,
+          "observed_name": "Zimbabwe",
+          "normalized_uri": "https://minmod.isi.edu/resource/Q1249"
+        }
+      ],
+      "crs": {
+        "source": "UMN Matching System v1",
+        "confidence": 1.0,
+        "observed_name": "EPSG:4326",
+        "normalized_uri": "https://minmod.isi.edu/resource/Q701"
+      },
+      "location": "POINT (30.125 -21)"
+    },
+    "deposit_type_candidate": [
+      {
+        "source": "UMN Matching System v1",
+        "confidence": 1.0,
+        "observed_name": "Igneous"
+      }
+    ],
+    "mineral_inventory": [
+      {
+        "reference": {
+          "document": {
+            "uri": "https://mrdata.usgs.gov/major-deposits"
+          }
+        },
+        "commodity": {
+          "source": "UMN Matching System v1",
+          "confidence": 1.0,
+          "observed_name": "Cr",
+          "normalized_uri": "https://minmod.isi.edu/resource/Q519"
+        }
+      }
+    ],
+    "reference": [
+      {
+        "document": {
+          "uri": "https://mrdata.usgs.gov/major-deposits"
+        }
+      }
+    ],
+    "created_by": "https://minmod.isi.edu/users/s/umn",
+    "modified_at": "2024-09-20T00:00:00Z"
+  },
+  {
+    "source_id": "https://mrdata.usgs.gov/major-deposits",
     "record_id": "985",
     "name": "Buchans",
     "location_info": {
@@ -106,15 +159,15 @@
   },
   {
     "source_id": "https://mrdata.usgs.gov/major-deposits",
-    "record_id": "2895",
-    "name": "Western Platinum",
+    "record_id": "2180",
+    "name": "Lake Ngami",
     "location_info": {
       "country": [
         {
           "source": "UMN Matching System v1",
           "confidence": 1.0,
-          "observed_name": "South Africa",
-          "normalized_uri": "https://minmod.isi.edu/resource/Q1204"
+          "observed_name": "Botswana",
+          "normalized_uri": "https://minmod.isi.edu/resource/Q1028"
         }
       ],
       "crs": {
@@ -123,13 +176,13 @@
         "observed_name": "EPSG:4326",
         "normalized_uri": "https://minmod.isi.edu/resource/Q701"
       },
-      "location": "POINT (27.53333 -25.68333)"
+      "location": "POINT (22.8167 -20.4167)"
     },
     "deposit_type_candidate": [
       {
         "source": "UMN Matching System v1",
         "confidence": 1.0,
-        "observed_name": "Igneous"
+        "observed_name": "Hydrothermal"
       }
     ],
     "mineral_inventory": [
@@ -142,47 +195,8 @@
         "commodity": {
           "source": "UMN Matching System v1",
           "confidence": 1.0,
-          "observed_name": "PGE",
-          "normalized_uri": "https://minmod.isi.edu/resource/Q582"
-        }
-      },
-      {
-        "reference": {
-          "document": {
-            "uri": "https://mrdata.usgs.gov/major-deposits"
-          }
-        },
-        "commodity": {
-          "source": "UMN Matching System v1",
-          "confidence": 1.0,
           "observed_name": "Cu",
           "normalized_uri": "https://minmod.isi.edu/resource/Q538"
-        }
-      },
-      {
-        "reference": {
-          "document": {
-            "uri": "https://mrdata.usgs.gov/major-deposits"
-          }
-        },
-        "commodity": {
-          "source": "UMN Matching System v1",
-          "confidence": 1.0,
-          "observed_name": "Au",
-          "normalized_uri": "https://minmod.isi.edu/resource/Q551"
-        }
-      },
-      {
-        "reference": {
-          "document": {
-            "uri": "https://mrdata.usgs.gov/major-deposits"
-          }
-        },
-        "commodity": {
-          "source": "UMN Matching System v1",
-          "confidence": 1.0,
-          "observed_name": "Ni",
-          "normalized_uri": "https://minmod.isi.edu/resource/Q578"
         }
       }
     ],

@@ -1,19 +1,13 @@
 [
   {
     "source_id": "https://mrdata.usgs.gov/major-deposits",
-    "record_id": "1200",
+    "record_id": "432",
     "deposit_type_candidate": [
       {
         "source": "algorithm predictions, SRI deposit type classification, v2.1, 20241031",
-        "confidence": 0.4998692929744721,
-        "observed_name": "Porphyry copper- molybdenum",
-        "normalized_uri": "https://minmod.isi.edu/resource/Q455"
-      },
-      {
-        "source": "algorithm predictions, SRI deposit type classification, v2.1, 20241031",
-        "confidence": 0.3117428541183472,
-        "observed_name": "Porphyry copper ± gold",
-        "normalized_uri": "https://minmod.isi.edu/resource/Q454"
+        "confidence": 0.42946484684944153,
+        "observed_name": "High-sulfidation (HS) epithermal silver-gold ± Cu",
+        "normalized_uri": "https://minmod.isi.edu/resource/Q418"
       }
     ],
     "mineral_inventory": [
@@ -26,7 +20,7 @@
         "commodity": {
           "source": "SRI database agent v0",
           "confidence": 1.0,
-          "observed_name": "Copper, molybdenum"
+          "observed_name": "Copper-silver-gold"
         }
       }
     ],

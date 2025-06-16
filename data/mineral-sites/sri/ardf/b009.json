@@ -67,14 +67,14 @@
   },
   {
     "source_id": "https://doi.org/10.5066/P96MMRFD",
-    "record_id": "SO149",
-    "site_type": "Occurrence",
+    "record_id": "MF003",
+    "site_type": "Prospect",
     "deposit_type_candidate": [
       {
         "source": "algorithm predictions, SRI deposit type classification, v2.1, 20241031",
-        "confidence": 0.7094278693199157,
-        "observed_name": "Bimodal felsic VMS",
-        "normalized_uri": "https://minmod.isi.edu/resource/Q412"
+        "confidence": 0.3482475310564041,
+        "observed_name": "U-M layered intrusion nickel- copper-PGE",
+        "normalized_uri": "https://minmod.isi.edu/resource/Q478"
       }
     ],
     "mineral_inventory": [
@@ -99,7 +99,103 @@
         "commodity": {
           "source": "SRI database agent v0",
           "confidence": 1.0,
-          "observed_name": "Ag"
+          "observed_name": "Ni"
+        }
+      },
+      {
+        "reference": {
+          "document": {
+            "uri": "https://doi.org/10.5066/P96MMRFD"
+          }
+        },
+        "commodity": {
+          "source": "SRI database agent v0",
+          "confidence": 1.0,
+          "observed_name": "Cr"
+        }
+      },
+      {
+        "reference": {
+          "document": {
+            "uri": "https://doi.org/10.5066/P96MMRFD"
+          }
+        },
+        "commodity": {
+          "source": "SRI database agent v0",
+          "confidence": 1.0,
+          "observed_name": "Fe"
+        }
+      },
+      {
+        "reference": {
+          "document": {
+            "uri": "https://doi.org/10.5066/P96MMRFD"
+          }
+        },
+        "commodity": {
+          "source": "SRI database agent v0",
+          "confidence": 1.0,
+          "observed_name": "Pb"
+        }
+      },
+      {
+        "reference": {
+          "document": {
+            "uri": "https://doi.org/10.5066/P96MMRFD"
+          }
+        },
+        "commodity": {
+          "source": "SRI database agent v0",
+          "confidence": 1.0,
+          "observed_name": "PGE (Pd"
+        }
+      },
+      {
+        "reference": {
+          "document": {
+            "uri": "https://doi.org/10.5066/P96MMRFD"
+          }
+        },
+        "commodity": {
+          "source": "SRI database agent v0",
+          "confidence": 1.0,
+          "observed_name": "Pt"
+        }
+      },
+      {
+        "reference": {
+          "document": {
+            "uri": "https://doi.org/10.5066/P96MMRFD"
+          }
+        },
+        "commodity": {
+          "source": "SRI database agent v0",
+          "confidence": 1.0,
+          "observed_name": "Rh)"
+        }
+      },
+      {
+        "reference": {
+          "document": {
+            "uri": "https://doi.org/10.5066/P96MMRFD"
+          }
+        },
+        "commodity": {
+          "source": "SRI database agent v0",
+          "confidence": 1.0,
+          "observed_name": "Te"
+        }
+      },
+      {
+        "reference": {
+          "document": {
+            "uri": "https://doi.org/10.5066/P96MMRFD"
+          }
+        },
+        "commodity": {
+          "source": "SRI database agent v0",
+          "confidence": 1.0,
+          "observed_name": "Ti"
         }
       }
     ],
@@ -115,14 +211,20 @@
   },
   {
     "source_id": "https://doi.org/10.5066/P96MMRFD",
-    "record_id": "PS003",
+    "record_id": "BN120",
     "site_type": "Occurrence",
     "deposit_type_candidate": [
       {
         "source": "algorithm predictions, SRI deposit type classification, v2.1, 20241031",
-        "confidence": 0.40110115706920624,
-        "observed_name": "Exotic copper",
-        "normalized_uri": "https://minmod.isi.edu/resource/Q334"
+        "confidence": 0.5334102094173432,
+        "observed_name": "Non-sulfide zinc-lead ± Mn",
+        "normalized_uri": "https://minmod.isi.edu/resource/Q385"
+      },
+      {
+        "source": "algorithm predictions, SRI deposit type classification, v2.1, 20241031",
+        "confidence": 0.20520284324884416,
+        "observed_name": "Supergene zinc",
+        "normalized_uri": "https://minmod.isi.edu/resource/Q330"
       }
     ],
     "mineral_inventory": [
@@ -135,43 +237,7 @@
         "commodity": {
           "source": "SRI database agent v0",
           "confidence": 1.0,
-          "observed_name": "Cu"
-        }
-      }
-    ],
-    "reference": [
-      {
-        "document": {
-          "uri": "https://doi.org/10.5066/P96MMRFD"
-        }
-      }
-    ],
-    "created_by": "https://minmod.isi.edu/users/s/sri",
-    "modified_at": "2024-11-06T18:58:25Z"
-  },
-  {
-    "source_id": "https://doi.org/10.5066/P96MMRFD",
-    "record_id": "ML009",
-    "site_type": "Occurrence",
-    "deposit_type_candidate": [
-      {
-        "source": "algorithm predictions, SRI deposit type classification, v2.1, 20241031",
-        "confidence": 0.8978636205196381,
-        "observed_name": "Volcanic-hosted copper",
-        "normalized_uri": "https://minmod.isi.edu/resource/Q373"
-      }
-    ],
-    "mineral_inventory": [
-      {
-        "reference": {
-          "document": {
-            "uri": "https://doi.org/10.5066/P96MMRFD"
-          }
-        },
-        "commodity": {
-          "source": "SRI database agent v0",
-          "confidence": 1.0,
-          "observed_name": "Cu"
+          "observed_name": "Zn"
         }
       }
     ],

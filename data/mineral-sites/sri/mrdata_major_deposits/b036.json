@@ -1,19 +1,13 @@
 [
   {
     "source_id": "https://mrdata.usgs.gov/major-deposits",
-    "record_id": "1106",
+    "record_id": "3088",
     "deposit_type_candidate": [
       {
         "source": "algorithm predictions, SRI deposit type classification, v2.1, 20241031",
-        "confidence": 0.7095175087451935,
-        "observed_name": "Hematite- dominant IOCG",
-        "normalized_uri": "https://minmod.isi.edu/resource/Q405"
-      },
-      {
-        "source": "algorithm predictions, SRI deposit type classification, v2.1, 20241031",
-        "confidence": 0.1848854586482048,
-        "observed_name": "Magnetite- dominant IOCG",
-        "normalized_uri": "https://minmod.isi.edu/resource/Q406"
+        "confidence": 0.2942905515432358,
+        "observed_name": "U-M layered intrusion chromium",
+        "normalized_uri": "https://minmod.isi.edu/resource/Q477"
       }
     ],
     "mineral_inventory": [
@@ -26,8 +20,8 @@
         "commodity": {
           "source": "SRI database agent v0",
           "confidence": 1.0,
-          "observed_name": "Copper",
-          "normalized_uri": "https://minmod.isi.edu/resource/Q538"
+          "observed_name": "Chromium",
+          "normalized_uri": "https://minmod.isi.edu/resource/Q519"
         }
       }
     ],

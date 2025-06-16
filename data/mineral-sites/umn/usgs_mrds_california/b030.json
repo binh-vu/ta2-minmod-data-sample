@@ -1,7 +1,7 @@
 [
   {
     "source_id": "https://doi.org/10.5066/P9HTERGK",
-    "record_id": "24253",
+    "record_id": "40706",
     "name": "Unnamed Prospect",
     "location_info": {
       "country": [
@@ -26,7 +26,7 @@
         "observed_name": "EPSG:4326",
         "normalized_uri": "https://minmod.isi.edu/resource/Q701"
       },
-      "location": "POINT (-115.27143 35.35721)"
+      "location": "POINT (-121.4902 36.18964)"
     },
     "mineral_inventory": [
       {
@@ -38,21 +38,8 @@
         "commodity": {
           "source": "UMN Matching System v1",
           "confidence": 1.0,
-          "observed_name": "Gold",
-          "normalized_uri": "https://minmod.isi.edu/resource/Q551"
-        }
-      },
-      {
-        "reference": {
-          "document": {
-            "uri": "https://doi.org/10.5066/P9HTERGK"
-          }
-        },
-        "commodity": {
-          "source": "UMN Matching System v1",
-          "confidence": 1.0,
-          "observed_name": "Zinc",
-          "normalized_uri": "https://minmod.isi.edu/resource/Q589"
+          "observed_name": "Molybdenum",
+          "normalized_uri": "https://minmod.isi.edu/resource/Q576"
         }
       }
     ],
@@ -215,8 +202,8 @@
   },
   {
     "source_id": "https://doi.org/10.5066/P9HTERGK",
-    "record_id": "16583",
-    "name": "Unnamed Tin Prospect",
+    "record_id": "1033",
+    "name": "War Baby",
     "location_info": {
       "country": [
         {
@@ -240,141 +227,7 @@
         "observed_name": "EPSG:4326",
         "normalized_uri": "https://minmod.isi.edu/resource/Q701"
       },
-      "location": "POINT (-117.27977 33.71474)"
-    },
-    "mineral_inventory": [
-      {
-        "reference": {
-          "document": {
-            "uri": "https://doi.org/10.5066/P9HTERGK"
-          }
-        },
-        "commodity": {
-          "source": "UMN Matching System v1",
-          "confidence": 1.0,
-          "observed_name": "Tin",
-          "normalized_uri": "https://minmod.isi.edu/resource/Q587"
-        }
-      },
-      {
-        "reference": {
-          "document": {
-            "uri": "https://doi.org/10.5066/P9HTERGK"
-          }
-        },
-        "commodity": {
-          "source": "UMN Matching System v1",
-          "confidence": 1.0,
-          "observed_name": "Gemstone",
-          "normalized_uri": "https://minmod.isi.edu/resource/Q544"
-        }
-      }
-    ],
-    "reference": [
-      {
-        "document": {
-          "uri": "https://doi.org/10.5066/P9HTERGK"
-        }
-      }
-    ],
-    "created_by": "https://minmod.isi.edu/users/s/umn",
-    "modified_at": "2024-10-26T17:28:01Z"
-  },
-  {
-    "source_id": "https://doi.org/10.5066/P9HTERGK",
-    "record_id": "16157",
-    "name": "Green Point Mercury and Uranium Psp",
-    "location_info": {
-      "country": [
-        {
-          "source": "UMN Matching System v1",
-          "confidence": 1.0,
-          "observed_name": "United States",
-          "normalized_uri": "https://minmod.isi.edu/resource/Q1235"
-        }
-      ],
-      "state_or_province": [
-        {
-          "source": "UMN Matching System v1",
-          "confidence": 1.0,
-          "observed_name": "California",
-          "normalized_uri": "https://minmod.isi.edu/resource/Q6845"
-        }
-      ],
-      "crs": {
-        "source": "UMN Matching System v1",
-        "confidence": 1.0,
-        "observed_name": "EPSG:4326",
-        "normalized_uri": "https://minmod.isi.edu/resource/Q701"
-      },
-      "location": "POINT (-121.01133 38.93429)"
-    },
-    "mineral_inventory": [
-      {
-        "reference": {
-          "document": {
-            "uri": "https://doi.org/10.5066/P9HTERGK"
-          }
-        },
-        "commodity": {
-          "source": "UMN Matching System v1",
-          "confidence": 1.0,
-          "observed_name": "Mercury",
-          "normalized_uri": "https://minmod.isi.edu/resource/Q573"
-        }
-      },
-      {
-        "reference": {
-          "document": {
-            "uri": "https://doi.org/10.5066/P9HTERGK"
-          }
-        },
-        "commodity": {
-          "source": "UMN Matching System v1",
-          "confidence": 1.0,
-          "observed_name": "Uranium",
-          "normalized_uri": "https://minmod.isi.edu/resource/Q588"
-        }
-      }
-    ],
-    "reference": [
-      {
-        "document": {
-          "uri": "https://doi.org/10.5066/P9HTERGK"
-        }
-      }
-    ],
-    "created_by": "https://minmod.isi.edu/users/s/umn",
-    "modified_at": "2024-10-26T17:28:01Z"
-  },
-  {
-    "source_id": "https://doi.org/10.5066/P9HTERGK",
-    "record_id": "38302",
-    "name": "Hill Top",
-    "location_info": {
-      "country": [
-        {
-          "source": "UMN Matching System v1",
-          "confidence": 1.0,
-          "observed_name": "United States",
-          "normalized_uri": "https://minmod.isi.edu/resource/Q1235"
-        }
-      ],
-      "state_or_province": [
-        {
-          "source": "UMN Matching System v1",
-          "confidence": 1.0,
-          "observed_name": "California",
-          "normalized_uri": "https://minmod.isi.edu/resource/Q6845"
-        }
-      ],
-      "crs": {
-        "source": "UMN Matching System v1",
-        "confidence": 1.0,
-        "observed_name": "EPSG:4326",
-        "normalized_uri": "https://minmod.isi.edu/resource/Q701"
-      },
-      "location": "POINT (-119.45265 35.99526)"
+      "location": "POINT (-119.6843 37.4166)"
     },
     "mineral_inventory": [
       {
@@ -483,8 +336,8 @@
   },
   {
     "source_id": "https://doi.org/10.5066/P9HTERGK",
-    "record_id": "26052",
-    "name": "Martha Prospect",
+    "record_id": "8905",
+    "name": "Storm Wrath Occurrence",
     "location_info": {
       "country": [
         {
@@ -508,61 +361,7 @@
         "observed_name": "EPSG:4326",
         "normalized_uri": "https://minmod.isi.edu/resource/Q701"
       },
-      "location": "POINT (-117.6637 35.33749)"
-    },
-    "mineral_inventory": [
-      {
-        "reference": {
-          "document": {
-            "uri": "https://doi.org/10.5066/P9HTERGK"
-          }
-        },
-        "commodity": {
-          "source": "UMN Matching System v1",
-          "confidence": 1.0,
-          "observed_name": "Tungsten",
-          "normalized_uri": "https://minmod.isi.edu/resource/Q615"
-        }
-      }
-    ],
-    "reference": [
-      {
-        "document": {
-          "uri": "https://doi.org/10.5066/P9HTERGK"
-        }
-      }
-    ],
-    "created_by": "https://minmod.isi.edu/users/s/umn",
-    "modified_at": "2024-10-26T17:28:01Z"
-  },
-  {
-    "source_id": "https://doi.org/10.5066/P9HTERGK",
-    "record_id": "8768",
-    "name": "Lone Pine Property",
-    "location_info": {
-      "country": [
-        {
-          "source": "UMN Matching System v1",
-          "confidence": 1.0,
-          "observed_name": "United States",
-          "normalized_uri": "https://minmod.isi.edu/resource/Q1235"
-        }
-      ],
-      "state_or_province": [
-        {
-          "source": "UMN Matching System v1",
-          "confidence": 1.0,
-          "observed_name": "California",
-          "normalized_uri": "https://minmod.isi.edu/resource/Q6845"
-        }
-      ],
-      "crs": {
-        "source": "UMN Matching System v1",
-        "confidence": 1.0,
-        "observed_name": "EPSG:4326",
-        "normalized_uri": "https://minmod.isi.edu/resource/Q701"
-      },
-      "location": "POINT (-122.39832 41.06541)"
+      "location": "POINT (-120.78686 39.11711)"
     },
     "mineral_inventory": [
       {
@@ -591,8 +390,8 @@
   },
   {
     "source_id": "https://doi.org/10.5066/P9HTERGK",
-    "record_id": "28873",
-    "name": "Green Claim",
+    "record_id": "4702",
+    "name": "Moore",
     "location_info": {
       "country": [
         {
@@ -616,7 +415,7 @@
         "observed_name": "EPSG:4326",
         "normalized_uri": "https://minmod.isi.edu/resource/Q701"
       },
-      "location": "POINT (-120.81932 38.8793)"
+      "location": "POINT (-123.24248 39.14515)"
     },
     "mineral_inventory": [
       {
@@ -630,192 +429,6 @@
           "confidence": 1.0,
           "observed_name": "Chromium",
           "normalized_uri": "https://minmod.isi.edu/resource/Q519"
-        }
-      }
-    ],
-    "reference": [
-      {
-        "document": {
-          "uri": "https://doi.org/10.5066/P9HTERGK"
-        }
-      }
-    ],
-    "created_by": "https://minmod.isi.edu/users/s/umn",
-    "modified_at": "2024-10-26T17:28:01Z"
-  },
-  {
-    "source_id": "https://doi.org/10.5066/P9HTERGK",
-    "record_id": "13852",
-    "name": "Billy Boy Hawkins, Divide",
-    "location_info": {
-      "country": [
-        {
-          "source": "UMN Matching System v1",
-          "confidence": 1.0,
-          "observed_name": "United States",
-          "normalized_uri": "https://minmod.isi.edu/resource/Q1235"
-        }
-      ],
-      "state_or_province": [
-        {
-          "source": "UMN Matching System v1",
-          "confidence": 1.0,
-          "observed_name": "California",
-          "normalized_uri": "https://minmod.isi.edu/resource/Q6845"
-        }
-      ],
-      "crs": {
-        "source": "UMN Matching System v1",
-        "confidence": 1.0,
-        "observed_name": "EPSG:4326",
-        "normalized_uri": "https://minmod.isi.edu/resource/Q701"
-      },
-      "location": "POINT (-123.98283 41.75288)"
-    },
-    "mineral_inventory": [
-      {
-        "reference": {
-          "document": {
-            "uri": "https://doi.org/10.5066/P9HTERGK"
-          }
-        },
-        "commodity": {
-          "source": "UMN Matching System v1",
-          "confidence": 1.0,
-          "observed_name": "Chromium",
-          "normalized_uri": "https://minmod.isi.edu/resource/Q519"
-        }
-      },
-      {
-        "reference": {
-          "document": {
-            "uri": "https://doi.org/10.5066/P9HTERGK"
-          }
-        },
-        "commodity": {
-          "source": "UMN Matching System v1",
-          "confidence": 1.0,
-          "observed_name": "Iron",
-          "normalized_uri": "https://minmod.isi.edu/resource/Q561"
-        }
-      }
-    ],
-    "reference": [
-      {
-        "document": {
-          "uri": "https://doi.org/10.5066/P9HTERGK"
-        }
-      }
-    ],
-    "created_by": "https://minmod.isi.edu/users/s/umn",
-    "modified_at": "2024-10-26T17:28:01Z"
-  },
-  {
-    "source_id": "https://doi.org/10.5066/P9HTERGK",
-    "record_id": "14089",
-    "name": "Long Ledge No. 3",
-    "location_info": {
-      "country": [
-        {
-          "source": "UMN Matching System v1",
-          "confidence": 1.0,
-          "observed_name": "United States",
-          "normalized_uri": "https://minmod.isi.edu/resource/Q1235"
-        }
-      ],
-      "state_or_province": [
-        {
-          "source": "UMN Matching System v1",
-          "confidence": 1.0,
-          "observed_name": "California",
-          "normalized_uri": "https://minmod.isi.edu/resource/Q6845"
-        }
-      ],
-      "crs": {
-        "source": "UMN Matching System v1",
-        "confidence": 1.0,
-        "observed_name": "EPSG:4326",
-        "normalized_uri": "https://minmod.isi.edu/resource/Q701"
-      },
-      "location": "POINT (-119.28874 36.86939)"
-    },
-    "mineral_inventory": [
-      {
-        "reference": {
-          "document": {
-            "uri": "https://doi.org/10.5066/P9HTERGK"
-          }
-        },
-        "commodity": {
-          "source": "UMN Matching System v1",
-          "confidence": 1.0,
-          "observed_name": "Chromium",
-          "normalized_uri": "https://minmod.isi.edu/resource/Q519"
-        }
-      },
-      {
-        "reference": {
-          "document": {
-            "uri": "https://doi.org/10.5066/P9HTERGK"
-          }
-        },
-        "commodity": {
-          "source": "UMN Matching System v1",
-          "confidence": 1.0,
-          "observed_name": "Platinum",
-          "normalized_uri": "https://minmod.isi.edu/resource/Q601"
-        }
-      },
-      {
-        "reference": {
-          "document": {
-            "uri": "https://doi.org/10.5066/P9HTERGK"
-          }
-        },
-        "commodity": {
-          "source": "UMN Matching System v1",
-          "confidence": 1.0,
-          "observed_name": "Ruthenium",
-          "normalized_uri": "https://minmod.isi.edu/resource/Q606"
-        }
-      },
-      {
-        "reference": {
-          "document": {
-            "uri": "https://doi.org/10.5066/P9HTERGK"
-          }
-        },
-        "commodity": {
-          "source": "UMN Matching System v1",
-          "confidence": 1.0,
-          "observed_name": "Rhodium",
-          "normalized_uri": "https://minmod.isi.edu/resource/Q604"
-        }
-      },
-      {
-        "reference": {
-          "document": {
-            "uri": "https://doi.org/10.5066/P9HTERGK"
-          }
-        },
-        "commodity": {
-          "source": "UMN Matching System v1",
-          "confidence": 1.0,
-          "observed_name": "Palladium",
-          "normalized_uri": "https://minmod.isi.edu/resource/Q600"
-        }
-      },
-      {
-        "reference": {
-          "document": {
-            "uri": "https://doi.org/10.5066/P9HTERGK"
-          }
-        },
-        "commodity": {
-          "source": "UMN Matching System v1",
-          "confidence": 1.0,
-          "observed_name": "Iridium",
-          "normalized_uri": "https://minmod.isi.edu/resource/Q596"
         }
       }
     ],
@@ -885,8 +498,8 @@
   },
   {
     "source_id": "https://doi.org/10.5066/P9HTERGK",
-    "record_id": "34623",
-    "name": "Isom Prospect",
+    "record_id": "22039",
+    "name": "Hole In the Ground",
     "location_info": {
       "country": [
         {
@@ -910,74 +523,7 @@
         "observed_name": "EPSG:4326",
         "normalized_uri": "https://minmod.isi.edu/resource/Q701"
       },
-      "location": "POINT (-120.54957 35.21137)"
-    },
-    "mineral_inventory": [
-      {
-        "reference": {
-          "document": {
-            "uri": "https://doi.org/10.5066/P9HTERGK"
-          }
-        },
-        "commodity": {
-          "source": "UMN Matching System v1",
-          "confidence": 1.0,
-          "observed_name": "Manganese",
-          "normalized_uri": "https://minmod.isi.edu/resource/Q571"
-        }
-      },
-      {
-        "reference": {
-          "document": {
-            "uri": "https://doi.org/10.5066/P9HTERGK"
-          }
-        },
-        "commodity": {
-          "source": "UMN Matching System v1",
-          "confidence": 1.0,
-          "observed_name": "Chromium",
-          "normalized_uri": "https://minmod.isi.edu/resource/Q519"
-        }
-      }
-    ],
-    "reference": [
-      {
-        "document": {
-          "uri": "https://doi.org/10.5066/P9HTERGK"
-        }
-      }
-    ],
-    "created_by": "https://minmod.isi.edu/users/s/umn",
-    "modified_at": "2024-10-26T17:28:01Z"
-  },
-  {
-    "source_id": "https://doi.org/10.5066/P9HTERGK",
-    "record_id": "29117",
-    "name": "Erickson",
-    "location_info": {
-      "country": [
-        {
-          "source": "UMN Matching System v1",
-          "confidence": 1.0,
-          "observed_name": "United States",
-          "normalized_uri": "https://minmod.isi.edu/resource/Q1235"
-        }
-      ],
-      "state_or_province": [
-        {
-          "source": "UMN Matching System v1",
-          "confidence": 1.0,
-          "observed_name": "California",
-          "normalized_uri": "https://minmod.isi.edu/resource/Q6845"
-        }
-      ],
-      "crs": {
-        "source": "UMN Matching System v1",
-        "confidence": 1.0,
-        "observed_name": "EPSG:4326",
-        "normalized_uri": "https://minmod.isi.edu/resource/Q701"
-      },
-      "location": "POINT (-119.39846 36.94024)"
+      "location": "POINT (-124.01226 41.95312)"
     },
     "mineral_inventory": [
       {
@@ -992,6 +538,71 @@
           "observed_name": "Chromium",
           "normalized_uri": "https://minmod.isi.edu/resource/Q519"
         }
+      },
+      {
+        "reference": {
+          "document": {
+            "uri": "https://doi.org/10.5066/P9HTERGK"
+          }
+        },
+        "commodity": {
+          "source": "UMN Matching System v1",
+          "confidence": 1.0,
+          "observed_name": "Platinum",
+          "normalized_uri": "https://minmod.isi.edu/resource/Q601"
+        }
+      },
+      {
+        "reference": {
+          "document": {
+            "uri": "https://doi.org/10.5066/P9HTERGK"
+          }
+        },
+        "commodity": {
+          "source": "UMN Matching System v1",
+          "confidence": 1.0,
+          "observed_name": "Palladium",
+          "normalized_uri": "https://minmod.isi.edu/resource/Q600"
+        }
+      },
+      {
+        "reference": {
+          "document": {
+            "uri": "https://doi.org/10.5066/P9HTERGK"
+          }
+        },
+        "commodity": {
+          "source": "UMN Matching System v1",
+          "confidence": 1.0,
+          "observed_name": "Iridium",
+          "normalized_uri": "https://minmod.isi.edu/resource/Q596"
+        }
+      },
+      {
+        "reference": {
+          "document": {
+            "uri": "https://doi.org/10.5066/P9HTERGK"
+          }
+        },
+        "commodity": {
+          "source": "UMN Matching System v1",
+          "confidence": 1.0,
+          "observed_name": "Ruthenium",
+          "normalized_uri": "https://minmod.isi.edu/resource/Q606"
+        }
+      },
+      {
+        "reference": {
+          "document": {
+            "uri": "https://doi.org/10.5066/P9HTERGK"
+          }
+        },
+        "commodity": {
+          "source": "UMN Matching System v1",
+          "confidence": 1.0,
+          "observed_name": "Rhodium",
+          "normalized_uri": "https://minmod.isi.edu/resource/Q604"
+        }
       }
     ],
     "reference": [
@@ -1006,8 +617,8 @@
   },
   {
     "source_id": "https://doi.org/10.5066/P9HTERGK",
-    "record_id": "8878",
-    "name": "Doodle Bug Claim",
+    "record_id": "15347",
+    "name": "Big Four Mine",
     "location_info": {
       "country": [
         {
@@ -1031,174 +642,7 @@
         "observed_name": "EPSG:4326",
         "normalized_uri": "https://minmod.isi.edu/resource/Q701"
       },
-      "location": "POINT (-120.7602 39.07822)"
-    },
-    "mineral_inventory": [
-      {
-        "reference": {
-          "document": {
-            "uri": "https://doi.org/10.5066/P9HTERGK"
-          }
-        },
-        "commodity": {
-          "source": "UMN Matching System v1",
-          "confidence": 1.0,
-          "observed_name": "Chromium",
-          "normalized_uri": "https://minmod.isi.edu/resource/Q519"
-        }
-      }
-    ],
-    "reference": [
-      {
-        "document": {
-          "uri": "https://doi.org/10.5066/P9HTERGK"
-        }
-      }
-    ],
-    "created_by": "https://minmod.isi.edu/users/s/umn",
-    "modified_at": "2024-10-26T17:28:01Z"
-  },
-  {
-    "source_id": "https://doi.org/10.5066/P9HTERGK",
-    "record_id": "1869",
-    "name": "Big Bend",
-    "location_info": {
-      "country": [
-        {
-          "source": "UMN Matching System v1",
-          "confidence": 1.0,
-          "observed_name": "United States",
-          "normalized_uri": "https://minmod.isi.edu/resource/Q1235"
-        }
-      ],
-      "state_or_province": [
-        {
-          "source": "UMN Matching System v1",
-          "confidence": 1.0,
-          "observed_name": "California",
-          "normalized_uri": "https://minmod.isi.edu/resource/Q6845"
-        }
-      ],
-      "crs": {
-        "source": "UMN Matching System v1",
-        "confidence": 1.0,
-        "observed_name": "EPSG:4326",
-        "normalized_uri": "https://minmod.isi.edu/resource/Q701"
-      },
-      "location": "POINT (-121.43244 39.69155)"
-    },
-    "deposit_type_candidate": [
-      {
-        "source": "UMN Matching System v1",
-        "confidence": 0.001,
-        "observed_name": "Replacement"
-      }
-    ],
-    "mineral_inventory": [
-      {
-        "reference": {
-          "document": {
-            "uri": "https://doi.org/10.5066/P9HTERGK"
-          }
-        },
-        "commodity": {
-          "source": "UMN Matching System v1",
-          "confidence": 1.0,
-          "observed_name": "Copper",
-          "normalized_uri": "https://minmod.isi.edu/resource/Q538"
-        }
-      },
-      {
-        "reference": {
-          "document": {
-            "uri": "https://doi.org/10.5066/P9HTERGK"
-          }
-        },
-        "commodity": {
-          "source": "UMN Matching System v1",
-          "confidence": 1.0,
-          "observed_name": "Zinc",
-          "normalized_uri": "https://minmod.isi.edu/resource/Q589"
-        }
-      },
-      {
-        "reference": {
-          "document": {
-            "uri": "https://doi.org/10.5066/P9HTERGK"
-          }
-        },
-        "commodity": {
-          "source": "UMN Matching System v1",
-          "confidence": 1.0,
-          "observed_name": "Gold",
-          "normalized_uri": "https://minmod.isi.edu/resource/Q551"
-        }
-      },
-      {
-        "reference": {
-          "document": {
-            "uri": "https://doi.org/10.5066/P9HTERGK"
-          }
-        },
-        "commodity": {
-          "source": "UMN Matching System v1",
-          "confidence": 1.0,
-          "observed_name": "Silver",
-          "normalized_uri": "https://minmod.isi.edu/resource/Q585"
-        }
-      },
-      {
-        "reference": {
-          "document": {
-            "uri": "https://doi.org/10.5066/P9HTERGK"
-          }
-        },
-        "commodity": {
-          "source": "UMN Matching System v1",
-          "confidence": 1.0,
-          "observed_name": "Lead",
-          "normalized_uri": "https://minmod.isi.edu/resource/Q565"
-        }
-      }
-    ],
-    "reference": [
-      {
-        "document": {
-          "uri": "https://doi.org/10.5066/P9HTERGK"
-        }
-      }
-    ],
-    "created_by": "https://minmod.isi.edu/users/s/umn",
-    "modified_at": "2024-10-26T17:28:01Z"
-  },
-  {
-    "source_id": "https://doi.org/10.5066/P9HTERGK",
-    "record_id": "10675",
-    "name": "Mammoth",
-    "location_info": {
-      "country": [
-        {
-          "source": "UMN Matching System v1",
-          "confidence": 1.0,
-          "observed_name": "United States",
-          "normalized_uri": "https://minmod.isi.edu/resource/Q1235"
-        }
-      ],
-      "state_or_province": [
-        {
-          "source": "UMN Matching System v1",
-          "confidence": 1.0,
-          "observed_name": "California",
-          "normalized_uri": "https://minmod.isi.edu/resource/Q6845"
-        }
-      ],
-      "crs": {
-        "source": "UMN Matching System v1",
-        "confidence": 1.0,
-        "observed_name": "EPSG:4326",
-        "normalized_uri": "https://minmod.isi.edu/resource/Q701"
-      },
-      "location": "POINT (-122.45554 40.76291)"
+      "location": "POINT (-117.3898 36.42777)"
     },
     "mineral_inventory": [
       {
@@ -1223,34 +667,8 @@
         "commodity": {
           "source": "UMN Matching System v1",
           "confidence": 1.0,
-          "observed_name": "Copper",
-          "normalized_uri": "https://minmod.isi.edu/resource/Q538"
-        }
-      },
-      {
-        "reference": {
-          "document": {
-            "uri": "https://doi.org/10.5066/P9HTERGK"
-          }
-        },
-        "commodity": {
-          "source": "UMN Matching System v1",
-          "confidence": 1.0,
           "observed_name": "Lead",
           "normalized_uri": "https://minmod.isi.edu/resource/Q565"
-        }
-      },
-      {
-        "reference": {
-          "document": {
-            "uri": "https://doi.org/10.5066/P9HTERGK"
-          }
-        },
-        "commodity": {
-          "source": "UMN Matching System v1",
-          "confidence": 1.0,
-          "observed_name": "Gold",
-          "normalized_uri": "https://minmod.isi.edu/resource/Q551"
         }
       },
       {
@@ -1275,8 +693,8 @@
         "commodity": {
           "source": "UMN Matching System v1",
           "confidence": 1.0,
-          "observed_name": "Cadmium",
-          "normalized_uri": "https://minmod.isi.edu/resource/Q516"
+          "observed_name": "Gold",
+          "normalized_uri": "https://minmod.isi.edu/resource/Q551"
         }
       },
       {
@@ -1288,21 +706,8 @@
         "commodity": {
           "source": "UMN Matching System v1",
           "confidence": 1.0,
-          "observed_name": "Sulfur",
-          "normalized_uri": "https://minmod.isi.edu/resource/Q633"
-        }
-      },
-      {
-        "reference": {
-          "document": {
-            "uri": "https://doi.org/10.5066/P9HTERGK"
-          }
-        },
-        "commodity": {
-          "source": "UMN Matching System v1",
-          "confidence": 1.0,
-          "observed_name": "Iron",
-          "normalized_uri": "https://minmod.isi.edu/resource/Q561"
+          "observed_name": "Copper",
+          "normalized_uri": "https://minmod.isi.edu/resource/Q538"
         }
       }
     ],
@@ -1318,8 +723,8 @@
   },
   {
     "source_id": "https://doi.org/10.5066/P9HTERGK",
-    "record_id": "6198",
-    "name": "Copper Button",
+    "record_id": "40623",
+    "name": "Mendocino Mining & Milling Co Inc",
     "location_info": {
       "country": [
         {
@@ -1343,7 +748,7 @@
         "observed_name": "EPSG:4326",
         "normalized_uri": "https://minmod.isi.edu/resource/Q701"
       },
-      "location": "POINT (-122.62055 41.02124)"
+      "location": "POINT (-123.06668 38.97567)"
     },
     "mineral_inventory": [
       {
@@ -1355,8 +760,47 @@
         "commodity": {
           "source": "UMN Matching System v1",
           "confidence": 1.0,
-          "observed_name": "Copper",
-          "normalized_uri": "https://minmod.isi.edu/resource/Q538"
+          "observed_name": "Gold",
+          "normalized_uri": "https://minmod.isi.edu/resource/Q551"
+        }
+      },
+      {
+        "reference": {
+          "document": {
+            "uri": "https://doi.org/10.5066/P9HTERGK"
+          }
+        },
+        "commodity": {
+          "source": "UMN Matching System v1",
+          "confidence": 1.0,
+          "observed_name": "Platinum",
+          "normalized_uri": "https://minmod.isi.edu/resource/Q601"
+        }
+      },
+      {
+        "reference": {
+          "document": {
+            "uri": "https://doi.org/10.5066/P9HTERGK"
+          }
+        },
+        "commodity": {
+          "source": "UMN Matching System v1",
+          "confidence": 1.0,
+          "observed_name": "Iridium",
+          "normalized_uri": "https://minmod.isi.edu/resource/Q596"
+        }
+      },
+      {
+        "reference": {
+          "document": {
+            "uri": "https://doi.org/10.5066/P9HTERGK"
+          }
+        },
+        "commodity": {
+          "source": "UMN Matching System v1",
+          "confidence": 1.0,
+          "observed_name": "Osmium",
+          "normalized_uri": "https://minmod.isi.edu/resource/Q599"
         }
       }
     ],

@@ -146,8 +146,8 @@
   },
   {
     "source_id": "https://doi.org/10.5382/econgeo.2018.4590",
-    "record_id": "superior-east__2219",
-    "name": "Superior East",
+    "record_id": "iron-creek__2120",
+    "name": "Iron Creek",
     "location_info": {
       "country": [
         {
@@ -155,341 +155,6 @@
           "confidence": 1.0,
           "observed_name": "USA",
           "normalized_uri": "https://minmod.isi.edu/resource/Q1235"
-        }
-      ],
-      "crs": {
-        "source": "SAND",
-        "confidence": 0.8,
-        "normalized_uri": "https://minmod.isi.edu/resource/Q701"
-      }
-    },
-    "deposit_type_candidate": [
-      {
-        "source": "SAND",
-        "confidence": 0.0,
-        "observed_name": "Porphyry"
-      }
-    ],
-    "mineral_inventory": [
-      {
-        "reference": {
-          "document": {
-            "doi": "10.5382/econgeo.2018.4590",
-            "uri": "https://doi.org/10.5382/econgeo.2018.4590",
-            "title": "Growing Global Copper Resources, Reserves and Production: Discovery Is Not the Only Control on Supply"
-          }
-        },
-        "commodity": {
-          "source": "SAND",
-          "confidence": 1.0,
-          "observed_name": "% Cu",
-          "normalized_uri": "https://minmod.isi.edu/resource/Q538"
-        },
-        "category": [
-          {
-            "source": "SAND",
-            "confidence": 0.99,
-            "normalized_uri": "https://minmod.isi.edu/resource/Inferred"
-          },
-          {
-            "source": "SAND",
-            "confidence": 0.99,
-            "normalized_uri": "https://minmod.isi.edu/resource/Indicated"
-          },
-          {
-            "source": "SAND",
-            "confidence": 0.99,
-            "normalized_uri": "https://minmod.isi.edu/resource/Measured"
-          }
-        ],
-        "grade": {
-          "value": 0.5454545455,
-          "unit": {
-            "source": "SAND",
-            "confidence": 1.0,
-            "observed_name": "% Cu",
-            "normalized_uri": "https://minmod.isi.edu/resource/Q201"
-          }
-        },
-        "ore": {
-          "value": 997.92,
-          "unit": {
-            "source": "SAND",
-            "confidence": 1.0,
-            "observed_name": "Mt",
-            "normalized_uri": "https://minmod.isi.edu/resource/Q202"
-          }
-        }
-      }
-    ],
-    "reference": [
-      {
-        "document": {
-          "doi": "10.5382/econgeo.2018.4590",
-          "uri": "https://doi.org/10.5382/econgeo.2018.4590",
-          "title": "Growing Global Copper Resources, Reserves and Production: Discovery Is Not the Only Control on Supply"
-        }
-      }
-    ],
-    "created_by": "https://minmod.isi.edu/users/s/usc",
-    "modified_at": "2024-09-20T00:00:00Z"
-  },
-  {
-    "source_id": "https://doi.org/10.5382/econgeo.2018.4590",
-    "record_id": "dizon__1582",
-    "name": "Dizon",
-    "location_info": {
-      "country": [
-        {
-          "source": "SAND",
-          "confidence": 1.0,
-          "observed_name": "Philippines",
-          "normalized_uri": "https://minmod.isi.edu/resource/Q1173"
-        }
-      ],
-      "crs": {
-        "source": "SAND",
-        "confidence": 0.8,
-        "normalized_uri": "https://minmod.isi.edu/resource/Q701"
-      }
-    },
-    "deposit_type_candidate": [
-      {
-        "source": "SAND",
-        "confidence": 0.0,
-        "observed_name": "Porphyry"
-      },
-      {
-        "source": "SAND",
-        "confidence": 0.0,
-        "observed_name": "Cu-Au"
-      }
-    ],
-    "mineral_inventory": [
-      {
-        "reference": {
-          "document": {
-            "doi": "10.5382/econgeo.2018.4590",
-            "uri": "https://doi.org/10.5382/econgeo.2018.4590",
-            "title": "Growing Global Copper Resources, Reserves and Production: Discovery Is Not the Only Control on Supply"
-          }
-        },
-        "commodity": {
-          "source": "SAND",
-          "confidence": 1.0,
-          "observed_name": "% Cu",
-          "normalized_uri": "https://minmod.isi.edu/resource/Q538"
-        },
-        "category": [
-          {
-            "source": "SAND",
-            "confidence": 0.99,
-            "normalized_uri": "https://minmod.isi.edu/resource/Inferred"
-          },
-          {
-            "source": "SAND",
-            "confidence": 0.99,
-            "normalized_uri": "https://minmod.isi.edu/resource/Indicated"
-          },
-          {
-            "source": "SAND",
-            "confidence": 0.99,
-            "normalized_uri": "https://minmod.isi.edu/resource/Measured"
-          }
-        ],
-        "grade": {
-          "value": 0.355,
-          "unit": {
-            "source": "SAND",
-            "confidence": 1.0,
-            "observed_name": "% Cu",
-            "normalized_uri": "https://minmod.isi.edu/resource/Q201"
-          }
-        },
-        "ore": {
-          "value": 85.86,
-          "unit": {
-            "source": "SAND",
-            "confidence": 1.0,
-            "observed_name": "Mt",
-            "normalized_uri": "https://minmod.isi.edu/resource/Q202"
-          }
-        }
-      },
-      {
-        "reference": {
-          "document": {
-            "doi": "10.5382/econgeo.2018.4590",
-            "uri": "https://doi.org/10.5382/econgeo.2018.4590",
-            "title": "Growing Global Copper Resources, Reserves and Production: Discovery Is Not the Only Control on Supply"
-          }
-        },
-        "commodity": {
-          "source": "SAND",
-          "confidence": 1.0,
-          "observed_name": "g/t Au",
-          "normalized_uri": "https://minmod.isi.edu/resource/Q551"
-        },
-        "category": [
-          {
-            "source": "SAND",
-            "confidence": 0.99,
-            "normalized_uri": "https://minmod.isi.edu/resource/Inferred"
-          },
-          {
-            "source": "SAND",
-            "confidence": 0.99,
-            "normalized_uri": "https://minmod.isi.edu/resource/Indicated"
-          },
-          {
-            "source": "SAND",
-            "confidence": 0.99,
-            "normalized_uri": "https://minmod.isi.edu/resource/Measured"
-          }
-        ],
-        "grade": {
-          "value": 0.746,
-          "unit": {
-            "source": "SAND",
-            "confidence": 1.0,
-            "observed_name": "g/t Au",
-            "normalized_uri": "https://minmod.isi.edu/resource/Q203"
-          }
-        },
-        "ore": {
-          "value": 85.86,
-          "unit": {
-            "source": "SAND",
-            "confidence": 1.0,
-            "observed_name": "Mt",
-            "normalized_uri": "https://minmod.isi.edu/resource/Q202"
-          }
-        }
-      },
-      {
-        "reference": {
-          "document": {
-            "doi": "10.5382/econgeo.2018.4590",
-            "uri": "https://doi.org/10.5382/econgeo.2018.4590",
-            "title": "Growing Global Copper Resources, Reserves and Production: Discovery Is Not the Only Control on Supply"
-          }
-        },
-        "commodity": {
-          "source": "SAND",
-          "confidence": 1.0,
-          "observed_name": "g/t Ag",
-          "normalized_uri": "https://minmod.isi.edu/resource/Q585"
-        },
-        "category": [
-          {
-            "source": "SAND",
-            "confidence": 0.99,
-            "normalized_uri": "https://minmod.isi.edu/resource/Inferred"
-          },
-          {
-            "source": "SAND",
-            "confidence": 0.99,
-            "normalized_uri": "https://minmod.isi.edu/resource/Indicated"
-          },
-          {
-            "source": "SAND",
-            "confidence": 0.99,
-            "normalized_uri": "https://minmod.isi.edu/resource/Measured"
-          }
-        ],
-        "grade": {
-          "value": 2.0,
-          "unit": {
-            "source": "SAND",
-            "confidence": 1.0,
-            "observed_name": "g/t Ag",
-            "normalized_uri": "https://minmod.isi.edu/resource/Q203"
-          }
-        },
-        "ore": {
-          "value": 85.86,
-          "unit": {
-            "source": "SAND",
-            "confidence": 1.0,
-            "observed_name": "Mt",
-            "normalized_uri": "https://minmod.isi.edu/resource/Q202"
-          }
-        }
-      },
-      {
-        "reference": {
-          "document": {
-            "doi": "10.5382/econgeo.2018.4590",
-            "uri": "https://doi.org/10.5382/econgeo.2018.4590",
-            "title": "Growing Global Copper Resources, Reserves and Production: Discovery Is Not the Only Control on Supply"
-          }
-        },
-        "commodity": {
-          "source": "SAND",
-          "confidence": 1.0,
-          "observed_name": "% Mo",
-          "normalized_uri": "https://minmod.isi.edu/resource/Q576"
-        },
-        "category": [
-          {
-            "source": "SAND",
-            "confidence": 0.99,
-            "normalized_uri": "https://minmod.isi.edu/resource/Inferred"
-          },
-          {
-            "source": "SAND",
-            "confidence": 0.99,
-            "normalized_uri": "https://minmod.isi.edu/resource/Indicated"
-          },
-          {
-            "source": "SAND",
-            "confidence": 0.99,
-            "normalized_uri": "https://minmod.isi.edu/resource/Measured"
-          }
-        ],
-        "grade": {
-          "value": 0.003,
-          "unit": {
-            "source": "SAND",
-            "confidence": 1.0,
-            "observed_name": "% Mo",
-            "normalized_uri": "https://minmod.isi.edu/resource/Q201"
-          }
-        },
-        "ore": {
-          "value": 85.86,
-          "unit": {
-            "source": "SAND",
-            "confidence": 1.0,
-            "observed_name": "Mt",
-            "normalized_uri": "https://minmod.isi.edu/resource/Q202"
-          }
-        }
-      }
-    ],
-    "reference": [
-      {
-        "document": {
-          "doi": "10.5382/econgeo.2018.4590",
-          "uri": "https://doi.org/10.5382/econgeo.2018.4590",
-          "title": "Growing Global Copper Resources, Reserves and Production: Discovery Is Not the Only Control on Supply"
-        }
-      }
-    ],
-    "created_by": "https://minmod.isi.edu/users/s/usc",
-    "modified_at": "2024-09-20T00:00:00Z"
-  },
-  {
-    "source_id": "https://doi.org/10.5382/econgeo.2018.4590",
-    "record_id": "carmen__713",
-    "name": "Carmen",
-    "location_info": {
-      "country": [
-        {
-          "source": "SAND",
-          "confidence": 1.0,
-          "observed_name": "Chile",
-          "normalized_uri": "https://minmod.isi.edu/resource/Q1043"
         }
       ],
       "crs": {
@@ -538,7 +203,7 @@
           }
         ],
         "grade": {
-          "value": 0.34,
+          "value": 0.2892572322,
           "unit": {
             "source": "SAND",
             "confidence": 1.0,
@@ -547,7 +212,7 @@
           }
         },
         "ore": {
-          "value": 46.0,
+          "value": 1.1603088,
           "unit": {
             "source": "SAND",
             "confidence": 1.0,
@@ -567,8 +232,8 @@
         "commodity": {
           "source": "SAND",
           "confidence": 1.0,
-          "observed_name": "g/t Au",
-          "normalized_uri": "https://minmod.isi.edu/resource/Q551"
+          "observed_name": "% Co",
+          "normalized_uri": "https://minmod.isi.edu/resource/Q537"
         },
         "category": [
           {
@@ -588,16 +253,116 @@
           }
         ],
         "grade": {
-          "value": 0.34,
+          "value": 0.5867240031,
           "unit": {
             "source": "SAND",
             "confidence": 1.0,
-            "observed_name": "g/t Au",
-            "normalized_uri": "https://minmod.isi.edu/resource/Q203"
+            "observed_name": "% Co",
+            "normalized_uri": "https://minmod.isi.edu/resource/Q201"
           }
         },
         "ore": {
-          "value": 46.0,
+          "value": 1.1603088,
+          "unit": {
+            "source": "SAND",
+            "confidence": 1.0,
+            "observed_name": "Mt",
+            "normalized_uri": "https://minmod.isi.edu/resource/Q202"
+          }
+        }
+      }
+    ],
+    "reference": [
+      {
+        "document": {
+          "doi": "10.5382/econgeo.2018.4590",
+          "uri": "https://doi.org/10.5382/econgeo.2018.4590",
+          "title": "Growing Global Copper Resources, Reserves and Production: Discovery Is Not the Only Control on Supply"
+        }
+      }
+    ],
+    "created_by": "https://minmod.isi.edu/users/s/usc",
+    "modified_at": "2024-09-20T00:00:00Z"
+  },
+  {
+    "source_id": "https://doi.org/10.5382/econgeo.2018.4590",
+    "record_id": "el-soldado__730",
+    "name": "El Soldado",
+    "location_info": {
+      "country": [
+        {
+          "source": "SAND",
+          "confidence": 1.0,
+          "observed_name": "Chile",
+          "normalized_uri": "https://minmod.isi.edu/resource/Q1043"
+        }
+      ],
+      "crs": {
+        "source": "SAND",
+        "confidence": 0.8,
+        "normalized_uri": "https://minmod.isi.edu/resource/Q701"
+      }
+    },
+    "deposit_type_candidate": [
+      {
+        "source": "SAND",
+        "confidence": 0.0,
+        "observed_name": "IOCG"
+      },
+      {
+        "source": "SAND",
+        "confidence": 0.0,
+        "observed_name": "Olympic Dam-type"
+      },
+      {
+        "source": "SAND",
+        "confidence": 0.0,
+        "observed_name": "Manto"
+      }
+    ],
+    "mineral_inventory": [
+      {
+        "reference": {
+          "document": {
+            "doi": "10.5382/econgeo.2018.4590",
+            "uri": "https://doi.org/10.5382/econgeo.2018.4590",
+            "title": "Growing Global Copper Resources, Reserves and Production: Discovery Is Not the Only Control on Supply"
+          }
+        },
+        "commodity": {
+          "source": "SAND",
+          "confidence": 1.0,
+          "observed_name": "% Cu",
+          "normalized_uri": "https://minmod.isi.edu/resource/Q538"
+        },
+        "category": [
+          {
+            "source": "SAND",
+            "confidence": 0.99,
+            "normalized_uri": "https://minmod.isi.edu/resource/Inferred"
+          },
+          {
+            "source": "SAND",
+            "confidence": 0.99,
+            "normalized_uri": "https://minmod.isi.edu/resource/Indicated"
+          },
+          {
+            "source": "SAND",
+            "confidence": 0.99,
+            "normalized_uri": "https://minmod.isi.edu/resource/Measured"
+          }
+        ],
+        "grade": {
+          "value": 0.6683312048,
+          "unit": {
+            "source": "SAND",
+            "confidence": 1.0,
+            "observed_name": "% Cu",
+            "normalized_uri": "https://minmod.isi.edu/resource/Q201"
+          }
+        },
+        "ore": {
+          "value": 234.9,
           "unit": {
             "source": "SAND",
             "confidence": 1.0,
@@ -617,37 +382,32 @@
         "commodity": {
           "source": "SAND",
           "confidence": 1.0,
-          "observed_name": "g/t Ag",
-          "normalized_uri": "https://minmod.isi.edu/resource/Q585"
+          "observed_name": "% Cu",
+          "normalized_uri": "https://minmod.isi.edu/resource/Q538"
         },
         "category": [
           {
             "source": "SAND",
             "confidence": 0.99,
-            "normalized_uri": "https://minmod.isi.edu/resource/Inferred"
+            "normalized_uri": "https://minmod.isi.edu/resource/Proven"
           },
           {
             "source": "SAND",
             "confidence": 0.99,
-            "normalized_uri": "https://minmod.isi.edu/resource/Indicated"
-          },
-          {
-            "source": "SAND",
-            "confidence": 0.99,
-            "normalized_uri": "https://minmod.isi.edu/resource/Measured"
+            "normalized_uri": "https://minmod.isi.edu/resource/Probable"
           }
         ],
         "grade": {
-          "value": 1.0,
+          "value": 0.82,
           "unit": {
             "source": "SAND",
             "confidence": 1.0,
-            "observed_name": "g/t Ag",
-            "normalized_uri": "https://minmod.isi.edu/resource/Q203"
+            "observed_name": "% Cu",
+            "normalized_uri": "https://minmod.isi.edu/resource/Q201"
           }
         },
         "ore": {
-          "value": 46.0,
+          "value": 88.8,
           "unit": {
             "source": "SAND",
             "confidence": 1.0,

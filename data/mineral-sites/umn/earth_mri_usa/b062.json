@@ -1,8 +1,8 @@
 [
   {
     "source_id": "https://doi.org/10.5066/P9K1HBNT",
-    "record_id": "502",
-    "name": "Rabbit Creek area",
+    "record_id": "192",
+    "name": "Dry Lake Antimony mine",
     "location_info": {
       "country": [
         {
@@ -16,8 +16,8 @@
         {
           "source": "UMN Matching System v1",
           "confidence": 1.0,
-          "observed_name": "WY",
-          "normalized_uri": "https://minmod.isi.edu/resource/Q6904"
+          "observed_name": "UT",
+          "normalized_uri": "https://minmod.isi.edu/resource/Q6897"
         }
       ],
       "crs": {
@@ -26,7 +26,7 @@
         "observed_name": "EPSG:4326",
         "normalized_uri": "https://minmod.isi.edu/resource/Q701"
       },
-      "location": "POINT (-105.2323 42.21026)"
+      "location": "POINT (-112.00859 41.56493)"
     },
     "mineral_inventory": [
       {
@@ -38,8 +38,8 @@
         "commodity": {
           "source": "UMN Matching System v1",
           "confidence": 1.0,
-          "observed_name": "graphite",
-          "normalized_uri": "https://minmod.isi.edu/resource/Q553"
+          "observed_name": "antimony",
+          "normalized_uri": "https://minmod.isi.edu/resource/Q510"
         }
       }
     ],

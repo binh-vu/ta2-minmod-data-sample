@@ -1,0 +1,170 @@
+[
+  {
+    "source_id": "https://mrdata.usgs.gov/deposit",
+    "record_id": "NV00130",
+    "name": "Robinson District",
+    "location_info": {
+      "country": [
+        {
+          "source": "UMN Exact Match v1",
+          "confidence": 1.0,
+          "normalized_uri": "https://minmod.isi.edu/resource/Q1235"
+        }
+      ],
+      "state_or_province": [
+        {
+          "source": "UMN Exact Match v1",
+          "confidence": 1.0,
+          "normalized_uri": "https://minmod.isi.edu/resource/Q6876"
+        }
+      ],
+      "crs": {
+        "source": "UMN Exact Match v1",
+        "confidence": 1.0,
+        "normalized_uri": "https://minmod.isi.edu/resource/Q701"
+      },
+      "location": "POINT (-114.953194 39.270283)"
+    },
+    "mineral_inventory": [
+      {
+        "reference": {
+          "document": {
+            "uri": "https://mrdata.usgs.gov/deposit"
+          }
+        },
+        "commodity": {
+          "source": "UMN Exact Match v1",
+          "confidence": 0.9,
+          "observed_name": "copper",
+          "normalized_uri": "https://minmod.isi.edu/resource/Q538"
+        }
+      },
+      {
+        "reference": {
+          "document": {
+            "uri": "https://mrdata.usgs.gov/deposit"
+          }
+        },
+        "commodity": {
+          "source": "UMN Exact Match v1",
+          "confidence": 0.9,
+          "observed_name": "gold",
+          "normalized_uri": "https://minmod.isi.edu/resource/Q551"
+        }
+      },
+      {
+        "reference": {
+          "document": {
+            "uri": "https://mrdata.usgs.gov/deposit"
+          }
+        },
+        "commodity": {
+          "source": "UMN Exact Match v1",
+          "confidence": 0.9,
+          "observed_name": "molybdenum",
+          "normalized_uri": "https://minmod.isi.edu/resource/Q576"
+        }
+      },
+      {
+        "reference": {
+          "document": {
+            "uri": "https://mrdata.usgs.gov/deposit"
+          }
+        },
+        "commodity": {
+          "source": "UMN Exact Match v1",
+          "confidence": 0.9,
+          "observed_name": "silver",
+          "normalized_uri": "https://minmod.isi.edu/resource/Q585"
+        }
+      },
+      {
+        "reference": {
+          "document": {
+            "uri": "https://mrdata.usgs.gov/deposit"
+          }
+        },
+        "commodity": {
+          "source": "UMN Exact Match v1",
+          "confidence": 0.9,
+          "observed_name": "lead",
+          "normalized_uri": "https://minmod.isi.edu/resource/Q565"
+        }
+      },
+      {
+        "reference": {
+          "document": {
+            "uri": "https://mrdata.usgs.gov/deposit"
+          }
+        },
+        "commodity": {
+          "source": "UMN Exact Match v1",
+          "confidence": 0.9,
+          "observed_name": "zinc",
+          "normalized_uri": "https://minmod.isi.edu/resource/Q589"
+        }
+      },
+      {
+        "reference": {
+          "document": {
+            "uri": "https://mrdata.usgs.gov/deposit"
+          }
+        },
+        "commodity": {
+          "source": "UMN Exact Match v1",
+          "confidence": 0.9,
+          "observed_name": "manganese",
+          "normalized_uri": "https://minmod.isi.edu/resource/Q571"
+        }
+      },
+      {
+        "reference": {
+          "document": {
+            "uri": "https://mrdata.usgs.gov/deposit"
+          }
+        },
+        "commodity": {
+          "source": "UMN Exact Match v1",
+          "confidence": 0.9,
+          "observed_name": "rhenium",
+          "normalized_uri": "https://minmod.isi.edu/resource/Q603"
+        }
+      },
+      {
+        "reference": {
+          "document": {
+            "uri": "https://mrdata.usgs.gov/deposit"
+          }
+        },
+        "commodity": {
+          "source": "UMN Exact Match v1",
+          "confidence": 0.9,
+          "observed_name": "palladium",
+          "normalized_uri": "https://minmod.isi.edu/resource/Q600"
+        }
+      },
+      {
+        "reference": {
+          "document": {
+            "uri": "https://mrdata.usgs.gov/deposit"
+          }
+        },
+        "commodity": {
+          "source": "UMN Exact Match v1",
+          "confidence": 0.9,
+          "observed_name": "platinum",
+          "normalized_uri": "https://minmod.isi.edu/resource/Q601"
+        }
+      }
+    ],
+    "reference": [
+      {
+        "document": {
+          "uri": "https://mrdata.usgs.gov/deposit"
+        }
+      }
+    ],
+    "created_by": "https://minmod.isi.edu/users/s/umn",
+    "modified_at": "2024-09-20T00:00:00Z"
+  }
+]

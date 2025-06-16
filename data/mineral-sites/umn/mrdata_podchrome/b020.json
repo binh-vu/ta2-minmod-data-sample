@@ -1,8 +1,11 @@
 [
   {
     "source_id": "https://mrdata.usgs.gov/podchrome",
-    "record_id": "74",
-    "name": "Ellis Property",
+    "record_id": "222",
+    "name": "Spot Claim",
+    "aliases": [
+      "Salt Claim"
+    ],
     "location_info": {
       "country": [
         {
@@ -26,7 +29,7 @@
         "observed_name": "EPSG:4326",
         "normalized_uri": "https://minmod.isi.edu/resource/Q701"
       },
-      "location": "POINT (-120.851944444444 38.3194444444444)"
+      "location": "POINT (-121.000833333333 39.8613888888889)"
     },
     "deposit_type_candidate": [
       {

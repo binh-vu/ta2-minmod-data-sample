@@ -1,6 +1,72 @@
 [
   {
     "source_id": "https://mrdata.usgs.gov/major-deposits",
+    "record_id": "1046",
+    "name": "Logtung",
+    "location_info": {
+      "country": [
+        {
+          "source": "UMN Matching System v1",
+          "confidence": 1.0,
+          "observed_name": "Canada",
+          "normalized_uri": "https://minmod.isi.edu/resource/Q1038"
+        }
+      ],
+      "crs": {
+        "source": "UMN Matching System v1",
+        "confidence": 1.0,
+        "observed_name": "EPSG:4326",
+        "normalized_uri": "https://minmod.isi.edu/resource/Q701"
+      },
+      "location": "POINT (-131.6167 60.0167)"
+    },
+    "deposit_type_candidate": [
+      {
+        "source": "UMN Matching System v1",
+        "confidence": 1.0,
+        "observed_name": "Hydrothermal"
+      }
+    ],
+    "mineral_inventory": [
+      {
+        "reference": {
+          "document": {
+            "uri": "https://mrdata.usgs.gov/major-deposits"
+          }
+        },
+        "commodity": {
+          "source": "UMN Matching System v1",
+          "confidence": 1.0,
+          "observed_name": "W",
+          "normalized_uri": "https://minmod.isi.edu/resource/Q615"
+        }
+      },
+      {
+        "reference": {
+          "document": {
+            "uri": "https://mrdata.usgs.gov/major-deposits"
+          }
+        },
+        "commodity": {
+          "source": "UMN Matching System v1",
+          "confidence": 1.0,
+          "observed_name": "Mo",
+          "normalized_uri": "https://minmod.isi.edu/resource/Q576"
+        }
+      }
+    ],
+    "reference": [
+      {
+        "document": {
+          "uri": "https://mrdata.usgs.gov/major-deposits"
+        }
+      }
+    ],
+    "created_by": "https://minmod.isi.edu/users/s/umn",
+    "modified_at": "2024-09-20T00:00:00Z"
+  },
+  {
+    "source_id": "https://mrdata.usgs.gov/major-deposits",
     "record_id": "587",
     "name": "Climax",
     "location_info": {
@@ -47,59 +113,6 @@
           "confidence": 1.0,
           "observed_name": "Mo",
           "normalized_uri": "https://minmod.isi.edu/resource/Q576"
-        }
-      }
-    ],
-    "reference": [
-      {
-        "document": {
-          "uri": "https://mrdata.usgs.gov/major-deposits"
-        }
-      }
-    ],
-    "created_by": "https://minmod.isi.edu/users/s/umn",
-    "modified_at": "2024-09-20T00:00:00Z"
-  },
-  {
-    "source_id": "https://mrdata.usgs.gov/major-deposits",
-    "record_id": "1591",
-    "name": "Dzhida",
-    "location_info": {
-      "country": [
-        {
-          "source": "UMN Matching System v1",
-          "confidence": 1.0,
-          "observed_name": "Russia",
-          "normalized_uri": "https://minmod.isi.edu/resource/Q1181"
-        }
-      ],
-      "crs": {
-        "source": "UMN Matching System v1",
-        "confidence": 1.0,
-        "observed_name": "EPSG:4326",
-        "normalized_uri": "https://minmod.isi.edu/resource/Q701"
-      },
-      "location": "POINT (104.633333333333 52.9)"
-    },
-    "deposit_type_candidate": [
-      {
-        "source": "UMN Matching System v1",
-        "confidence": 1.0,
-        "observed_name": "Hydrothermal"
-      }
-    ],
-    "mineral_inventory": [
-      {
-        "reference": {
-          "document": {
-            "uri": "https://mrdata.usgs.gov/major-deposits"
-          }
-        },
-        "commodity": {
-          "source": "UMN Matching System v1",
-          "confidence": 1.0,
-          "observed_name": "W",
-          "normalized_uri": "https://minmod.isi.edu/resource/Q615"
         }
       }
     ],

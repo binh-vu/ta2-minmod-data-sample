@@ -1,41 +1,6 @@
 [
   {
     "source_id": "https://mrdata.usgs.gov/major-deposits",
-    "record_id": "420",
-    "deposit_type_candidate": [
-      {
-        "source": "algorithm predictions, SRI deposit type classification, v2.1, 20241031",
-        "confidence": 0.5971526384353638,
-        "observed_name": "Porphyry gold ± copper",
-        "normalized_uri": "https://minmod.isi.edu/resource/Q456"
-      }
-    ],
-    "mineral_inventory": [
-      {
-        "reference": {
-          "document": {
-            "uri": "https://mrdata.usgs.gov/major-deposits"
-          }
-        },
-        "commodity": {
-          "source": "SRI database agent v0",
-          "confidence": 1.0,
-          "observed_name": "Copper-molybdenum-gold"
-        }
-      }
-    ],
-    "reference": [
-      {
-        "document": {
-          "uri": "https://mrdata.usgs.gov/major-deposits"
-        }
-      }
-    ],
-    "created_by": "https://minmod.isi.edu/users/s/sri",
-    "modified_at": "2024-11-06T19:08:00Z"
-  },
-  {
-    "source_id": "https://mrdata.usgs.gov/major-deposits",
     "record_id": "1055",
     "deposit_type_candidate": [
       {

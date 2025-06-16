@@ -1,11 +1,8 @@
 [
   {
     "source_id": "https://mrdata.usgs.gov/podchrome",
-    "record_id": "4",
-    "name": "Zerfing Ranch",
-    "aliases": [
-      "Old Creek"
-    ],
+    "record_id": "32",
+    "name": "Lacey",
     "location_info": {
       "country": [
         {
@@ -29,7 +26,7 @@
         "observed_name": "EPSG:4326",
         "normalized_uri": "https://minmod.isi.edu/resource/Q701"
       },
-      "location": "POINT (-120.842777777778 35.4805555555556)"
+      "location": "POINT (-119.414722222222 36.9488888888889)"
     },
     "deposit_type_candidate": [
       {
@@ -49,6 +46,19 @@
           "source": "UMN Matching System v1",
           "confidence": 1.0,
           "observed_name": "chromite"
+        }
+      },
+      {
+        "reference": {
+          "document": {
+            "uri": "https://mrdata.usgs.gov/podchrome"
+          }
+        },
+        "commodity": {
+          "source": "UMN Matching System v1",
+          "confidence": 1.0,
+          "observed_name": "magnesite",
+          "normalized_uri": "https://minmod.isi.edu/resource/Q570"
         }
       },
       {

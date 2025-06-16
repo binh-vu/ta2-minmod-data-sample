@@ -1,14 +1,14 @@
 [
   {
     "source_id": "https://doi.org/10.5066/P96MMRFD",
-    "record_id": "UK012",
-    "site_type": "Occurrence",
+    "record_id": "CI056",
+    "site_type": "Mine",
     "deposit_type_candidate": [
       {
         "source": "algorithm predictions, SRI deposit type classification, v2.1, 20241031",
-        "confidence": 0.8945692241191864,
-        "observed_name": "Intermediate- sulfidation (IS) epithermal silver-gold ± Zn, Pb, Cu, Sn, Mn",
-        "normalized_uri": "https://minmod.isi.edu/resource/Q417"
+        "confidence": 0.6045546233654022,
+        "observed_name": "Fluvial placer gold",
+        "normalized_uri": "https://minmod.isi.edu/resource/Q303"
       }
     ],
     "mineral_inventory": [
@@ -33,7 +33,7 @@
         "commodity": {
           "source": "SRI database agent v0",
           "confidence": 1.0,
-          "observed_name": "Cu"
+          "observed_name": "As"
         }
       },
       {
@@ -45,7 +45,7 @@
         "commodity": {
           "source": "SRI database agent v0",
           "confidence": 1.0,
-          "observed_name": "Ag"
+          "observed_name": "Pb"
         }
       },
       {
@@ -57,7 +57,43 @@
         "commodity": {
           "source": "SRI database agent v0",
           "confidence": 1.0,
-          "observed_name": "Mo"
+          "observed_name": "W"
+        }
+      }
+    ],
+    "reference": [
+      {
+        "document": {
+          "uri": "https://doi.org/10.5066/P96MMRFD"
+        }
+      }
+    ],
+    "created_by": "https://minmod.isi.edu/users/s/sri",
+    "modified_at": "2024-11-06T18:58:25Z"
+  },
+  {
+    "source_id": "https://doi.org/10.5066/P96MMRFD",
+    "record_id": "SO024",
+    "site_type": "Mine",
+    "deposit_type_candidate": [
+      {
+        "source": "algorithm predictions, SRI deposit type classification, v2.1, 20241031",
+        "confidence": 0.8828566610813141,
+        "observed_name": "Fluvial placer gold",
+        "normalized_uri": "https://minmod.isi.edu/resource/Q303"
+      }
+    ],
+    "mineral_inventory": [
+      {
+        "reference": {
+          "document": {
+            "uri": "https://doi.org/10.5066/P96MMRFD"
+          }
+        },
+        "commodity": {
+          "source": "SRI database agent v0",
+          "confidence": 1.0,
+          "observed_name": "Au"
         }
       },
       {
@@ -69,7 +105,61 @@
         "commodity": {
           "source": "SRI database agent v0",
           "confidence": 1.0,
-          "observed_name": "Zn"
+          "observed_name": "W"
+        }
+      }
+    ],
+    "reference": [
+      {
+        "document": {
+          "uri": "https://doi.org/10.5066/P96MMRFD"
+        }
+      }
+    ],
+    "created_by": "https://minmod.isi.edu/users/s/sri",
+    "modified_at": "2024-11-06T18:58:25Z"
+  },
+  {
+    "source_id": "https://doi.org/10.5066/P96MMRFD",
+    "record_id": "TY002",
+    "site_type": "Occurrence",
+    "deposit_type_candidate": [
+      {
+        "source": "algorithm predictions, SRI deposit type classification, v2.1, 20241031",
+        "confidence": 0.634347152709961,
+        "observed_name": "Arc U-M intrusion titanium- vanadium",
+        "normalized_uri": "https://minmod.isi.edu/resource/Q485"
+      },
+      {
+        "source": "algorithm predictions, SRI deposit type classification, v2.1, 20241031",
+        "confidence": 0.22380771785974504,
+        "observed_name": "U-M layered intrusion iron-titanium- vanadium",
+        "normalized_uri": "https://minmod.isi.edu/resource/Q480"
+      }
+    ],
+    "mineral_inventory": [
+      {
+        "reference": {
+          "document": {
+            "uri": "https://doi.org/10.5066/P96MMRFD"
+          }
+        },
+        "commodity": {
+          "source": "SRI database agent v0",
+          "confidence": 1.0,
+          "observed_name": "Fe"
+        }
+      },
+      {
+        "reference": {
+          "document": {
+            "uri": "https://doi.org/10.5066/P96MMRFD"
+          }
+        },
+        "commodity": {
+          "source": "SRI database agent v0",
+          "confidence": 1.0,
+          "observed_name": "Ti"
         }
       }
     ],

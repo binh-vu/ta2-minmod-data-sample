@@ -1,8 +1,8 @@
 [
   {
     "source_id": "https://mrdata.usgs.gov/phosphate",
-    "record_id": "1311",
-    "name": "Silver City",
+    "record_id": "1364",
+    "name": "Vernal",
     "location_info": {
       "country": [
         {
@@ -16,8 +16,8 @@
         {
           "source": "UMN Matching System v1",
           "confidence": 1.0,
-          "observed_name": "Florida",
-          "normalized_uri": "https://minmod.isi.edu/resource/Q6920"
+          "observed_name": "Utah",
+          "normalized_uri": "https://minmod.isi.edu/resource/Q6897"
         }
       ],
       "crs": {
@@ -26,7 +26,7 @@
         "observed_name": "EPSG:4326",
         "normalized_uri": "https://minmod.isi.edu/resource/Q701"
       },
-      "location": "POINT (-81.903056 27.8)"
+      "location": "POINT (-109.490556 40.606667)"
     },
     "deposit_type_candidate": [
       {
@@ -47,19 +47,6 @@
           "confidence": 1.0,
           "observed_name": "P",
           "normalized_uri": "https://minmod.isi.edu/resource/Q653"
-        }
-      },
-      {
-        "reference": {
-          "document": {
-            "uri": "https://mrdata.usgs.gov/phosphate"
-          }
-        },
-        "commodity": {
-          "source": "UMN Matching System v1",
-          "confidence": 1.0,
-          "observed_name": "F",
-          "normalized_uri": "https://minmod.isi.edu/resource/Q543"
         }
       },
       {

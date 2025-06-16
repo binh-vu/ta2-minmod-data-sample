@@ -1,6 +1,151 @@
 [
   {
     "source_id": "https://mrdata.usgs.gov/major-deposits",
+    "record_id": "1278",
+    "name": "Toquepala",
+    "location_info": {
+      "country": [
+        {
+          "source": "UMN Matching System v1",
+          "confidence": 1.0,
+          "observed_name": "Peru",
+          "normalized_uri": "https://minmod.isi.edu/resource/Q1172"
+        }
+      ],
+      "crs": {
+        "source": "UMN Matching System v1",
+        "confidence": 1.0,
+        "observed_name": "EPSG:4326",
+        "normalized_uri": "https://minmod.isi.edu/resource/Q701"
+      },
+      "location": "POINT (-70.6 -17.2166)"
+    },
+    "deposit_type_candidate": [
+      {
+        "source": "UMN Matching System v1",
+        "confidence": 1.0,
+        "observed_name": "Hydrothermal"
+      }
+    ],
+    "mineral_inventory": [
+      {
+        "reference": {
+          "document": {
+            "uri": "https://mrdata.usgs.gov/major-deposits"
+          }
+        },
+        "commodity": {
+          "source": "UMN Matching System v1",
+          "confidence": 1.0,
+          "observed_name": "Cu",
+          "normalized_uri": "https://minmod.isi.edu/resource/Q538"
+        }
+      },
+      {
+        "reference": {
+          "document": {
+            "uri": "https://mrdata.usgs.gov/major-deposits"
+          }
+        },
+        "commodity": {
+          "source": "UMN Matching System v1",
+          "confidence": 1.0,
+          "observed_name": "Mo",
+          "normalized_uri": "https://minmod.isi.edu/resource/Q576"
+        }
+      }
+    ],
+    "reference": [
+      {
+        "document": {
+          "uri": "https://mrdata.usgs.gov/major-deposits"
+        }
+      }
+    ],
+    "created_by": "https://minmod.isi.edu/users/s/umn",
+    "modified_at": "2024-09-20T00:00:00Z"
+  },
+  {
+    "source_id": "https://mrdata.usgs.gov/major-deposits",
+    "record_id": "401",
+    "name": "Westport",
+    "location_info": {
+      "country": [
+        {
+          "source": "UMN Matching System v1",
+          "confidence": 1.0,
+          "observed_name": "New Zealand",
+          "normalized_uri": "https://minmod.isi.edu/resource/Q1155"
+        }
+      ],
+      "crs": {
+        "source": "UMN Matching System v1",
+        "confidence": 1.0,
+        "observed_name": "EPSG:4326",
+        "normalized_uri": "https://minmod.isi.edu/resource/Q701"
+      },
+      "location": "POINT (171.55 -41.7833)"
+    },
+    "deposit_type_candidate": [
+      {
+        "source": "UMN Matching System v1",
+        "confidence": 1.0,
+        "observed_name": "Surficial"
+      }
+    ],
+    "mineral_inventory": [
+      {
+        "reference": {
+          "document": {
+            "uri": "https://mrdata.usgs.gov/major-deposits"
+          }
+        },
+        "commodity": {
+          "source": "UMN Matching System v1",
+          "confidence": 1.0,
+          "observed_name": "Ti",
+          "normalized_uri": "https://minmod.isi.edu/resource/Q614"
+        }
+      },
+      {
+        "reference": {
+          "document": {
+            "uri": "https://mrdata.usgs.gov/major-deposits"
+          }
+        },
+        "commodity": {
+          "source": "UMN Matching System v1",
+          "confidence": 1.0,
+          "observed_name": "Zr",
+          "normalized_uri": "https://minmod.isi.edu/resource/Q617"
+        }
+      },
+      {
+        "reference": {
+          "document": {
+            "uri": "https://mrdata.usgs.gov/major-deposits"
+          }
+        },
+        "commodity": {
+          "source": "UMN Matching System v1",
+          "confidence": 1.0,
+          "observed_name": "REE",
+          "normalized_uri": "https://minmod.isi.edu/resource/Q618"
+        }
+      }
+    ],
+    "reference": [
+      {
+        "document": {
+          "uri": "https://mrdata.usgs.gov/major-deposits"
+        }
+      }
+    ],
+    "created_by": "https://minmod.isi.edu/users/s/umn",
+    "modified_at": "2024-09-20T00:00:00Z"
+  },
+  {
+    "source_id": "https://mrdata.usgs.gov/major-deposits",
     "record_id": "3147",
     "name": "Lynx",
     "location_info": {

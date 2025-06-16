@@ -1,8 +1,8 @@
 [
   {
     "source_id": "https://doi.org/10.5066/P96MMRFD",
-    "record_id": "NB099",
-    "name": "Horsfeld",
+    "record_id": "EA058",
+    "name": "Duval Creek",
     "site_type": "Prospect",
     "location_info": {
       "country": [
@@ -27,7 +27,7 @@
         "observed_name": "EPSG:4267",
         "normalized_uri": "https://minmod.isi.edu/resource/Q702"
       },
-      "location": "POINT (-141.216 62.0443)"
+      "location": "POINT (-143.4088 64.322)"
     },
     "mineral_inventory": [
       {
@@ -39,8 +39,8 @@
         "commodity": {
           "source": "UMN Matching System v1",
           "confidence": 1.0,
-          "observed_name": "Cu",
-          "normalized_uri": "https://minmod.isi.edu/resource/Q538"
+          "observed_name": "W",
+          "normalized_uri": "https://minmod.isi.edu/resource/Q615"
         }
       },
       {
@@ -52,141 +52,8 @@
         "commodity": {
           "source": "UMN Matching System v1",
           "confidence": 1.0,
-          "observed_name": "Ag",
-          "normalized_uri": "https://minmod.isi.edu/resource/Q585"
-        }
-      },
-      {
-        "reference": {
-          "document": {
-            "uri": "https://doi.org/10.5066/P96MMRFD"
-          }
-        },
-        "commodity": {
-          "source": "UMN Matching System v1",
-          "confidence": 1.0,
-          "observed_name": "Au",
-          "normalized_uri": "https://minmod.isi.edu/resource/Q551"
-        }
-      },
-      {
-        "reference": {
-          "document": {
-            "uri": "https://doi.org/10.5066/P96MMRFD"
-          }
-        },
-        "commodity": {
-          "source": "UMN Matching System v1",
-          "confidence": 1.0,
-          "observed_name": "Mo",
-          "normalized_uri": "https://minmod.isi.edu/resource/Q576"
-        }
-      }
-    ],
-    "reference": [
-      {
-        "document": {
-          "uri": "https://doi.org/10.5066/P96MMRFD"
-        }
-      }
-    ],
-    "created_by": "https://minmod.isi.edu/users/s/umn",
-    "modified_at": "2024-10-22T03:54:38Z"
-  },
-  {
-    "source_id": "https://doi.org/10.5066/P96MMRFD",
-    "record_id": "MF009",
-    "name": "Unnamed (southeast of upper Finger Glacier)",
-    "site_type": "Occurrence",
-    "location_info": {
-      "country": [
-        {
-          "source": "UMN Matching System v1",
-          "confidence": 1.0,
-          "observed_name": "United States",
-          "normalized_uri": "https://minmod.isi.edu/resource/Q1235"
-        }
-      ],
-      "state_or_province": [
-        {
-          "source": "UMN Matching System v1",
-          "confidence": 1.0,
-          "observed_name": "Alaska",
-          "normalized_uri": "https://minmod.isi.edu/resource/Q6840"
-        }
-      ],
-      "crs": {
-        "source": "UMN Matching System v1",
-        "confidence": 1.0,
-        "observed_name": "EPSG:4267",
-        "normalized_uri": "https://minmod.isi.edu/resource/Q702"
-      },
-      "location": "POINT (-137.068 58.502)"
-    },
-    "mineral_inventory": [
-      {
-        "reference": {
-          "document": {
-            "uri": "https://doi.org/10.5066/P96MMRFD"
-          }
-        },
-        "commodity": {
-          "source": "UMN Matching System v1",
-          "confidence": 1.0,
-          "observed_name": "Fe",
-          "normalized_uri": "https://minmod.isi.edu/resource/Q561"
-        }
-      },
-      {
-        "reference": {
-          "document": {
-            "uri": "https://doi.org/10.5066/P96MMRFD"
-          }
-        },
-        "commodity": {
-          "source": "UMN Matching System v1",
-          "confidence": 1.0,
-          "observed_name": "Ti",
-          "normalized_uri": "https://minmod.isi.edu/resource/Q614"
-        }
-      },
-      {
-        "reference": {
-          "document": {
-            "uri": "https://doi.org/10.5066/P96MMRFD"
-          }
-        },
-        "commodity": {
-          "source": "UMN Matching System v1",
-          "confidence": 1.0,
-          "observed_name": "Cu",
-          "normalized_uri": "https://minmod.isi.edu/resource/Q538"
-        }
-      },
-      {
-        "reference": {
-          "document": {
-            "uri": "https://doi.org/10.5066/P96MMRFD"
-          }
-        },
-        "commodity": {
-          "source": "UMN Matching System v1",
-          "confidence": 1.0,
-          "observed_name": "Pb",
-          "normalized_uri": "https://minmod.isi.edu/resource/Q565"
-        }
-      },
-      {
-        "reference": {
-          "document": {
-            "uri": "https://doi.org/10.5066/P96MMRFD"
-          }
-        },
-        "commodity": {
-          "source": "UMN Matching System v1",
-          "confidence": 1.0,
-          "observed_name": "Sn",
-          "normalized_uri": "https://minmod.isi.edu/resource/Q587"
+          "observed_name": "F",
+          "normalized_uri": "https://minmod.isi.edu/resource/Q543"
         }
       }
     ],

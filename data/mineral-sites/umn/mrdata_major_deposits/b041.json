@@ -1,15 +1,15 @@
 [
   {
     "source_id": "https://mrdata.usgs.gov/major-deposits",
-    "record_id": "441",
-    "name": "Nonoc I",
+    "record_id": "2597",
+    "name": "Berg Aukas",
     "location_info": {
       "country": [
         {
           "source": "UMN Matching System v1",
           "confidence": 1.0,
-          "observed_name": "Philippines",
-          "normalized_uri": "https://minmod.isi.edu/resource/Q1173"
+          "observed_name": "Namibia",
+          "normalized_uri": "https://minmod.isi.edu/resource/Q1150"
         }
       ],
       "crs": {
@@ -18,13 +18,13 @@
         "observed_name": "EPSG:4326",
         "normalized_uri": "https://minmod.isi.edu/resource/Q701"
       },
-      "location": "POINT (125.6333 10.2)"
+      "location": "POINT (18.46667 -19.45)"
     },
     "deposit_type_candidate": [
       {
         "source": "UMN Matching System v1",
         "confidence": 1.0,
-        "observed_name": "Surficial"
+        "observed_name": "Hydrothermal"
       }
     ],
     "mineral_inventory": [
@@ -37,10 +37,84 @@
         "commodity": {
           "source": "UMN Matching System v1",
           "confidence": 1.0,
-          "observed_name": "Co",
-          "normalized_uri": "https://minmod.isi.edu/resource/Q537"
+          "observed_name": "Zn",
+          "normalized_uri": "https://minmod.isi.edu/resource/Q589"
         }
       },
+      {
+        "reference": {
+          "document": {
+            "uri": "https://mrdata.usgs.gov/major-deposits"
+          }
+        },
+        "commodity": {
+          "source": "UMN Matching System v1",
+          "confidence": 1.0,
+          "observed_name": "Pb",
+          "normalized_uri": "https://minmod.isi.edu/resource/Q565"
+        }
+      },
+      {
+        "reference": {
+          "document": {
+            "uri": "https://mrdata.usgs.gov/major-deposits"
+          }
+        },
+        "commodity": {
+          "source": "UMN Matching System v1",
+          "confidence": 1.0,
+          "observed_name": "V",
+          "normalized_uri": "https://minmod.isi.edu/resource/Q616"
+        }
+      }
+    ],
+    "reference": [
+      {
+        "document": {
+          "uri": "https://mrdata.usgs.gov/major-deposits"
+        }
+      }
+    ],
+    "created_by": "https://minmod.isi.edu/users/s/umn",
+    "modified_at": "2024-09-20T00:00:00Z"
+  },
+  {
+    "source_id": "https://mrdata.usgs.gov/major-deposits",
+    "record_id": "469",
+    "name": "Kennecott",
+    "location_info": {
+      "country": [
+        {
+          "source": "UMN Matching System v1",
+          "confidence": 1.0,
+          "observed_name": "United States",
+          "normalized_uri": "https://minmod.isi.edu/resource/Q1235"
+        }
+      ],
+      "state_or_province": [
+        {
+          "source": "UMN Matching System v1",
+          "confidence": 1.0,
+          "observed_name": "Alaska",
+          "normalized_uri": "https://minmod.isi.edu/resource/Q6840"
+        }
+      ],
+      "crs": {
+        "source": "UMN Matching System v1",
+        "confidence": 1.0,
+        "observed_name": "EPSG:4326",
+        "normalized_uri": "https://minmod.isi.edu/resource/Q701"
+      },
+      "location": "POINT (-142.84 61.528)"
+    },
+    "deposit_type_candidate": [
+      {
+        "source": "UMN Matching System v1",
+        "confidence": 1.0,
+        "observed_name": "Hydrothermal"
+      }
+    ],
+    "mineral_inventory": [
       {
         "reference": {
           "document": {
@@ -52,19 +126,6 @@
           "confidence": 1.0,
           "observed_name": "Cu",
           "normalized_uri": "https://minmod.isi.edu/resource/Q538"
-        }
-      },
-      {
-        "reference": {
-          "document": {
-            "uri": "https://mrdata.usgs.gov/major-deposits"
-          }
-        },
-        "commodity": {
-          "source": "UMN Matching System v1",
-          "confidence": 1.0,
-          "observed_name": "Ni",
-          "normalized_uri": "https://minmod.isi.edu/resource/Q578"
         }
       }
     ],

@@ -1,13 +1,19 @@
 [
   {
     "source_id": "https://mrdata.usgs.gov/ree",
-    "record_id": "342",
+    "record_id": "451",
     "deposit_type_candidate": [
       {
         "source": "algorithm predictions, SRI deposit type classification, v2.1, 20241031",
-        "confidence": 0.5725697100162507,
-        "observed_name": "Abyssal pegmatite REE",
-        "normalized_uri": "https://minmod.isi.edu/resource/Q469"
+        "confidence": 0.5239107370376587,
+        "observed_name": "Paleoplacer heavy mineral sands",
+        "normalized_uri": "https://minmod.isi.edu/resource/Q314"
+      },
+      {
+        "source": "algorithm predictions, SRI deposit type classification, v2.1, 20241031",
+        "confidence": 0.24828543663024902,
+        "observed_name": "Heavy mineral sands",
+        "normalized_uri": "https://minmod.isi.edu/resource/Q312"
       }
     ],
     "reference": [

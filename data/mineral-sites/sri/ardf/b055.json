@@ -1,14 +1,14 @@
 [
   {
     "source_id": "https://doi.org/10.5066/P96MMRFD",
-    "record_id": "CL013",
-    "site_type": "Occurrence",
+    "record_id": "VA118",
+    "site_type": "Prospect",
     "deposit_type_candidate": [
       {
         "source": "algorithm predictions, SRI deposit type classification, v2.1, 20241031",
-        "confidence": 0.8744021236896515,
-        "observed_name": "Phosphorite",
-        "normalized_uri": "https://minmod.isi.edu/resource/Q361"
+        "confidence": 0.8711486577987672,
+        "observed_name": "Mesozonal orogenic gold",
+        "normalized_uri": "https://minmod.isi.edu/resource/Q388"
       }
     ],
     "mineral_inventory": [
@@ -21,7 +21,7 @@
         "commodity": {
           "source": "SRI database agent v0",
           "confidence": 1.0,
-          "observed_name": "P"
+          "observed_name": "Au"
         }
       },
       {
@@ -33,33 +33,9 @@
         "commodity": {
           "source": "SRI database agent v0",
           "confidence": 1.0,
-          "observed_name": "V"
+          "observed_name": "Cu"
         }
-      }
-    ],
-    "reference": [
-      {
-        "document": {
-          "uri": "https://doi.org/10.5066/P96MMRFD"
-        }
-      }
-    ],
-    "created_by": "https://minmod.isi.edu/users/s/sri",
-    "modified_at": "2024-11-06T18:58:25Z"
-  },
-  {
-    "source_id": "https://doi.org/10.5066/P96MMRFD",
-    "record_id": "TK041",
-    "site_type": "Occurrence",
-    "deposit_type_candidate": [
-      {
-        "source": "algorithm predictions, SRI deposit type classification, v2.1, 20241031",
-        "confidence": 0.6123420417308808,
-        "observed_name": "Volcanic-hosted copper",
-        "normalized_uri": "https://minmod.isi.edu/resource/Q373"
-      }
-    ],
-    "mineral_inventory": [
+      },
       {
         "reference": {
           "document": {
@@ -69,7 +45,19 @@
         "commodity": {
           "source": "SRI database agent v0",
           "confidence": 1.0,
-          "observed_name": "Cu"
+          "observed_name": "Pb"
+        }
+      },
+      {
+        "reference": {
+          "document": {
+            "uri": "https://doi.org/10.5066/P96MMRFD"
+          }
+        },
+        "commodity": {
+          "source": "SRI database agent v0",
+          "confidence": 1.0,
+          "observed_name": "Zn"
         }
       }
     ],

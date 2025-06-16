@@ -69,9 +69,9 @@
   },
   {
     "source_id": "https://doi.org/10.5066/P96MMRFD",
-    "record_id": "MF085",
-    "name": "Unnamed (on Idaho Ridge)",
-    "site_type": "Occurrence",
+    "record_id": "NB097",
+    "name": "Unnamed (south of upper Gravel Creek)",
+    "site_type": "Prospect",
     "location_info": {
       "country": [
         {
@@ -95,7 +95,7 @@
         "observed_name": "EPSG:4267",
         "normalized_uri": "https://minmod.isi.edu/resource/Q702"
       },
-      "location": "POINT (-136.258 58.901)"
+      "location": "POINT (-141.2527 62.0786)"
     },
     "mineral_inventory": [
       {
@@ -107,47 +107,21 @@
         "commodity": {
           "source": "UMN Matching System v1",
           "confidence": 1.0,
-          "observed_name": "Mo",
-          "normalized_uri": "https://minmod.isi.edu/resource/Q576"
-        }
-      },
-      {
-        "reference": {
-          "document": {
-            "uri": "https://doi.org/10.5066/P96MMRFD"
-          }
-        },
-        "commodity": {
-          "source": "UMN Matching System v1",
-          "confidence": 1.0,
-          "observed_name": "W",
-          "normalized_uri": "https://minmod.isi.edu/resource/Q615"
-        }
-      },
-      {
-        "reference": {
-          "document": {
-            "uri": "https://doi.org/10.5066/P96MMRFD"
-          }
-        },
-        "commodity": {
-          "source": "UMN Matching System v1",
-          "confidence": 1.0,
-          "observed_name": "Ag",
-          "normalized_uri": "https://minmod.isi.edu/resource/Q585"
-        }
-      },
-      {
-        "reference": {
-          "document": {
-            "uri": "https://doi.org/10.5066/P96MMRFD"
-          }
-        },
-        "commodity": {
-          "source": "UMN Matching System v1",
-          "confidence": 1.0,
           "observed_name": "Cu",
           "normalized_uri": "https://minmod.isi.edu/resource/Q538"
+        }
+      },
+      {
+        "reference": {
+          "document": {
+            "uri": "https://doi.org/10.5066/P96MMRFD"
+          }
+        },
+        "commodity": {
+          "source": "UMN Matching System v1",
+          "confidence": 1.0,
+          "observed_name": "Mo",
+          "normalized_uri": "https://minmod.isi.edu/resource/Q576"
         }
       }
     ],
@@ -163,8 +137,8 @@
   },
   {
     "source_id": "https://doi.org/10.5066/P96MMRFD",
-    "record_id": "AR037",
-    "name": "Unnamed",
+    "record_id": "MG017",
+    "name": "Unnamed (near Cheeneetnuk River)",
     "site_type": "Occurrence",
     "location_info": {
       "country": [
@@ -189,7 +163,7 @@
         "observed_name": "EPSG:4267",
         "normalized_uri": "https://minmod.isi.edu/resource/Q702"
       },
-      "location": "POINT (-156.2771 67.4141)"
+      "location": "POINT (-155.2303 62.0334)"
     },
     "mineral_inventory": [
       {
@@ -201,8 +175,8 @@
         "commodity": {
           "source": "UMN Matching System v1",
           "confidence": 1.0,
-          "observed_name": "Ag",
-          "normalized_uri": "https://minmod.isi.edu/resource/Q585"
+          "observed_name": "Cu",
+          "normalized_uri": "https://minmod.isi.edu/resource/Q538"
         }
       },
       {
@@ -216,6 +190,74 @@
           "confidence": 1.0,
           "observed_name": "Mo",
           "normalized_uri": "https://minmod.isi.edu/resource/Q576"
+        }
+      },
+      {
+        "reference": {
+          "document": {
+            "uri": "https://doi.org/10.5066/P96MMRFD"
+          }
+        },
+        "commodity": {
+          "source": "UMN Matching System v1",
+          "confidence": 1.0,
+          "observed_name": "Zn",
+          "normalized_uri": "https://minmod.isi.edu/resource/Q589"
+        }
+      }
+    ],
+    "reference": [
+      {
+        "document": {
+          "uri": "https://doi.org/10.5066/P96MMRFD"
+        }
+      }
+    ],
+    "created_by": "https://minmod.isi.edu/users/s/umn",
+    "modified_at": "2024-10-22T03:54:38Z"
+  },
+  {
+    "source_id": "https://doi.org/10.5066/P96MMRFD",
+    "record_id": "LH021",
+    "name": "Unnamed (upper Styx River)",
+    "site_type": "Occurrence",
+    "location_info": {
+      "country": [
+        {
+          "source": "UMN Matching System v1",
+          "confidence": 1.0,
+          "observed_name": "United States",
+          "normalized_uri": "https://minmod.isi.edu/resource/Q1235"
+        }
+      ],
+      "state_or_province": [
+        {
+          "source": "UMN Matching System v1",
+          "confidence": 1.0,
+          "observed_name": "Alaska",
+          "normalized_uri": "https://minmod.isi.edu/resource/Q6840"
+        }
+      ],
+      "crs": {
+        "source": "UMN Matching System v1",
+        "confidence": 1.0,
+        "observed_name": "EPSG:4267",
+        "normalized_uri": "https://minmod.isi.edu/resource/Q702"
+      },
+      "location": "POINT (-153.1113 61.5)"
+    },
+    "mineral_inventory": [
+      {
+        "reference": {
+          "document": {
+            "uri": "https://doi.org/10.5066/P96MMRFD"
+          }
+        },
+        "commodity": {
+          "source": "UMN Matching System v1",
+          "confidence": 1.0,
+          "observed_name": "Ag",
+          "normalized_uri": "https://minmod.isi.edu/resource/Q585"
         }
       },
       {
@@ -257,8 +299,8 @@
   },
   {
     "source_id": "https://doi.org/10.5066/P96MMRFD",
-    "record_id": "MD064",
-    "name": "Pupinski",
+    "record_id": "FB041",
+    "name": "Prometheus",
     "site_type": "Prospect",
     "location_info": {
       "country": [
@@ -283,182 +325,7 @@
         "observed_name": "EPSG:4267",
         "normalized_uri": "https://minmod.isi.edu/resource/Q702"
       },
-      "location": "POINT (-154.7217 63.2379)"
-    },
-    "mineral_inventory": [
-      {
-        "reference": {
-          "document": {
-            "uri": "https://doi.org/10.5066/P96MMRFD"
-          }
-        },
-        "commodity": {
-          "source": "UMN Matching System v1",
-          "confidence": 1.0,
-          "observed_name": "Ag",
-          "normalized_uri": "https://minmod.isi.edu/resource/Q585"
-        }
-      },
-      {
-        "reference": {
-          "document": {
-            "uri": "https://doi.org/10.5066/P96MMRFD"
-          }
-        },
-        "commodity": {
-          "source": "UMN Matching System v1",
-          "confidence": 1.0,
-          "observed_name": "Sn",
-          "normalized_uri": "https://minmod.isi.edu/resource/Q587"
-        }
-      },
-      {
-        "reference": {
-          "document": {
-            "uri": "https://doi.org/10.5066/P96MMRFD"
-          }
-        },
-        "commodity": {
-          "source": "UMN Matching System v1",
-          "confidence": 1.0,
-          "observed_name": "Cu",
-          "normalized_uri": "https://minmod.isi.edu/resource/Q538"
-        }
-      },
-      {
-        "reference": {
-          "document": {
-            "uri": "https://doi.org/10.5066/P96MMRFD"
-          }
-        },
-        "commodity": {
-          "source": "UMN Matching System v1",
-          "confidence": 1.0,
-          "observed_name": "W",
-          "normalized_uri": "https://minmod.isi.edu/resource/Q615"
-        }
-      }
-    ],
-    "reference": [
-      {
-        "document": {
-          "uri": "https://doi.org/10.5066/P96MMRFD"
-        }
-      }
-    ],
-    "created_by": "https://minmod.isi.edu/users/s/umn",
-    "modified_at": "2024-10-22T03:54:38Z"
-  },
-  {
-    "source_id": "https://doi.org/10.5066/P96MMRFD",
-    "record_id": "CL010",
-    "name": "Nanushuk River",
-    "site_type": "Occurrence",
-    "location_info": {
-      "country": [
-        {
-          "source": "UMN Matching System v1",
-          "confidence": 1.0,
-          "observed_name": "United States",
-          "normalized_uri": "https://minmod.isi.edu/resource/Q1235"
-        }
-      ],
-      "state_or_province": [
-        {
-          "source": "UMN Matching System v1",
-          "confidence": 1.0,
-          "observed_name": "Alaska",
-          "normalized_uri": "https://minmod.isi.edu/resource/Q6840"
-        }
-      ],
-      "crs": {
-        "source": "UMN Matching System v1",
-        "confidence": 1.0,
-        "observed_name": "EPSG:4267",
-        "normalized_uri": "https://minmod.isi.edu/resource/Q702"
-      },
-      "location": "POINT (-150.66 68.31)"
-    },
-    "mineral_inventory": [
-      {
-        "reference": {
-          "document": {
-            "uri": "https://doi.org/10.5066/P96MMRFD"
-          }
-        },
-        "commodity": {
-          "source": "UMN Matching System v1",
-          "confidence": 1.0,
-          "observed_name": "Cu",
-          "normalized_uri": "https://minmod.isi.edu/resource/Q538"
-        }
-      },
-      {
-        "reference": {
-          "document": {
-            "uri": "https://doi.org/10.5066/P96MMRFD"
-          }
-        },
-        "commodity": {
-          "source": "UMN Matching System v1",
-          "confidence": 1.0,
-          "observed_name": "Ba",
-          "normalized_uri": "https://minmod.isi.edu/resource/Q684"
-        }
-      },
-      {
-        "reference": {
-          "document": {
-            "uri": "https://doi.org/10.5066/P96MMRFD"
-          }
-        },
-        "commodity": {
-          "source": "UMN Matching System v1",
-          "confidence": 1.0,
-          "observed_name": "Pb",
-          "normalized_uri": "https://minmod.isi.edu/resource/Q565"
-        }
-      }
-    ],
-    "reference": [
-      {
-        "document": {
-          "uri": "https://doi.org/10.5066/P96MMRFD"
-        }
-      }
-    ],
-    "created_by": "https://minmod.isi.edu/users/s/umn",
-    "modified_at": "2024-10-22T03:54:38Z"
-  },
-  {
-    "source_id": "https://doi.org/10.5066/P96MMRFD",
-    "record_id": "KC076",
-    "name": "Birdseye",
-    "site_type": "Prospect",
-    "location_info": {
-      "country": [
-        {
-          "source": "UMN Matching System v1",
-          "confidence": 1.0,
-          "observed_name": "United States",
-          "normalized_uri": "https://minmod.isi.edu/resource/Q1235"
-        }
-      ],
-      "state_or_province": [
-        {
-          "source": "UMN Matching System v1",
-          "confidence": 1.0,
-          "observed_name": "Alaska",
-          "normalized_uri": "https://minmod.isi.edu/resource/Q6840"
-        }
-      ],
-      "crs": {
-        "source": "UMN Matching System v1",
-        "confidence": 1.0,
-        "observed_name": "EPSG:4267",
-        "normalized_uri": "https://minmod.isi.edu/resource/Q702"
-      },
-      "location": "POINT (-131.564 55.306)"
+      "location": "POINT (-148.005 64.8744)"
     },
     "mineral_inventory": [
       {
@@ -483,65 +350,10 @@
         "commodity": {
           "source": "UMN Matching System v1",
           "confidence": 1.0,
-          "observed_name": "Pb",
-          "normalized_uri": "https://minmod.isi.edu/resource/Q565"
+          "observed_name": "Ag",
+          "normalized_uri": "https://minmod.isi.edu/resource/Q585"
         }
       },
-      {
-        "reference": {
-          "document": {
-            "uri": "https://doi.org/10.5066/P96MMRFD"
-          }
-        },
-        "commodity": {
-          "source": "UMN Matching System v1",
-          "confidence": 1.0,
-          "observed_name": "Zn",
-          "normalized_uri": "https://minmod.isi.edu/resource/Q589"
-        }
-      }
-    ],
-    "reference": [
-      {
-        "document": {
-          "uri": "https://doi.org/10.5066/P96MMRFD"
-        }
-      }
-    ],
-    "created_by": "https://minmod.isi.edu/users/s/umn",
-    "modified_at": "2024-10-22T03:54:38Z"
-  },
-  {
-    "source_id": "https://doi.org/10.5066/P96MMRFD",
-    "record_id": "BN136",
-    "name": "Unnamed (upper Niukluk River)",
-    "site_type": "Prospect",
-    "location_info": {
-      "country": [
-        {
-          "source": "UMN Matching System v1",
-          "confidence": 1.0,
-          "observed_name": "United States",
-          "normalized_uri": "https://minmod.isi.edu/resource/Q1235"
-        }
-      ],
-      "state_or_province": [
-        {
-          "source": "UMN Matching System v1",
-          "confidence": 1.0,
-          "observed_name": "Alaska",
-          "normalized_uri": "https://minmod.isi.edu/resource/Q6840"
-        }
-      ],
-      "crs": {
-        "source": "UMN Matching System v1",
-        "confidence": 1.0,
-        "observed_name": "EPSG:4267",
-        "normalized_uri": "https://minmod.isi.edu/resource/Q702"
-      },
-      "location": "POINT (-163.875 65.2)"
-    },
-    "mineral_inventory": [
       {
         "reference": {
           "document": {
@@ -564,8 +376,8 @@
         "commodity": {
           "source": "UMN Matching System v1",
           "confidence": 1.0,
-          "observed_name": "Pb",
-          "normalized_uri": "https://minmod.isi.edu/resource/Q565"
+          "observed_name": "Sb",
+          "normalized_uri": "https://minmod.isi.edu/resource/Q510"
         }
       }
     ],

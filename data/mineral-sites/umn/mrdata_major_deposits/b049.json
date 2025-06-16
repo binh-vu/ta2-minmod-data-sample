@@ -1,8 +1,8 @@
 [
   {
     "source_id": "https://mrdata.usgs.gov/major-deposits",
-    "record_id": "3018",
-    "name": "Nakiloro",
+    "record_id": "3020",
+    "name": "Kilembe",
     "location_info": {
       "country": [
         {
@@ -18,13 +18,13 @@
         "observed_name": "EPSG:4326",
         "normalized_uri": "https://minmod.isi.edu/resource/Q701"
       },
-      "location": "POINT (30.83333 2.55)"
+      "location": "POINT (30.0167 0.2333)"
     },
     "deposit_type_candidate": [
       {
         "source": "UMN Matching System v1",
         "confidence": 1.0,
-        "observed_name": "Igneous"
+        "observed_name": "Hydrothermal"
       }
     ],
     "mineral_inventory": [
@@ -37,8 +37,21 @@
         "commodity": {
           "source": "UMN Matching System v1",
           "confidence": 1.0,
-          "observed_name": "Cr",
-          "normalized_uri": "https://minmod.isi.edu/resource/Q519"
+          "observed_name": "Co",
+          "normalized_uri": "https://minmod.isi.edu/resource/Q537"
+        }
+      },
+      {
+        "reference": {
+          "document": {
+            "uri": "https://mrdata.usgs.gov/major-deposits"
+          }
+        },
+        "commodity": {
+          "source": "UMN Matching System v1",
+          "confidence": 1.0,
+          "observed_name": "Cu",
+          "normalized_uri": "https://minmod.isi.edu/resource/Q538"
         }
       }
     ],
@@ -92,6 +105,59 @@
           "confidence": 1.0,
           "observed_name": "Zn",
           "normalized_uri": "https://minmod.isi.edu/resource/Q589"
+        }
+      }
+    ],
+    "reference": [
+      {
+        "document": {
+          "uri": "https://mrdata.usgs.gov/major-deposits"
+        }
+      }
+    ],
+    "created_by": "https://minmod.isi.edu/users/s/umn",
+    "modified_at": "2024-09-20T00:00:00Z"
+  },
+  {
+    "source_id": "https://mrdata.usgs.gov/major-deposits",
+    "record_id": "1242",
+    "name": "Santa Rosalia",
+    "location_info": {
+      "country": [
+        {
+          "source": "UMN Matching System v1",
+          "confidence": 1.0,
+          "observed_name": "Mexico",
+          "normalized_uri": "https://minmod.isi.edu/resource/Q1140"
+        }
+      ],
+      "crs": {
+        "source": "UMN Matching System v1",
+        "confidence": 1.0,
+        "observed_name": "EPSG:4326",
+        "normalized_uri": "https://minmod.isi.edu/resource/Q701"
+      },
+      "location": "POINT (-112.35 27.333)"
+    },
+    "deposit_type_candidate": [
+      {
+        "source": "UMN Matching System v1",
+        "confidence": 1.0,
+        "observed_name": "Hydrothermal"
+      }
+    ],
+    "mineral_inventory": [
+      {
+        "reference": {
+          "document": {
+            "uri": "https://mrdata.usgs.gov/major-deposits"
+          }
+        },
+        "commodity": {
+          "source": "UMN Matching System v1",
+          "confidence": 1.0,
+          "observed_name": "Cu",
+          "normalized_uri": "https://minmod.isi.edu/resource/Q538"
         }
       }
     ],

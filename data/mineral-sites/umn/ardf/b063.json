@@ -1,9 +1,9 @@
 [
   {
     "source_id": "https://doi.org/10.5066/P96MMRFD",
-    "record_id": "UK012",
-    "name": "Unnamed (west-northwest of Kettle Cape)",
-    "site_type": "Occurrence",
+    "record_id": "CI056",
+    "name": "Switch Creek",
+    "site_type": "Mine",
     "location_info": {
       "country": [
         {
@@ -27,7 +27,7 @@
         "observed_name": "EPSG:4267",
         "normalized_uri": "https://minmod.isi.edu/resource/Q702"
       },
-      "location": "POINT (-168.25 53.29)"
+      "location": "POINT (-144.8944 65.4676)"
     },
     "mineral_inventory": [
       {
@@ -52,8 +52,8 @@
         "commodity": {
           "source": "UMN Matching System v1",
           "confidence": 1.0,
-          "observed_name": "Cu",
-          "normalized_uri": "https://minmod.isi.edu/resource/Q538"
+          "observed_name": "As",
+          "normalized_uri": "https://minmod.isi.edu/resource/Q511"
         }
       },
       {
@@ -65,8 +65,8 @@
         "commodity": {
           "source": "UMN Matching System v1",
           "confidence": 1.0,
-          "observed_name": "Ag",
-          "normalized_uri": "https://minmod.isi.edu/resource/Q585"
+          "observed_name": "Pb",
+          "normalized_uri": "https://minmod.isi.edu/resource/Q565"
         }
       },
       {
@@ -78,21 +78,8 @@
         "commodity": {
           "source": "UMN Matching System v1",
           "confidence": 1.0,
-          "observed_name": "Mo",
-          "normalized_uri": "https://minmod.isi.edu/resource/Q576"
-        }
-      },
-      {
-        "reference": {
-          "document": {
-            "uri": "https://doi.org/10.5066/P96MMRFD"
-          }
-        },
-        "commodity": {
-          "source": "UMN Matching System v1",
-          "confidence": 1.0,
-          "observed_name": "Zn",
-          "normalized_uri": "https://minmod.isi.edu/resource/Q589"
+          "observed_name": "W",
+          "normalized_uri": "https://minmod.isi.edu/resource/Q615"
         }
       }
     ],
@@ -108,9 +95,9 @@
   },
   {
     "source_id": "https://doi.org/10.5066/P96MMRFD",
-    "record_id": "SI046",
-    "name": "Tenakee",
-    "site_type": "Prospect",
+    "record_id": "SO024",
+    "name": "Solomon River",
+    "site_type": "Mine",
     "location_info": {
       "country": [
         {
@@ -134,7 +121,7 @@
         "observed_name": "EPSG:4267",
         "normalized_uri": "https://minmod.isi.edu/resource/Q702"
       },
-      "location": "POINT (-135.8981 57.9963)"
+      "location": "POINT (-164.297 64.679)"
     },
     "mineral_inventory": [
       {
@@ -146,8 +133,89 @@
         "commodity": {
           "source": "UMN Matching System v1",
           "confidence": 1.0,
-          "observed_name": "Ni",
-          "normalized_uri": "https://minmod.isi.edu/resource/Q578"
+          "observed_name": "Au",
+          "normalized_uri": "https://minmod.isi.edu/resource/Q551"
+        }
+      },
+      {
+        "reference": {
+          "document": {
+            "uri": "https://doi.org/10.5066/P96MMRFD"
+          }
+        },
+        "commodity": {
+          "source": "UMN Matching System v1",
+          "confidence": 1.0,
+          "observed_name": "W",
+          "normalized_uri": "https://minmod.isi.edu/resource/Q615"
+        }
+      }
+    ],
+    "reference": [
+      {
+        "document": {
+          "uri": "https://doi.org/10.5066/P96MMRFD"
+        }
+      }
+    ],
+    "created_by": "https://minmod.isi.edu/users/s/umn",
+    "modified_at": "2024-10-22T03:54:38Z"
+  },
+  {
+    "source_id": "https://doi.org/10.5066/P96MMRFD",
+    "record_id": "TY002",
+    "name": "Unnamed (near Cook Inlet Shoals)",
+    "site_type": "Occurrence",
+    "location_info": {
+      "country": [
+        {
+          "source": "UMN Matching System v1",
+          "confidence": 1.0,
+          "observed_name": "United States",
+          "normalized_uri": "https://minmod.isi.edu/resource/Q1235"
+        }
+      ],
+      "state_or_province": [
+        {
+          "source": "UMN Matching System v1",
+          "confidence": 1.0,
+          "observed_name": "Alaska",
+          "normalized_uri": "https://minmod.isi.edu/resource/Q6840"
+        }
+      ],
+      "crs": {
+        "source": "UMN Matching System v1",
+        "confidence": 1.0,
+        "observed_name": "EPSG:4267",
+        "normalized_uri": "https://minmod.isi.edu/resource/Q702"
+      },
+      "location": "POINT (-150.17 61.21)"
+    },
+    "mineral_inventory": [
+      {
+        "reference": {
+          "document": {
+            "uri": "https://doi.org/10.5066/P96MMRFD"
+          }
+        },
+        "commodity": {
+          "source": "UMN Matching System v1",
+          "confidence": 1.0,
+          "observed_name": "Fe",
+          "normalized_uri": "https://minmod.isi.edu/resource/Q561"
+        }
+      },
+      {
+        "reference": {
+          "document": {
+            "uri": "https://doi.org/10.5066/P96MMRFD"
+          }
+        },
+        "commodity": {
+          "source": "UMN Matching System v1",
+          "confidence": 1.0,
+          "observed_name": "Ti",
+          "normalized_uri": "https://minmod.isi.edu/resource/Q614"
         }
       }
     ],

@@ -1,23 +1,15 @@
 [
   {
     "source_id": "https://mrdata.usgs.gov/major-deposits",
-    "record_id": "625",
-    "name": "Red Dog",
+    "record_id": "1030",
+    "name": "Kellogg Property Deposit",
     "location_info": {
       "country": [
         {
           "source": "UMN Matching System v1",
           "confidence": 1.0,
-          "observed_name": "United States",
-          "normalized_uri": "https://minmod.isi.edu/resource/Q1235"
-        }
-      ],
-      "state_or_province": [
-        {
-          "source": "UMN Matching System v1",
-          "confidence": 1.0,
-          "observed_name": "Alaska",
-          "normalized_uri": "https://minmod.isi.edu/resource/Q6840"
+          "observed_name": "Canada",
+          "normalized_uri": "https://minmod.isi.edu/resource/Q1038"
         }
       ],
       "crs": {
@@ -26,13 +18,13 @@
         "observed_name": "EPSG:4326",
         "normalized_uri": "https://minmod.isi.edu/resource/Q701"
       },
-      "location": "POINT (-162.824 68.067)"
+      "location": "POINT (-74.0019 49.8178)"
     },
     "deposit_type_candidate": [
       {
         "source": "UMN Matching System v1",
         "confidence": 1.0,
-        "observed_name": "Hydrothermal"
+        "observed_name": "Igneous"
       }
     ],
     "mineral_inventory": [
@@ -45,8 +37,8 @@
         "commodity": {
           "source": "UMN Matching System v1",
           "confidence": 1.0,
-          "observed_name": "Pb",
-          "normalized_uri": "https://minmod.isi.edu/resource/Q565"
+          "observed_name": "Ti",
+          "normalized_uri": "https://minmod.isi.edu/resource/Q614"
         }
       },
       {
@@ -58,8 +50,8 @@
         "commodity": {
           "source": "UMN Matching System v1",
           "confidence": 1.0,
-          "observed_name": "Ag",
-          "normalized_uri": "https://minmod.isi.edu/resource/Q585"
+          "observed_name": "Fe",
+          "normalized_uri": "https://minmod.isi.edu/resource/Q561"
         }
       },
       {
@@ -71,61 +63,8 @@
         "commodity": {
           "source": "UMN Matching System v1",
           "confidence": 1.0,
-          "observed_name": "Zn",
-          "normalized_uri": "https://minmod.isi.edu/resource/Q589"
-        }
-      }
-    ],
-    "reference": [
-      {
-        "document": {
-          "uri": "https://mrdata.usgs.gov/major-deposits"
-        }
-      }
-    ],
-    "created_by": "https://minmod.isi.edu/users/s/umn",
-    "modified_at": "2024-09-20T00:00:00Z"
-  },
-  {
-    "source_id": "https://mrdata.usgs.gov/major-deposits",
-    "record_id": "2572",
-    "name": "Tschudi",
-    "location_info": {
-      "country": [
-        {
-          "source": "UMN Matching System v1",
-          "confidence": 1.0,
-          "observed_name": "Namibia",
-          "normalized_uri": "https://minmod.isi.edu/resource/Q1150"
-        }
-      ],
-      "crs": {
-        "source": "UMN Matching System v1",
-        "confidence": 1.0,
-        "observed_name": "EPSG:4326",
-        "normalized_uri": "https://minmod.isi.edu/resource/Q701"
-      },
-      "location": "POINT (17.7167 -19.2333)"
-    },
-    "deposit_type_candidate": [
-      {
-        "source": "UMN Matching System v1",
-        "confidence": 1.0,
-        "observed_name": "Hydrothermal"
-      }
-    ],
-    "mineral_inventory": [
-      {
-        "reference": {
-          "document": {
-            "uri": "https://mrdata.usgs.gov/major-deposits"
-          }
-        },
-        "commodity": {
-          "source": "UMN Matching System v1",
-          "confidence": 1.0,
-          "observed_name": "Cu",
-          "normalized_uri": "https://minmod.isi.edu/resource/Q538"
+          "observed_name": "V",
+          "normalized_uri": "https://minmod.isi.edu/resource/Q616"
         }
       }
     ],

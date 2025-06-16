@@ -1,8 +1,8 @@
 [
   {
     "source_id": "https://mrdata.usgs.gov/ree",
-    "record_id": "342",
-    "name": "Music Valley",
+    "record_id": "451",
+    "name": "Hilton Head Island",
     "location_info": {
       "country": [
         {
@@ -16,8 +16,8 @@
         {
           "source": "UMN Matching System v1",
           "confidence": 1.0,
-          "observed_name": "California",
-          "normalized_uri": "https://minmod.isi.edu/resource/Q6845"
+          "observed_name": "South Carolina",
+          "normalized_uri": "https://minmod.isi.edu/resource/Q6891"
         }
       ],
       "crs": {
@@ -26,7 +26,7 @@
         "observed_name": "EPSG:4326",
         "normalized_uri": "https://minmod.isi.edu/resource/Q701"
       },
-      "location": "POINT (-115.95 34.016666666667)"
+      "location": "POINT (-80.733333333333 32.2)"
     },
     "mineral_inventory": [
       {
@@ -38,8 +38,8 @@
         "commodity": {
           "source": "UMN Matching System v1",
           "confidence": 1.0,
-          "observed_name": "Gold",
-          "normalized_uri": "https://minmod.isi.edu/resource/Q551"
+          "observed_name": "Quartz",
+          "normalized_uri": "https://minmod.isi.edu/resource/Q630"
         }
       },
       {
@@ -51,8 +51,21 @@
         "commodity": {
           "source": "UMN Matching System v1",
           "confidence": 1.0,
-          "observed_name": "Quartz",
-          "normalized_uri": "https://minmod.isi.edu/resource/Q630"
+          "observed_name": "Clay",
+          "normalized_uri": "https://minmod.isi.edu/resource/Q521"
+        }
+      },
+      {
+        "reference": {
+          "document": {
+            "uri": "https://mrdata.usgs.gov/ree"
+          }
+        },
+        "commodity": {
+          "source": "UMN Matching System v1",
+          "confidence": 1.0,
+          "observed_name": "Staurolite",
+          "normalized_uri": "https://minmod.isi.edu/resource/Q632"
         }
       },
       {

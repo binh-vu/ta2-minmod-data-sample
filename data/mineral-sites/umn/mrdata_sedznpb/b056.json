@@ -1,21 +1,14 @@
 [
   {
     "source_id": "https://mrdata.usgs.gov/sedznpb",
-    "record_id": "323",
-    "name": "Velardeña",
+    "record_id": "424",
+    "name": "Zinkgruvan",
     "location_info": {
       "country": [
         {
           "source": "UMN Exact Match v1",
           "confidence": 1.0,
-          "normalized_uri": "https://minmod.isi.edu/resource/Q1140"
-        }
-      ],
-      "state_or_province": [
-        {
-          "source": "UMN Exact Match v1",
-          "confidence": 1.0,
-          "normalized_uri": "https://minmod.isi.edu/resource/Q4539"
+          "normalized_uri": "https://minmod.isi.edu/resource/Q1213"
         }
       ],
       "crs": {
@@ -23,13 +16,13 @@
         "confidence": 1.0,
         "normalized_uri": "https://minmod.isi.edu/resource/Q701"
       },
-      "location": "POINT (-103.715277777778 25.0341666666667)"
+      "location": "POINT (15.1097222222222 58.8127777777778)"
     },
     "deposit_type_candidate": [
       {
         "source": "raw_data_extraction",
         "confidence": 1,
-        "observed_name": "CAig"
+        "observed_name": "MLig"
       }
     ],
     "mineral_inventory": [

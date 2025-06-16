@@ -1,15 +1,15 @@
 [
   {
     "source_id": "https://mrdata.usgs.gov/major-deposits",
-    "record_id": "1200",
-    "name": "La Caridad",
+    "record_id": "432",
+    "name": "Mankayan",
     "location_info": {
       "country": [
         {
           "source": "UMN Matching System v1",
           "confidence": 1.0,
-          "observed_name": "Mexico",
-          "normalized_uri": "https://minmod.isi.edu/resource/Q1140"
+          "observed_name": "Philippines",
+          "normalized_uri": "https://minmod.isi.edu/resource/Q1173"
         }
       ],
       "crs": {
@@ -18,7 +18,7 @@
         "observed_name": "EPSG:4326",
         "normalized_uri": "https://minmod.isi.edu/resource/Q701"
       },
-      "location": "POINT (-109.5 30.3)"
+      "location": "POINT (120.7833 16.8583)"
     },
     "deposit_type_candidate": [
       {
@@ -37,8 +37,8 @@
         "commodity": {
           "source": "UMN Matching System v1",
           "confidence": 1.0,
-          "observed_name": "Mo",
-          "normalized_uri": "https://minmod.isi.edu/resource/Q576"
+          "observed_name": "Cu",
+          "normalized_uri": "https://minmod.isi.edu/resource/Q538"
         }
       },
       {
@@ -50,8 +50,21 @@
         "commodity": {
           "source": "UMN Matching System v1",
           "confidence": 1.0,
-          "observed_name": "Cu",
-          "normalized_uri": "https://minmod.isi.edu/resource/Q538"
+          "observed_name": "Ag",
+          "normalized_uri": "https://minmod.isi.edu/resource/Q585"
+        }
+      },
+      {
+        "reference": {
+          "document": {
+            "uri": "https://mrdata.usgs.gov/major-deposits"
+          }
+        },
+        "commodity": {
+          "source": "UMN Matching System v1",
+          "confidence": 1.0,
+          "observed_name": "Au",
+          "normalized_uri": "https://minmod.isi.edu/resource/Q551"
         }
       }
     ],

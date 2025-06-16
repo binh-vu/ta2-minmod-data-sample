@@ -1,9 +1,9 @@
 [
   {
     "source_id": "https://doi.org/10.5066/P96MMRFD",
-    "record_id": "SO037",
-    "name": "Clear Creek",
-    "site_type": "Occurrence",
+    "record_id": "DE025",
+    "name": "Ross-Adams",
+    "site_type": "Mine",
     "location_info": {
       "country": [
         {
@@ -27,7 +27,7 @@
         "observed_name": "EPSG:4267",
         "normalized_uri": "https://minmod.isi.edu/resource/Q702"
       },
-      "location": "POINT (-162.301 64.839)"
+      "location": "POINT (-132.1406 54.9092)"
     },
     "mineral_inventory": [
       {
@@ -236,6 +236,19 @@
           "confidence": 1.0,
           "observed_name": "Lutetium",
           "normalized_uri": "https://minmod.isi.edu/resource/Q700"
+        }
+      },
+      {
+        "reference": {
+          "document": {
+            "uri": "https://doi.org/10.5066/P96MMRFD"
+          }
+        },
+        "commodity": {
+          "source": "UMN Matching System v1",
+          "confidence": 1.0,
+          "observed_name": "Th",
+          "normalized_uri": "https://minmod.isi.edu/resource/Q613"
         }
       }
     ],

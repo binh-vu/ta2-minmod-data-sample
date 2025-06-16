@@ -1,9 +1,9 @@
 [
   {
     "source_id": "https://doi.org/10.5066/P96MMRFD",
-    "record_id": "CL013",
-    "name": "Skimo Creek West",
-    "site_type": "Occurrence",
+    "record_id": "DN142",
+    "name": "Stampede Creek",
+    "site_type": "Mine",
     "location_info": {
       "country": [
         {
@@ -27,7 +27,7 @@
         "observed_name": "EPSG:4267",
         "normalized_uri": "https://minmod.isi.edu/resource/Q702"
       },
-      "location": "POINT (-152 68.3)"
+      "location": "POINT (-150.3648 63.7427)"
     },
     "mineral_inventory": [
       {
@@ -39,8 +39,8 @@
         "commodity": {
           "source": "UMN Matching System v1",
           "confidence": 1.0,
-          "observed_name": "P",
-          "normalized_uri": "https://minmod.isi.edu/resource/Q653"
+          "observed_name": "Au",
+          "normalized_uri": "https://minmod.isi.edu/resource/Q551"
         }
       },
       {
@@ -52,8 +52,21 @@
         "commodity": {
           "source": "UMN Matching System v1",
           "confidence": 1.0,
-          "observed_name": "V",
-          "normalized_uri": "https://minmod.isi.edu/resource/Q616"
+          "observed_name": "Sb",
+          "normalized_uri": "https://minmod.isi.edu/resource/Q510"
+        }
+      },
+      {
+        "reference": {
+          "document": {
+            "uri": "https://doi.org/10.5066/P96MMRFD"
+          }
+        },
+        "commodity": {
+          "source": "UMN Matching System v1",
+          "confidence": 1.0,
+          "observed_name": "W",
+          "normalized_uri": "https://minmod.isi.edu/resource/Q615"
         }
       }
     ],
@@ -69,9 +82,9 @@
   },
   {
     "source_id": "https://doi.org/10.5066/P96MMRFD",
-    "record_id": "TK041",
-    "name": "Unnamed (east-southeast of VABM Watana)",
-    "site_type": "Occurrence",
+    "record_id": "VA118",
+    "name": "Alaskan",
+    "site_type": "Prospect",
     "location_info": {
       "country": [
         {
@@ -95,7 +108,7 @@
         "observed_name": "EPSG:4267",
         "normalized_uri": "https://minmod.isi.edu/resource/Q702"
       },
-      "location": "POINT (-147.789 62.9565)"
+      "location": "POINT (-146.3134 61.1791)"
     },
     "mineral_inventory": [
       {
@@ -107,8 +120,47 @@
         "commodity": {
           "source": "UMN Matching System v1",
           "confidence": 1.0,
+          "observed_name": "Au",
+          "normalized_uri": "https://minmod.isi.edu/resource/Q551"
+        }
+      },
+      {
+        "reference": {
+          "document": {
+            "uri": "https://doi.org/10.5066/P96MMRFD"
+          }
+        },
+        "commodity": {
+          "source": "UMN Matching System v1",
+          "confidence": 1.0,
           "observed_name": "Cu",
           "normalized_uri": "https://minmod.isi.edu/resource/Q538"
+        }
+      },
+      {
+        "reference": {
+          "document": {
+            "uri": "https://doi.org/10.5066/P96MMRFD"
+          }
+        },
+        "commodity": {
+          "source": "UMN Matching System v1",
+          "confidence": 1.0,
+          "observed_name": "Pb",
+          "normalized_uri": "https://minmod.isi.edu/resource/Q565"
+        }
+      },
+      {
+        "reference": {
+          "document": {
+            "uri": "https://doi.org/10.5066/P96MMRFD"
+          }
+        },
+        "commodity": {
+          "source": "UMN Matching System v1",
+          "confidence": 1.0,
+          "observed_name": "Zn",
+          "normalized_uri": "https://minmod.isi.edu/resource/Q589"
         }
       }
     ],

@@ -1,23 +1,23 @@
 [
   {
     "source_id": "https://mrdata.usgs.gov/ree",
-    "record_id": "135",
-    "name": "Mount Weld",
+    "record_id": "747",
+    "name": "Snowbird",
     "location_info": {
       "country": [
         {
           "source": "UMN Matching System v1",
           "confidence": 1.0,
-          "observed_name": "Australia",
-          "normalized_uri": "https://minmod.isi.edu/resource/Q1013"
+          "observed_name": "United States",
+          "normalized_uri": "https://minmod.isi.edu/resource/Q1235"
         }
       ],
       "state_or_province": [
         {
           "source": "UMN Matching System v1",
           "confidence": 1.0,
-          "observed_name": "Western Australia",
-          "normalized_uri": "https://minmod.isi.edu/resource/Q2213"
+          "observed_name": "Montana",
+          "normalized_uri": "https://minmod.isi.edu/resource/Q6873"
         }
       ],
       "crs": {
@@ -26,7 +26,7 @@
         "observed_name": "EPSG:4326",
         "normalized_uri": "https://minmod.isi.edu/resource/Q701"
       },
-      "location": "POINT (122.55 -28.866666666667)"
+      "location": "POINT (-114.77014 46.78405)"
     },
     "mineral_inventory": [
       {
@@ -38,34 +38,8 @@
         "commodity": {
           "source": "UMN Matching System v1",
           "confidence": 1.0,
-          "observed_name": "Dolomite",
-          "normalized_uri": "https://minmod.isi.edu/resource/Q541"
-        }
-      },
-      {
-        "reference": {
-          "document": {
-            "uri": "https://mrdata.usgs.gov/ree"
-          }
-        },
-        "commodity": {
-          "source": "UMN Matching System v1",
-          "confidence": 1.0,
-          "observed_name": "Tantalum",
-          "normalized_uri": "https://minmod.isi.edu/resource/Q610"
-        }
-      },
-      {
-        "reference": {
-          "document": {
-            "uri": "https://mrdata.usgs.gov/ree"
-          }
-        },
-        "commodity": {
-          "source": "UMN Matching System v1",
-          "confidence": 1.0,
-          "observed_name": "Niobium",
-          "normalized_uri": "https://minmod.isi.edu/resource/Q579"
+          "observed_name": "Quartz",
+          "normalized_uri": "https://minmod.isi.edu/resource/Q630"
         }
       },
       {

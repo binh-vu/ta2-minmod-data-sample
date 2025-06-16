@@ -1,13 +1,13 @@
 [
   {
     "source_id": "https://mrdata.usgs.gov/major-deposits",
-    "record_id": "625",
+    "record_id": "1030",
     "deposit_type_candidate": [
       {
         "source": "algorithm predictions, SRI deposit type classification, v2.1, 20241031",
-        "confidence": 0.9,
-        "observed_name": "Siliciclastic- carbonate zinc-lead",
-        "normalized_uri": "https://minmod.isi.edu/resource/Q377"
+        "confidence": 0.8895703375339509,
+        "observed_name": "U-M layered intrusion iron-titanium- vanadium",
+        "normalized_uri": "https://minmod.isi.edu/resource/Q480"
       }
     ],
     "mineral_inventory": [
@@ -20,49 +20,7 @@
         "commodity": {
           "source": "SRI database agent v0",
           "confidence": 1.0,
-          "observed_name": "zinc, lead, silver"
-        }
-      }
-    ],
-    "reference": [
-      {
-        "document": {
-          "uri": "https://mrdata.usgs.gov/major-deposits"
-        }
-      }
-    ],
-    "created_by": "https://minmod.isi.edu/users/s/sri",
-    "modified_at": "2024-11-06T19:08:00Z"
-  },
-  {
-    "source_id": "https://mrdata.usgs.gov/major-deposits",
-    "record_id": "2572",
-    "deposit_type_candidate": [
-      {
-        "source": "algorithm predictions, SRI deposit type classification, v2.1, 20241031",
-        "confidence": 0.24522187113761904,
-        "observed_name": "Kipushi-type sediment- hosted copper- zinc-lead",
-        "normalized_uri": "https://minmod.isi.edu/resource/Q379"
-      },
-      {
-        "source": "algorithm predictions, SRI deposit type classification, v2.1, 20241031",
-        "confidence": 0.1826677277684212,
-        "observed_name": "Sediment-hosted copper ± Co",
-        "normalized_uri": "https://minmod.isi.edu/resource/Q374"
-      }
-    ],
-    "mineral_inventory": [
-      {
-        "reference": {
-          "document": {
-            "uri": "https://mrdata.usgs.gov/major-deposits"
-          }
-        },
-        "commodity": {
-          "source": "SRI database agent v0",
-          "confidence": 1.0,
-          "observed_name": "Copper",
-          "normalized_uri": "https://minmod.isi.edu/resource/Q538"
+          "observed_name": "Iron, titanium, vanadium"
         }
       }
     ],

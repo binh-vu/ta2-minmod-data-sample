@@ -1,13 +1,13 @@
 [
   {
     "source_id": "https://mrdata.usgs.gov/major-deposits",
-    "record_id": "582",
+    "record_id": "2929",
     "deposit_type_candidate": [
       {
         "source": "algorithm predictions, SRI deposit type classification, v2.1, 20241031",
-        "confidence": 0.8835373520851135,
-        "observed_name": "Vein polymetallic",
-        "normalized_uri": "https://minmod.isi.edu/resource/Q430"
+        "confidence": 0.8951044857501984,
+        "observed_name": "Heavy mineral sands",
+        "normalized_uri": "https://minmod.isi.edu/resource/Q312"
       }
     ],
     "mineral_inventory": [
@@ -20,7 +20,7 @@
         "commodity": {
           "source": "SRI database agent v0",
           "confidence": 1.0,
-          "observed_name": "lead, zinc, silver"
+          "observed_name": "Zirconium, Titanium"
         }
       }
     ],

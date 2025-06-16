@@ -1,6 +1,41 @@
 [
   {
     "source_id": "https://mrdata.usgs.gov/major-deposits",
+    "record_id": "1046",
+    "deposit_type_candidate": [
+      {
+        "source": "algorithm predictions, SRI deposit type classification, v2.1, 20241031",
+        "confidence": 0.8895475924015045,
+        "observed_name": "Greisen tungsten- molybdenum±Bi",
+        "normalized_uri": "https://minmod.isi.edu/resource/Q462"
+      }
+    ],
+    "mineral_inventory": [
+      {
+        "reference": {
+          "document": {
+            "uri": "https://mrdata.usgs.gov/major-deposits"
+          }
+        },
+        "commodity": {
+          "source": "SRI database agent v0",
+          "confidence": 1.0,
+          "observed_name": "Tungsten, molybdenum"
+        }
+      }
+    ],
+    "reference": [
+      {
+        "document": {
+          "uri": "https://mrdata.usgs.gov/major-deposits"
+        }
+      }
+    ],
+    "created_by": "https://minmod.isi.edu/users/s/sri",
+    "modified_at": "2024-11-06T19:08:00Z"
+  },
+  {
+    "source_id": "https://mrdata.usgs.gov/major-deposits",
     "record_id": "587",
     "deposit_type_candidate": [
       {
@@ -21,42 +56,6 @@
           "source": "SRI database agent v0",
           "confidence": 1.0,
           "observed_name": "molybdenum"
-        }
-      }
-    ],
-    "reference": [
-      {
-        "document": {
-          "uri": "https://mrdata.usgs.gov/major-deposits"
-        }
-      }
-    ],
-    "created_by": "https://minmod.isi.edu/users/s/sri",
-    "modified_at": "2024-11-06T19:08:00Z"
-  },
-  {
-    "source_id": "https://mrdata.usgs.gov/major-deposits",
-    "record_id": "1591",
-    "deposit_type_candidate": [
-      {
-        "source": "algorithm predictions, SRI deposit type classification, v2.1, 20241031",
-        "confidence": 0.5663425326347351,
-        "observed_name": "Greisen tungsten- molybdenum±Bi",
-        "normalized_uri": "https://minmod.isi.edu/resource/Q462"
-      }
-    ],
-    "mineral_inventory": [
-      {
-        "reference": {
-          "document": {
-            "uri": "https://mrdata.usgs.gov/major-deposits"
-          }
-        },
-        "commodity": {
-          "source": "SRI database agent v0",
-          "confidence": 1.0,
-          "observed_name": "Tungsten",
-          "normalized_uri": "https://minmod.isi.edu/resource/Q615"
         }
       }
     ],

@@ -55,8 +55,8 @@
   },
   {
     "source_id": "https://doi.org/10.5066/P9K1HBNT",
-    "record_id": "546",
-    "name": "Santa Rosa mine",
+    "record_id": "248",
+    "name": "Golden Horn",
     "location_info": {
       "country": [
         {
@@ -70,8 +70,8 @@
         {
           "source": "UMN Matching System v1",
           "confidence": 1.0,
-          "observed_name": "CA",
-          "normalized_uri": "https://minmod.isi.edu/resource/Q6915"
+          "observed_name": "AK",
+          "normalized_uri": "https://minmod.isi.edu/resource/Q6840"
         }
       ],
       "crs": {
@@ -80,9 +80,48 @@
         "observed_name": "EPSG:4326",
         "normalized_uri": "https://minmod.isi.edu/resource/Q701"
       },
-      "location": "POINT (-117.72313 36.41803)"
+      "location": "POINT (-157.9224 62.4472)"
     },
     "mineral_inventory": [
+      {
+        "reference": {
+          "document": {
+            "uri": "https://doi.org/10.5066/P9K1HBNT"
+          }
+        },
+        "commodity": {
+          "source": "UMN Matching System v1",
+          "confidence": 1.0,
+          "observed_name": "antimony",
+          "normalized_uri": "https://minmod.isi.edu/resource/Q510"
+        }
+      },
+      {
+        "reference": {
+          "document": {
+            "uri": "https://doi.org/10.5066/P9K1HBNT"
+          }
+        },
+        "commodity": {
+          "source": "UMN Matching System v1",
+          "confidence": 1.0,
+          "observed_name": "arsenic",
+          "normalized_uri": "https://minmod.isi.edu/resource/Q511"
+        }
+      },
+      {
+        "reference": {
+          "document": {
+            "uri": "https://doi.org/10.5066/P9K1HBNT"
+          }
+        },
+        "commodity": {
+          "source": "UMN Matching System v1",
+          "confidence": 1.0,
+          "observed_name": "tungsten",
+          "normalized_uri": "https://minmod.isi.edu/resource/Q615"
+        }
+      },
       {
         "reference": {
           "document": {

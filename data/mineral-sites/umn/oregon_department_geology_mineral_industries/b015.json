@@ -290,7 +290,7 @@
   },
   {
     "source_id": "http://www.oregongeology.org",
-    "record_id": "ID_20108",
+    "record_id": "ID_14112",
     "name": "prospect",
     "location_info": {
       "country": [
@@ -315,29 +315,16 @@
         "observed_name": "EPSG:2994",
         "normalized_uri": "https://minmod.isi.edu/resource/Q705"
       },
-      "location": "POINT (1803492.4324146956 169324.04921260476)"
+      "location": "POINT (1813207.482283458 102525.97867454588)"
     },
     "deposit_type_candidate": [
       {
         "source": "UMN Matching System v1",
         "confidence": 0.001,
-        "observed_name": "epithermal"
+        "observed_name": "gossan"
       }
     ],
     "mineral_inventory": [
-      {
-        "reference": {
-          "document": {
-            "uri": "http://www.oregongeology.org"
-          }
-        },
-        "commodity": {
-          "source": "UMN Matching System v1",
-          "confidence": 1.0,
-          "observed_name": "mercury",
-          "normalized_uri": "https://minmod.isi.edu/resource/Q573"
-        }
-      },
       {
         "reference": {
           "document": {
@@ -359,8 +346,21 @@
         },
         "commodity": {
           "source": "UMN Matching System v1",
+          "confidence": 1.0,
+          "observed_name": "gold",
+          "normalized_uri": "https://minmod.isi.edu/resource/Q551"
+        }
+      },
+      {
+        "reference": {
+          "document": {
+            "uri": "http://www.oregongeology.org"
+          }
+        },
+        "commodity": {
+          "source": "UMN Matching System v1",
           "confidence": 0.001,
-          "observed_name": "Hg Cu"
+          "observed_name": "Cu Au"
         }
       }
     ],
@@ -494,6 +494,92 @@
   },
   {
     "source_id": "http://www.oregongeology.org",
+    "record_id": "ID_20108",
+    "name": "prospect",
+    "location_info": {
+      "country": [
+        {
+          "source": "UMN Matching System v1",
+          "confidence": 1.0,
+          "observed_name": "United States",
+          "normalized_uri": "https://minmod.isi.edu/resource/Q1235"
+        }
+      ],
+      "state_or_province": [
+        {
+          "source": "UMN Matching System v1",
+          "confidence": 1.0,
+          "observed_name": "Oregon",
+          "normalized_uri": "https://minmod.isi.edu/resource/Q6886"
+        }
+      ],
+      "crs": {
+        "source": "UMN Matching System v1",
+        "confidence": 1.0,
+        "observed_name": "EPSG:2994",
+        "normalized_uri": "https://minmod.isi.edu/resource/Q705"
+      },
+      "location": "POINT (1803492.4324146956 169324.04921260476)"
+    },
+    "deposit_type_candidate": [
+      {
+        "source": "UMN Matching System v1",
+        "confidence": 0.001,
+        "observed_name": "epithermal"
+      }
+    ],
+    "mineral_inventory": [
+      {
+        "reference": {
+          "document": {
+            "uri": "http://www.oregongeology.org"
+          }
+        },
+        "commodity": {
+          "source": "UMN Matching System v1",
+          "confidence": 1.0,
+          "observed_name": "mercury",
+          "normalized_uri": "https://minmod.isi.edu/resource/Q573"
+        }
+      },
+      {
+        "reference": {
+          "document": {
+            "uri": "http://www.oregongeology.org"
+          }
+        },
+        "commodity": {
+          "source": "UMN Matching System v1",
+          "confidence": 1.0,
+          "observed_name": "copper",
+          "normalized_uri": "https://minmod.isi.edu/resource/Q538"
+        }
+      },
+      {
+        "reference": {
+          "document": {
+            "uri": "http://www.oregongeology.org"
+          }
+        },
+        "commodity": {
+          "source": "UMN Matching System v1",
+          "confidence": 0.001,
+          "observed_name": "Hg Cu"
+        }
+      }
+    ],
+    "reference": [
+      {
+        "document": {
+          "uri": "http://www.oregongeology.org"
+        }
+      }
+    ],
+    "created_by": "https://minmod.isi.edu/users/s/umn",
+    "modified_at": "2024-10-26T16:30:23Z"
+  },
+  {
+    "source_id": "http://www.oregongeology.org",
     "record_id": "ID_23211",
     "name": "mine",
     "location_info": {
@@ -599,8 +685,8 @@
   },
   {
     "source_id": "http://www.oregongeology.org",
-    "record_id": "ID_14112",
-    "name": "prospect",
+    "record_id": "ID_08544",
+    "name": "Brown Beauty",
     "location_info": {
       "country": [
         {
@@ -624,93 +710,7 @@
         "observed_name": "EPSG:2994",
         "normalized_uri": "https://minmod.isi.edu/resource/Q705"
       },
-      "location": "POINT (1813207.482283458 102525.97867454588)"
-    },
-    "deposit_type_candidate": [
-      {
-        "source": "UMN Matching System v1",
-        "confidence": 0.001,
-        "observed_name": "gossan"
-      }
-    ],
-    "mineral_inventory": [
-      {
-        "reference": {
-          "document": {
-            "uri": "http://www.oregongeology.org"
-          }
-        },
-        "commodity": {
-          "source": "UMN Matching System v1",
-          "confidence": 1.0,
-          "observed_name": "copper",
-          "normalized_uri": "https://minmod.isi.edu/resource/Q538"
-        }
-      },
-      {
-        "reference": {
-          "document": {
-            "uri": "http://www.oregongeology.org"
-          }
-        },
-        "commodity": {
-          "source": "UMN Matching System v1",
-          "confidence": 1.0,
-          "observed_name": "gold",
-          "normalized_uri": "https://minmod.isi.edu/resource/Q551"
-        }
-      },
-      {
-        "reference": {
-          "document": {
-            "uri": "http://www.oregongeology.org"
-          }
-        },
-        "commodity": {
-          "source": "UMN Matching System v1",
-          "confidence": 0.001,
-          "observed_name": "Cu Au"
-        }
-      }
-    ],
-    "reference": [
-      {
-        "document": {
-          "uri": "http://www.oregongeology.org"
-        }
-      }
-    ],
-    "created_by": "https://minmod.isi.edu/users/s/umn",
-    "modified_at": "2024-10-26T16:30:23Z"
-  },
-  {
-    "source_id": "http://www.oregongeology.org",
-    "record_id": "ID_20640",
-    "name": "prospect South of Vulcan Peak",
-    "location_info": {
-      "country": [
-        {
-          "source": "UMN Matching System v1",
-          "confidence": 1.0,
-          "observed_name": "United States",
-          "normalized_uri": "https://minmod.isi.edu/resource/Q1235"
-        }
-      ],
-      "state_or_province": [
-        {
-          "source": "UMN Matching System v1",
-          "confidence": 1.0,
-          "observed_name": "Oregon",
-          "normalized_uri": "https://minmod.isi.edu/resource/Q6886"
-        }
-      ],
-      "crs": {
-        "source": "UMN Matching System v1",
-        "confidence": 1.0,
-        "observed_name": "EPSG:2994",
-        "normalized_uri": "https://minmod.isi.edu/resource/Q705"
-      },
-      "location": "POINT (367988.83825458586 170168.8661417365)"
+      "location": "POINT (632604.3940288723 325350.4645669311)"
     },
     "mineral_inventory": [
       {
@@ -724,57 +724,6 @@
           "confidence": 1.0,
           "observed_name": "chromium",
           "normalized_uri": "https://minmod.isi.edu/resource/Q519"
-        }
-      },
-      {
-        "reference": {
-          "document": {
-            "uri": "http://www.oregongeology.org"
-          }
-        },
-        "commodity": {
-          "source": "UMN Matching System v1",
-          "confidence": 1.0,
-          "observed_name": "platinum",
-          "normalized_uri": "https://minmod.isi.edu/resource/Q601"
-        }
-      },
-      {
-        "reference": {
-          "document": {
-            "uri": "http://www.oregongeology.org"
-          }
-        },
-        "commodity": {
-          "source": "UMN Matching System v1",
-          "confidence": 1.0,
-          "observed_name": "palladium",
-          "normalized_uri": "https://minmod.isi.edu/resource/Q600"
-        }
-      },
-      {
-        "reference": {
-          "document": {
-            "uri": "http://www.oregongeology.org"
-          }
-        },
-        "commodity": {
-          "source": "UMN Matching System v1",
-          "confidence": 1.0,
-          "observed_name": "rhodium",
-          "normalized_uri": "https://minmod.isi.edu/resource/Q604"
-        }
-      },
-      {
-        "reference": {
-          "document": {
-            "uri": "http://www.oregongeology.org"
-          }
-        },
-        "commodity": {
-          "source": "UMN Matching System v1",
-          "confidence": 0.001,
-          "observed_name": "Cr Pt Pl Rh"
         }
       }
     ],

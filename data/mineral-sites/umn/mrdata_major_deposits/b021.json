@@ -67,15 +67,14 @@
   },
   {
     "source_id": "https://mrdata.usgs.gov/major-deposits",
-    "record_id": "895",
-    "name": "Chorolque",
+    "record_id": "2218",
+    "name": "Kamoto",
     "location_info": {
       "country": [
         {
           "source": "UMN Matching System v1",
           "confidence": 1.0,
-          "observed_name": "Bolivia",
-          "normalized_uri": "https://minmod.isi.edu/resource/Q1025"
+          "observed_name": "Congo (Kinshasa)"
         }
       ],
       "crs": {
@@ -84,7 +83,7 @@
         "observed_name": "EPSG:4326",
         "normalized_uri": "https://minmod.isi.edu/resource/Q701"
       },
-      "location": "POINT (-66.0322 -20.9214)"
+      "location": "POINT (25.41667 -10.71667)"
     },
     "deposit_type_candidate": [
       {
@@ -103,8 +102,8 @@
         "commodity": {
           "source": "UMN Matching System v1",
           "confidence": 1.0,
-          "observed_name": "Sn",
-          "normalized_uri": "https://minmod.isi.edu/resource/Q587"
+          "observed_name": "Co",
+          "normalized_uri": "https://minmod.isi.edu/resource/Q537"
         }
       },
       {
@@ -116,8 +115,8 @@
         "commodity": {
           "source": "UMN Matching System v1",
           "confidence": 1.0,
-          "observed_name": "W",
-          "normalized_uri": "https://minmod.isi.edu/resource/Q615"
+          "observed_name": "Cu",
+          "normalized_uri": "https://minmod.isi.edu/resource/Q538"
         }
       }
     ],

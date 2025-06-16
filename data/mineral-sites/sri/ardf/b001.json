@@ -1,29 +1,17 @@
 [
   {
     "source_id": "https://doi.org/10.5066/P96MMRFD",
-    "record_id": "GU003",
-    "site_type": "Occurrence",
+    "record_id": "LG001",
+    "site_type": "Mine",
     "deposit_type_candidate": [
       {
         "source": "algorithm predictions, SRI deposit type classification, v2.1, 20241031",
-        "confidence": 0.8039062678813934,
-        "observed_name": "Mafic-ultramafic VMS",
-        "normalized_uri": "https://minmod.isi.edu/resource/Q409"
+        "confidence": 0.5430142879486084,
+        "observed_name": "Fluvial placer tin",
+        "normalized_uri": "https://minmod.isi.edu/resource/Q305"
       }
     ],
     "mineral_inventory": [
-      {
-        "reference": {
-          "document": {
-            "uri": "https://doi.org/10.5066/P96MMRFD"
-          }
-        },
-        "commodity": {
-          "source": "SRI database agent v0",
-          "confidence": 1.0,
-          "observed_name": "Ag"
-        }
-      },
       {
         "reference": {
           "document": {
@@ -45,7 +33,31 @@
         "commodity": {
           "source": "SRI database agent v0",
           "confidence": 1.0,
-          "observed_name": "Cu"
+          "observed_name": "Hg"
+        }
+      },
+      {
+        "reference": {
+          "document": {
+            "uri": "https://doi.org/10.5066/P96MMRFD"
+          }
+        },
+        "commodity": {
+          "source": "SRI database agent v0",
+          "confidence": 1.0,
+          "observed_name": "Pb"
+        }
+      },
+      {
+        "reference": {
+          "document": {
+            "uri": "https://doi.org/10.5066/P96MMRFD"
+          }
+        },
+        "commodity": {
+          "source": "SRI database agent v0",
+          "confidence": 1.0,
+          "observed_name": "Sn"
         }
       }
     ],

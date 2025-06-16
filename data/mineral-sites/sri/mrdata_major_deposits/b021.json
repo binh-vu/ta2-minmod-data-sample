@@ -36,13 +36,13 @@
   },
   {
     "source_id": "https://mrdata.usgs.gov/major-deposits",
-    "record_id": "895",
+    "record_id": "2218",
     "deposit_type_candidate": [
       {
         "source": "algorithm predictions, SRI deposit type classification, v2.1, 20241031",
-        "confidence": 0.3708353251218796,
-        "observed_name": "Greisen tin ±W-Mo",
-        "normalized_uri": "https://minmod.isi.edu/resource/Q461"
+        "confidence": 0.2815629869699478,
+        "observed_name": "Sediment-hosted copper ± Co",
+        "normalized_uri": "https://minmod.isi.edu/resource/Q374"
       }
     ],
     "mineral_inventory": [
@@ -55,7 +55,7 @@
         "commodity": {
           "source": "SRI database agent v0",
           "confidence": 1.0,
-          "observed_name": "Tin, tungsten"
+          "observed_name": "Copper, Cobalt"
         }
       }
     ],

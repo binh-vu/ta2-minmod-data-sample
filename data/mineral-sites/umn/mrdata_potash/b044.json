@@ -1,15 +1,15 @@
 [
   {
     "source_id": "https://mrdata.usgs.gov/potash",
-    "record_id": "509",
-    "name": "Shiggah",
+    "record_id": "13",
+    "name": "Salar del Hombre Muerto",
     "location_info": {
       "country": [
         {
           "source": "UMN Matching System v1",
           "confidence": 1.0,
-          "observed_name": "Libya",
-          "normalized_uri": "https://minmod.isi.edu/resource/Q1123"
+          "observed_name": "Argentina",
+          "normalized_uri": "https://minmod.isi.edu/resource/Q1010"
         }
       ],
       "crs": {
@@ -18,7 +18,7 @@
         "observed_name": "EPSG:4326",
         "normalized_uri": "https://minmod.isi.edu/resource/Q701"
       },
-      "location": "POINT (23.033 32.25)"
+      "location": "POINT (-67.1211 -25.4072)"
     },
     "mineral_inventory": [
       {
@@ -30,7 +30,8 @@
         "commodity": {
           "source": "UMN Matching System v1",
           "confidence": 1.0,
-          "observed_name": "HAL"
+          "observed_name": "B",
+          "normalized_uri": "https://minmod.isi.edu/resource/Q515"
         }
       },
       {
@@ -55,7 +56,45 @@
         "commodity": {
           "source": "UMN Matching System v1",
           "confidence": 1.0,
-          "observed_name": "HAL  K"
+          "observed_name": "MG",
+          "normalized_uri": "https://minmod.isi.edu/resource/Q570"
+        }
+      },
+      {
+        "reference": {
+          "document": {
+            "uri": "https://mrdata.usgs.gov/potash"
+          }
+        },
+        "commodity": {
+          "source": "UMN Matching System v1",
+          "confidence": 1.0,
+          "observed_name": "BRI"
+        }
+      },
+      {
+        "reference": {
+          "document": {
+            "uri": "https://mrdata.usgs.gov/potash"
+          }
+        },
+        "commodity": {
+          "source": "UMN Matching System v1",
+          "confidence": 1.0,
+          "observed_name": "LI",
+          "normalized_uri": "https://minmod.isi.edu/resource/Q569"
+        }
+      },
+      {
+        "reference": {
+          "document": {
+            "uri": "https://mrdata.usgs.gov/potash"
+          }
+        },
+        "commodity": {
+          "source": "UMN Matching System v1",
+          "confidence": 1.0,
+          "observed_name": "BRI  LI  B  K   MG"
         }
       }
     ],

@@ -1,14 +1,14 @@
 [
   {
     "source_id": "https://doi.org/10.5066/P96MMRFD",
-    "record_id": "LH026",
-    "site_type": "Occurrence",
+    "record_id": "SO023",
+    "site_type": "Mine",
     "deposit_type_candidate": [
       {
         "source": "algorithm predictions, SRI deposit type classification, v2.1, 20241031",
-        "confidence": 0.19715224653482438,
-        "observed_name": "Breccia pipe gold",
-        "normalized_uri": "https://minmod.isi.edu/resource/Q432"
+        "confidence": 0.4742528021335602,
+        "observed_name": "Mesozonal orogenic gold",
+        "normalized_uri": "https://minmod.isi.edu/resource/Q388"
       }
     ],
     "mineral_inventory": [
@@ -21,7 +21,7 @@
         "commodity": {
           "source": "SRI database agent v0",
           "confidence": 1.0,
-          "observed_name": "Ag"
+          "observed_name": "Au"
         }
       },
       {
@@ -33,7 +33,7 @@
         "commodity": {
           "source": "SRI database agent v0",
           "confidence": 1.0,
-          "observed_name": "Au"
+          "observed_name": "Ag"
         }
       },
       {
@@ -57,43 +57,7 @@
         "commodity": {
           "source": "SRI database agent v0",
           "confidence": 1.0,
-          "observed_name": "Bi"
-        }
-      }
-    ],
-    "reference": [
-      {
-        "document": {
-          "uri": "https://doi.org/10.5066/P96MMRFD"
-        }
-      }
-    ],
-    "created_by": "https://minmod.isi.edu/users/s/sri",
-    "modified_at": "2024-11-06T18:58:25Z"
-  },
-  {
-    "source_id": "https://doi.org/10.5066/P96MMRFD",
-    "record_id": "HE079",
-    "site_type": "Occurrence",
-    "deposit_type_candidate": [
-      {
-        "source": "algorithm predictions, SRI deposit type classification, v2.1, 20241031",
-        "confidence": 0.22989446818828582,
-        "observed_name": "Epizonal orogenic antimony ± gold",
-        "normalized_uri": "https://minmod.isi.edu/resource/Q390"
-      }
-    ],
-    "mineral_inventory": [
-      {
-        "reference": {
-          "document": {
-            "uri": "https://doi.org/10.5066/P96MMRFD"
-          }
-        },
-        "commodity": {
-          "source": "SRI database agent v0",
-          "confidence": 1.0,
-          "observed_name": "Sb"
+          "observed_name": "W"
         }
       },
       {
@@ -121,14 +85,20 @@
   },
   {
     "source_id": "https://doi.org/10.5066/P96MMRFD",
-    "record_id": "FB134",
-    "site_type": "Mine",
+    "record_id": "PM035",
+    "site_type": "Occurrence",
     "deposit_type_candidate": [
       {
         "source": "algorithm predictions, SRI deposit type classification, v2.1, 20241031",
-        "confidence": 0.8616105616092682,
-        "observed_name": "Fluvial placer gold",
-        "normalized_uri": "https://minmod.isi.edu/resource/Q303"
+        "confidence": 0.5612862467765808,
+        "observed_name": "Heavy mineral sands",
+        "normalized_uri": "https://minmod.isi.edu/resource/Q312"
+      },
+      {
+        "source": "algorithm predictions, SRI deposit type classification, v2.1, 20241031",
+        "confidence": 0.3363479107618332,
+        "observed_name": "Paleoplacer heavy mineral sands",
+        "normalized_uri": "https://minmod.isi.edu/resource/Q314"
       }
     ],
     "mineral_inventory": [
@@ -141,7 +111,67 @@
         "commodity": {
           "source": "SRI database agent v0",
           "confidence": 1.0,
+          "observed_name": "Fe"
+        }
+      },
+      {
+        "reference": {
+          "document": {
+            "uri": "https://doi.org/10.5066/P96MMRFD"
+          }
+        },
+        "commodity": {
+          "source": "SRI database agent v0",
+          "confidence": 1.0,
+          "observed_name": "Ti"
+        }
+      },
+      {
+        "reference": {
+          "document": {
+            "uri": "https://doi.org/10.5066/P96MMRFD"
+          }
+        },
+        "commodity": {
+          "source": "SRI database agent v0",
+          "confidence": 1.0,
           "observed_name": "Au"
+        }
+      }
+    ],
+    "reference": [
+      {
+        "document": {
+          "uri": "https://doi.org/10.5066/P96MMRFD"
+        }
+      }
+    ],
+    "created_by": "https://minmod.isi.edu/users/s/sri",
+    "modified_at": "2024-11-06T18:58:25Z"
+  },
+  {
+    "source_id": "https://doi.org/10.5066/P96MMRFD",
+    "record_id": "LH024",
+    "site_type": "Occurrence",
+    "deposit_type_candidate": [
+      {
+        "source": "algorithm predictions, SRI deposit type classification, v2.1, 20241031",
+        "confidence": 0.3126586139202118,
+        "observed_name": "Vein polymetallic",
+        "normalized_uri": "https://minmod.isi.edu/resource/Q430"
+      }
+    ],
+    "mineral_inventory": [
+      {
+        "reference": {
+          "document": {
+            "uri": "https://doi.org/10.5066/P96MMRFD"
+          }
+        },
+        "commodity": {
+          "source": "SRI database agent v0",
+          "confidence": 1.0,
+          "observed_name": "Ag"
         }
       },
       {
@@ -165,7 +195,31 @@
         "commodity": {
           "source": "SRI database agent v0",
           "confidence": 1.0,
+          "observed_name": "Pb"
+        }
+      },
+      {
+        "reference": {
+          "document": {
+            "uri": "https://doi.org/10.5066/P96MMRFD"
+          }
+        },
+        "commodity": {
+          "source": "SRI database agent v0",
+          "confidence": 1.0,
           "observed_name": "Sb"
+        }
+      },
+      {
+        "reference": {
+          "document": {
+            "uri": "https://doi.org/10.5066/P96MMRFD"
+          }
+        },
+        "commodity": {
+          "source": "SRI database agent v0",
+          "confidence": 1.0,
+          "observed_name": "Zn"
         }
       }
     ],

@@ -1,15 +1,14 @@
 [
   {
     "source_id": "https://mrdata.usgs.gov/major-deposits",
-    "record_id": "1842",
-    "name": "Yxsjoberg",
+    "record_id": "2234",
+    "name": "Kitotolo",
     "location_info": {
       "country": [
         {
           "source": "UMN Matching System v1",
           "confidence": 1.0,
-          "observed_name": "Sweden",
-          "normalized_uri": "https://minmod.isi.edu/resource/Q1213"
+          "observed_name": "Congo (Kinshasa)"
         }
       ],
       "crs": {
@@ -18,60 +17,7 @@
         "observed_name": "EPSG:4326",
         "normalized_uri": "https://minmod.isi.edu/resource/Q701"
       },
-      "location": "POINT (15 60.1)"
-    },
-    "deposit_type_candidate": [
-      {
-        "source": "UMN Matching System v1",
-        "confidence": 1.0,
-        "observed_name": "Hydrothermal"
-      }
-    ],
-    "mineral_inventory": [
-      {
-        "reference": {
-          "document": {
-            "uri": "https://mrdata.usgs.gov/major-deposits"
-          }
-        },
-        "commodity": {
-          "source": "UMN Matching System v1",
-          "confidence": 1.0,
-          "observed_name": "W",
-          "normalized_uri": "https://minmod.isi.edu/resource/Q615"
-        }
-      }
-    ],
-    "reference": [
-      {
-        "document": {
-          "uri": "https://mrdata.usgs.gov/major-deposits"
-        }
-      }
-    ],
-    "created_by": "https://minmod.isi.edu/users/s/umn",
-    "modified_at": "2024-09-20T00:00:00Z"
-  },
-  {
-    "source_id": "https://mrdata.usgs.gov/major-deposits",
-    "record_id": "2700",
-    "name": "Jagdlust",
-    "location_info": {
-      "country": [
-        {
-          "source": "UMN Matching System v1",
-          "confidence": 1.0,
-          "observed_name": "South Africa",
-          "normalized_uri": "https://minmod.isi.edu/resource/Q1204"
-        }
-      ],
-      "crs": {
-        "source": "UMN Matching System v1",
-        "confidence": 1.0,
-        "observed_name": "EPSG:4326",
-        "normalized_uri": "https://minmod.isi.edu/resource/Q701"
-      },
-      "location": "POINT (29.88333 -24.26667)"
+      "location": "POINT (27.3833 -7.325)"
     },
     "deposit_type_candidate": [
       {
@@ -90,8 +36,8 @@
         "commodity": {
           "source": "UMN Matching System v1",
           "confidence": 1.0,
-          "observed_name": "Ag",
-          "normalized_uri": "https://minmod.isi.edu/resource/Q585"
+          "observed_name": "Sn",
+          "normalized_uri": "https://minmod.isi.edu/resource/Q587"
         }
       },
       {
@@ -103,8 +49,8 @@
         "commodity": {
           "source": "UMN Matching System v1",
           "confidence": 1.0,
-          "observed_name": "Fe",
-          "normalized_uri": "https://minmod.isi.edu/resource/Q561"
+          "observed_name": "Nb",
+          "normalized_uri": "https://minmod.isi.edu/resource/Q579"
         }
       },
       {
@@ -116,100 +62,8 @@
         "commodity": {
           "source": "UMN Matching System v1",
           "confidence": 1.0,
-          "observed_name": "Cr",
-          "normalized_uri": "https://minmod.isi.edu/resource/Q519"
-        }
-      },
-      {
-        "reference": {
-          "document": {
-            "uri": "https://mrdata.usgs.gov/major-deposits"
-          }
-        },
-        "commodity": {
-          "source": "UMN Matching System v1",
-          "confidence": 1.0,
-          "observed_name": "PGE",
-          "normalized_uri": "https://minmod.isi.edu/resource/Q582"
-        }
-      }
-    ],
-    "reference": [
-      {
-        "document": {
-          "uri": "https://mrdata.usgs.gov/major-deposits"
-        }
-      }
-    ],
-    "created_by": "https://minmod.isi.edu/users/s/umn",
-    "modified_at": "2024-09-20T00:00:00Z"
-  },
-  {
-    "source_id": "https://mrdata.usgs.gov/major-deposits",
-    "record_id": "2316",
-    "name": "St John",
-    "location_info": {
-      "country": [
-        {
-          "source": "UMN Matching System v1",
-          "confidence": 1.0,
-          "observed_name": "Egypt",
-          "normalized_uri": "https://minmod.isi.edu/resource/Q1064"
-        }
-      ],
-      "crs": {
-        "source": "UMN Matching System v1",
-        "confidence": 1.0,
-        "observed_name": "EPSG:4326",
-        "normalized_uri": "https://minmod.isi.edu/resource/Q701"
-      },
-      "location": "POINT (36.14278 23.6225)"
-    },
-    "deposit_type_candidate": [
-      {
-        "source": "UMN Matching System v1",
-        "confidence": 1.0,
-        "observed_name": "Unclassified"
-      }
-    ],
-    "mineral_inventory": [
-      {
-        "reference": {
-          "document": {
-            "uri": "https://mrdata.usgs.gov/major-deposits"
-          }
-        },
-        "commodity": {
-          "source": "UMN Matching System v1",
-          "confidence": 1.0,
-          "observed_name": "Fe",
-          "normalized_uri": "https://minmod.isi.edu/resource/Q561"
-        }
-      },
-      {
-        "reference": {
-          "document": {
-            "uri": "https://mrdata.usgs.gov/major-deposits"
-          }
-        },
-        "commodity": {
-          "source": "UMN Matching System v1",
-          "confidence": 1.0,
-          "observed_name": "Ni",
-          "normalized_uri": "https://minmod.isi.edu/resource/Q578"
-        }
-      },
-      {
-        "reference": {
-          "document": {
-            "uri": "https://mrdata.usgs.gov/major-deposits"
-          }
-        },
-        "commodity": {
-          "source": "UMN Matching System v1",
-          "confidence": 1.0,
-          "observed_name": "Cu",
-          "normalized_uri": "https://minmod.isi.edu/resource/Q538"
+          "observed_name": "Li",
+          "normalized_uri": "https://minmod.isi.edu/resource/Q569"
         }
       }
     ],

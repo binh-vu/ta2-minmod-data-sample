@@ -1,11 +1,11 @@
 [
   {
     "source_id": "https://mrdata.usgs.gov/phosphate",
-    "record_id": "1311",
+    "record_id": "1364",
     "deposit_type_candidate": [
       {
         "source": "algorithm predictions, SRI deposit type classification, v2.1, 20241031",
-        "confidence": 0.8980541646480561,
+        "confidence": 0.8980315804481507,
         "observed_name": "Phosphorite",
         "normalized_uri": "https://minmod.isi.edu/resource/Q361"
       }
@@ -20,31 +20,7 @@
         "commodity": {
           "source": "SRI database agent v0",
           "confidence": 1.0,
-          "observed_name": "F"
-        }
-      },
-      {
-        "reference": {
-          "document": {
-            "uri": "https://mrdata.usgs.gov/phosphate"
-          }
-        },
-        "commodity": {
-          "source": "SRI database agent v0",
-          "confidence": 1.0,
           "observed_name": "U"
-        }
-      },
-      {
-        "reference": {
-          "document": {
-            "uri": "https://mrdata.usgs.gov/phosphate"
-          }
-        },
-        "commodity": {
-          "source": "SRI database agent v0",
-          "confidence": 1.0,
-          "observed_name": "F"
         }
       },
       {

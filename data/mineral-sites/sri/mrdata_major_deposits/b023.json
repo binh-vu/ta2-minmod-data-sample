@@ -1,13 +1,13 @@
 [
   {
     "source_id": "https://mrdata.usgs.gov/major-deposits",
-    "record_id": "1842",
+    "record_id": "2234",
     "deposit_type_candidate": [
       {
         "source": "algorithm predictions, SRI deposit type classification, v2.1, 20241031",
-        "confidence": 0.7980646848678589,
-        "observed_name": "Porphyry tungsten",
-        "normalized_uri": "https://minmod.isi.edu/resource/Q459"
+        "confidence": 0.8996980905532838,
+        "observed_name": "LCT pegmatite",
+        "normalized_uri": "https://minmod.isi.edu/resource/Q467"
       }
     ],
     "mineral_inventory": [
@@ -20,49 +20,7 @@
         "commodity": {
           "source": "SRI database agent v0",
           "confidence": 1.0,
-          "observed_name": "Tungsten",
-          "normalized_uri": "https://minmod.isi.edu/resource/Q615"
-        }
-      }
-    ],
-    "reference": [
-      {
-        "document": {
-          "uri": "https://mrdata.usgs.gov/major-deposits"
-        }
-      }
-    ],
-    "created_by": "https://minmod.isi.edu/users/s/sri",
-    "modified_at": "2024-11-06T19:08:00Z"
-  },
-  {
-    "source_id": "https://mrdata.usgs.gov/major-deposits",
-    "record_id": "2700",
-    "deposit_type_candidate": [
-      {
-        "source": "algorithm predictions, SRI deposit type classification, v2.1, 20241031",
-        "confidence": 0.35595190823078154,
-        "observed_name": "U-M layered intrusion chromium",
-        "normalized_uri": "https://minmod.isi.edu/resource/Q477"
-      },
-      {
-        "source": "algorithm predictions, SRI deposit type classification, v2.1, 20241031",
-        "confidence": 0.3487371146678925,
-        "observed_name": "U-M layered intrusion PGE",
-        "normalized_uri": "https://minmod.isi.edu/resource/Q479"
-      }
-    ],
-    "mineral_inventory": [
-      {
-        "reference": {
-          "document": {
-            "uri": "https://mrdata.usgs.gov/major-deposits"
-          }
-        },
-        "commodity": {
-          "source": "SRI database agent v0",
-          "confidence": 1.0,
-          "observed_name": "Chromium, PGE, Iron, Silver"
+          "observed_name": "Lithium, Columbium (Niobium), Tin"
         }
       }
     ],

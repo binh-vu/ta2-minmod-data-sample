@@ -1,15 +1,23 @@
 [
   {
     "source_id": "https://mrdata.usgs.gov/major-deposits",
-    "record_id": "2706",
-    "name": "Tweefontein",
+    "record_id": "829",
+    "name": "Natchez Trace deposit",
     "location_info": {
       "country": [
         {
           "source": "UMN Matching System v1",
           "confidence": 1.0,
-          "observed_name": "South Africa",
-          "normalized_uri": "https://minmod.isi.edu/resource/Q1204"
+          "observed_name": "United States",
+          "normalized_uri": "https://minmod.isi.edu/resource/Q1235"
+        }
+      ],
+      "state_or_province": [
+        {
+          "source": "UMN Matching System v1",
+          "confidence": 1.0,
+          "observed_name": "Tennessee",
+          "normalized_uri": "https://minmod.isi.edu/resource/Q6893"
         }
       ],
       "crs": {
@@ -18,13 +26,13 @@
         "observed_name": "EPSG:4326",
         "normalized_uri": "https://minmod.isi.edu/resource/Q701"
       },
-      "location": "POINT (30.125 -24.8958)"
+      "location": "POINT (-88.2 35.833)"
     },
     "deposit_type_candidate": [
       {
         "source": "UMN Matching System v1",
         "confidence": 1.0,
-        "observed_name": "Igneous"
+        "observed_name": "Surficial"
       }
     ],
     "mineral_inventory": [
@@ -37,8 +45,8 @@
         "commodity": {
           "source": "UMN Matching System v1",
           "confidence": 1.0,
-          "observed_name": "PGE",
-          "normalized_uri": "https://minmod.isi.edu/resource/Q582"
+          "observed_name": "Ti",
+          "normalized_uri": "https://minmod.isi.edu/resource/Q614"
         }
       },
       {
@@ -50,8 +58,8 @@
         "commodity": {
           "source": "UMN Matching System v1",
           "confidence": 1.0,
-          "observed_name": "Ni",
-          "normalized_uri": "https://minmod.isi.edu/resource/Q578"
+          "observed_name": "Zr",
+          "normalized_uri": "https://minmod.isi.edu/resource/Q617"
         }
       },
       {
@@ -63,8 +71,61 @@
         "commodity": {
           "source": "UMN Matching System v1",
           "confidence": 1.0,
-          "observed_name": "Cr",
-          "normalized_uri": "https://minmod.isi.edu/resource/Q519"
+          "observed_name": "REE",
+          "normalized_uri": "https://minmod.isi.edu/resource/Q618"
+        }
+      }
+    ],
+    "reference": [
+      {
+        "document": {
+          "uri": "https://mrdata.usgs.gov/major-deposits"
+        }
+      }
+    ],
+    "created_by": "https://minmod.isi.edu/users/s/umn",
+    "modified_at": "2024-09-20T00:00:00Z"
+  },
+  {
+    "source_id": "https://mrdata.usgs.gov/major-deposits",
+    "record_id": "1225",
+    "name": "Real de Angeles",
+    "location_info": {
+      "country": [
+        {
+          "source": "UMN Matching System v1",
+          "confidence": 1.0,
+          "observed_name": "Mexico",
+          "normalized_uri": "https://minmod.isi.edu/resource/Q1140"
+        }
+      ],
+      "crs": {
+        "source": "UMN Matching System v1",
+        "confidence": 1.0,
+        "observed_name": "EPSG:4326",
+        "normalized_uri": "https://minmod.isi.edu/resource/Q701"
+      },
+      "location": "POINT (-103 23.5)"
+    },
+    "deposit_type_candidate": [
+      {
+        "source": "UMN Matching System v1",
+        "confidence": 1.0,
+        "observed_name": "Hydrothermal"
+      }
+    ],
+    "mineral_inventory": [
+      {
+        "reference": {
+          "document": {
+            "uri": "https://mrdata.usgs.gov/major-deposits"
+          }
+        },
+        "commodity": {
+          "source": "UMN Matching System v1",
+          "confidence": 1.0,
+          "observed_name": "Ag",
+          "normalized_uri": "https://minmod.isi.edu/resource/Q585"
         }
       },
       {
@@ -76,8 +137,21 @@
         "commodity": {
           "source": "UMN Matching System v1",
           "confidence": 1.0,
-          "observed_name": "Au",
-          "normalized_uri": "https://minmod.isi.edu/resource/Q551"
+          "observed_name": "Pb",
+          "normalized_uri": "https://minmod.isi.edu/resource/Q565"
+        }
+      },
+      {
+        "reference": {
+          "document": {
+            "uri": "https://mrdata.usgs.gov/major-deposits"
+          }
+        },
+        "commodity": {
+          "source": "UMN Matching System v1",
+          "confidence": 1.0,
+          "observed_name": "Zn",
+          "normalized_uri": "https://minmod.isi.edu/resource/Q589"
         }
       }
     ],

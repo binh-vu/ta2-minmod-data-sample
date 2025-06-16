@@ -1,21 +1,21 @@
 [
   {
     "source_id": "https://mrdata.usgs.gov/sedznpb",
-    "record_id": "485",
-    "name": "Red Dog",
+    "record_id": "281",
+    "name": "Nakatatsu",
     "location_info": {
       "country": [
         {
           "source": "UMN Exact Match v1",
           "confidence": 1.0,
-          "normalized_uri": "https://minmod.isi.edu/resource/Q1235"
+          "normalized_uri": "https://minmod.isi.edu/resource/Q1109"
         }
       ],
       "state_or_province": [
         {
           "source": "UMN Exact Match v1",
           "confidence": 1.0,
-          "normalized_uri": "https://minmod.isi.edu/resource/Q6840"
+          "normalized_uri": "https://minmod.isi.edu/resource/Q3916"
         }
       ],
       "crs": {
@@ -23,13 +23,13 @@
         "confidence": 1.0,
         "normalized_uri": "https://minmod.isi.edu/resource/Q701"
       },
-      "location": "POINT (-162.823333333333 68.0669444444444)"
+      "location": "POINT (136.571388888889 35.8777777777778)"
     },
     "deposit_type_candidate": [
       {
         "source": "raw_data_extraction",
         "confidence": 1,
-        "observed_name": "SHam"
+        "observed_name": "CAig"
       }
     ],
     "mineral_inventory": [

@@ -1,19 +1,13 @@
 [
   {
     "source_id": "https://mrdata.usgs.gov/potash",
-    "record_id": "509",
+    "record_id": "13",
     "deposit_type_candidate": [
       {
         "source": "algorithm predictions, SRI deposit type classification, v2.1, 20241031",
-        "confidence": 0.3230165809392929,
-        "observed_name": "Marine brine potash (±Mg, Li, and so on)",
-        "normalized_uri": "https://minmod.isi.edu/resource/Q352"
-      },
-      {
-        "source": "algorithm predictions, SRI deposit type classification, v2.1, 20241031",
-        "confidence": 0.3131452739238739,
-        "observed_name": "Marine evaporite potash",
-        "normalized_uri": "https://minmod.isi.edu/resource/Q343"
+        "confidence": 0.6729883968830109,
+        "observed_name": "Lacustrine brine potash",
+        "normalized_uri": "https://minmod.isi.edu/resource/Q353"
       }
     ],
     "mineral_inventory": [
@@ -26,7 +20,31 @@
         "commodity": {
           "source": "SRI database agent v0",
           "confidence": 1.0,
-          "observed_name": "HAL"
+          "observed_name": "BRI"
+        }
+      },
+      {
+        "reference": {
+          "document": {
+            "uri": "https://mrdata.usgs.gov/potash"
+          }
+        },
+        "commodity": {
+          "source": "SRI database agent v0",
+          "confidence": 1.0,
+          "observed_name": "LI"
+        }
+      },
+      {
+        "reference": {
+          "document": {
+            "uri": "https://mrdata.usgs.gov/potash"
+          }
+        },
+        "commodity": {
+          "source": "SRI database agent v0",
+          "confidence": 1.0,
+          "observed_name": "B"
         }
       },
       {
@@ -39,6 +57,18 @@
           "source": "SRI database agent v0",
           "confidence": 1.0,
           "observed_name": "K"
+        }
+      },
+      {
+        "reference": {
+          "document": {
+            "uri": "https://mrdata.usgs.gov/potash"
+          }
+        },
+        "commodity": {
+          "source": "SRI database agent v0",
+          "confidence": 1.0,
+          "observed_name": "MG"
         }
       }
     ],

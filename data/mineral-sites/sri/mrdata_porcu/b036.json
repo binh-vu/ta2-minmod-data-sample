@@ -1,11 +1,17 @@
 [
   {
     "source_id": "https://mrdata.usgs.gov/porcu",
-    "record_id": "8",
+    "record_id": "186",
     "deposit_type_candidate": [
       {
         "source": "algorithm predictions, SRI deposit type classification, v2.1, 20241031",
-        "confidence": 0.8364956438541412,
+        "confidence": 0.4719683647155762,
+        "observed_name": "Porphyry copper ± gold",
+        "normalized_uri": "https://minmod.isi.edu/resource/Q454"
+      },
+      {
+        "source": "algorithm predictions, SRI deposit type classification, v2.1, 20241031",
+        "confidence": 0.23261677622795104,
         "observed_name": "Porphyry gold ± copper",
         "normalized_uri": "https://minmod.isi.edu/resource/Q456"
       }

@@ -1,8 +1,8 @@
 [
   {
     "source_id": "https://doi.org/10.5382/econgeo.2018.4590",
-    "record_id": "carl-creek__2067",
-    "name": "Carl Creek",
+    "record_id": "twin-buttes__2229",
+    "name": "Twin Buttes",
     "location_info": {
       "country": [
         {
@@ -23,6 +23,11 @@
         "source": "SAND",
         "confidence": 0.0,
         "observed_name": "Porphyry"
+      },
+      {
+        "source": "SAND",
+        "confidence": 0.0,
+        "observed_name": "Cu-Mo"
       }
     ],
     "mineral_inventory": [
@@ -58,7 +63,7 @@
           }
         ],
         "grade": {
-          "value": 0.15,
+          "value": 0.4733333333,
           "unit": {
             "source": "SAND",
             "confidence": 1.0,
@@ -67,7 +72,107 @@
           }
         },
         "ore": {
-          "value": 16.0,
+          "value": 117.0,
+          "unit": {
+            "source": "SAND",
+            "confidence": 1.0,
+            "observed_name": "Mt",
+            "normalized_uri": "https://minmod.isi.edu/resource/Q202"
+          }
+        }
+      },
+      {
+        "reference": {
+          "document": {
+            "doi": "10.5382/econgeo.2018.4590",
+            "uri": "https://doi.org/10.5382/econgeo.2018.4590",
+            "title": "Growing Global Copper Resources, Reserves and Production: Discovery Is Not the Only Control on Supply"
+          }
+        },
+        "commodity": {
+          "source": "SAND",
+          "confidence": 1.0,
+          "observed_name": "g/t Ag",
+          "normalized_uri": "https://minmod.isi.edu/resource/Q585"
+        },
+        "category": [
+          {
+            "source": "SAND",
+            "confidence": 0.99,
+            "normalized_uri": "https://minmod.isi.edu/resource/Inferred"
+          },
+          {
+            "source": "SAND",
+            "confidence": 0.99,
+            "normalized_uri": "https://minmod.isi.edu/resource/Indicated"
+          },
+          {
+            "source": "SAND",
+            "confidence": 0.99,
+            "normalized_uri": "https://minmod.isi.edu/resource/Measured"
+          }
+        ],
+        "grade": {
+          "value": 3.993162393,
+          "unit": {
+            "source": "SAND",
+            "confidence": 1.0,
+            "observed_name": "g/t Ag",
+            "normalized_uri": "https://minmod.isi.edu/resource/Q203"
+          }
+        },
+        "ore": {
+          "value": 117.0,
+          "unit": {
+            "source": "SAND",
+            "confidence": 1.0,
+            "observed_name": "Mt",
+            "normalized_uri": "https://minmod.isi.edu/resource/Q202"
+          }
+        }
+      },
+      {
+        "reference": {
+          "document": {
+            "doi": "10.5382/econgeo.2018.4590",
+            "uri": "https://doi.org/10.5382/econgeo.2018.4590",
+            "title": "Growing Global Copper Resources, Reserves and Production: Discovery Is Not the Only Control on Supply"
+          }
+        },
+        "commodity": {
+          "source": "SAND",
+          "confidence": 1.0,
+          "observed_name": "% Mo",
+          "normalized_uri": "https://minmod.isi.edu/resource/Q576"
+        },
+        "category": [
+          {
+            "source": "SAND",
+            "confidence": 0.99,
+            "normalized_uri": "https://minmod.isi.edu/resource/Inferred"
+          },
+          {
+            "source": "SAND",
+            "confidence": 0.99,
+            "normalized_uri": "https://minmod.isi.edu/resource/Indicated"
+          },
+          {
+            "source": "SAND",
+            "confidence": 0.99,
+            "normalized_uri": "https://minmod.isi.edu/resource/Measured"
+          }
+        ],
+        "grade": {
+          "value": 0.02495726496,
+          "unit": {
+            "source": "SAND",
+            "confidence": 1.0,
+            "observed_name": "% Mo",
+            "normalized_uri": "https://minmod.isi.edu/resource/Q201"
+          }
+        },
+        "ore": {
+          "value": 117.0,
           "unit": {
             "source": "SAND",
             "confidence": 1.0,

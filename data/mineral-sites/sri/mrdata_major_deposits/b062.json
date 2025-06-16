@@ -1,0 +1,43 @@
+[
+  {
+    "source_id": "https://mrdata.usgs.gov/major-deposits",
+    "record_id": "2827",
+    "deposit_type_candidate": [
+      {
+        "source": "algorithm predictions, SRI deposit type classification, v2.1, 20241031",
+        "confidence": 0.5863253116607666,
+        "observed_name": "Paleoplacer gold ± uranium",
+        "normalized_uri": "https://minmod.isi.edu/resource/Q316"
+      },
+      {
+        "source": "algorithm predictions, SRI deposit type classification, v2.1, 20241031",
+        "confidence": 0.31364582777023314,
+        "observed_name": "Fluvial placer PGE",
+        "normalized_uri": "https://minmod.isi.edu/resource/Q304"
+      }
+    ],
+    "mineral_inventory": [
+      {
+        "reference": {
+          "document": {
+            "uri": "https://mrdata.usgs.gov/major-deposits"
+          }
+        },
+        "commodity": {
+          "source": "SRI database agent v0",
+          "confidence": 1.0,
+          "observed_name": "Gold, Uranium, Silver, Sulfur, PGE"
+        }
+      }
+    ],
+    "reference": [
+      {
+        "document": {
+          "uri": "https://mrdata.usgs.gov/major-deposits"
+        }
+      }
+    ],
+    "created_by": "https://minmod.isi.edu/users/s/sri",
+    "modified_at": "2024-11-06T19:08:00Z"
+  }
+]

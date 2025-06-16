@@ -1,15 +1,15 @@
 [
   {
     "source_id": "https://mrdata.usgs.gov/major-deposits",
-    "record_id": "2557",
-    "name": "Nanro",
+    "record_id": "3136",
+    "name": "Renco",
     "location_info": {
       "country": [
         {
           "source": "UMN Matching System v1",
           "confidence": 1.0,
-          "observed_name": "Mozambique",
-          "normalized_uri": "https://minmod.isi.edu/resource/Q1148"
+          "observed_name": "Zimbabwe",
+          "normalized_uri": "https://minmod.isi.edu/resource/Q1249"
         }
       ],
       "crs": {
@@ -18,13 +18,13 @@
         "observed_name": "EPSG:4326",
         "normalized_uri": "https://minmod.isi.edu/resource/Q701"
       },
-      "location": "POINT (38.2625 -15.775)"
+      "location": "POINT (31.1736 -20.6292)"
     },
     "deposit_type_candidate": [
       {
         "source": "UMN Matching System v1",
         "confidence": 1.0,
-        "observed_name": "Igneous"
+        "observed_name": "Hydrothermal"
       }
     ],
     "mineral_inventory": [
@@ -37,8 +37,21 @@
         "commodity": {
           "source": "UMN Matching System v1",
           "confidence": 1.0,
-          "observed_name": "Li",
-          "normalized_uri": "https://minmod.isi.edu/resource/Q569"
+          "observed_name": "Cu",
+          "normalized_uri": "https://minmod.isi.edu/resource/Q538"
+        }
+      },
+      {
+        "reference": {
+          "document": {
+            "uri": "https://mrdata.usgs.gov/major-deposits"
+          }
+        },
+        "commodity": {
+          "source": "UMN Matching System v1",
+          "confidence": 1.0,
+          "observed_name": "Au",
+          "normalized_uri": "https://minmod.isi.edu/resource/Q551"
         }
       }
     ],

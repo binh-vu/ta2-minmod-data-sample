@@ -1,9 +1,9 @@
 [
   {
     "source_id": "https://www.deq.nc.gov/about/divisions/energy-mineral-and-land-resources/nc-geological-survey",
-    "record_id": "7207",
-    "name": "Cumberland Sand And Gravel",
-    "site_type": "Occurrence",
+    "record_id": "7479",
+    "name": "Sloan Mine",
+    "site_type": "Past Producer",
     "location_info": {
       "country": [
         {
@@ -27,7 +27,7 @@
         "observed_name": "EPSG:4326",
         "normalized_uri": "https://minmod.isi.edu/resource/Q701"
       },
-      "location": "POINT (-79.0166727000000009 35.2166769000000031)"
+      "location": "POINT (-79.1862227999999959 35.6135497000000001)"
     },
     "mineral_inventory": [
       {
@@ -38,61 +38,9 @@
         },
         "commodity": {
           "source": "UMN Matching System-ProcMinev2",
-          "confidence": 0.7598965847432124,
-          "observed_name": "Metal",
-          "normalized_uri": "https://minmod.isi.edu/resource/Q581"
-        }
-      },
-      {
-        "reference": {
-          "document": {
-            "uri": "https://www.deq.nc.gov/about/divisions/energy-mineral-and-land-resources/nc-geological-survey"
-          }
-        },
-        "commodity": {
-          "source": "UMN Matching System-ProcMinev2",
           "confidence": 0.9999,
-          "observed_name": "Zirconium",
-          "normalized_uri": "https://minmod.isi.edu/resource/Q617"
-        }
-      },
-      {
-        "reference": {
-          "document": {
-            "uri": "https://www.deq.nc.gov/about/divisions/energy-mineral-and-land-resources/nc-geological-survey"
-          }
-        },
-        "commodity": {
-          "source": "UMN Matching System-ProcMinev2",
-          "confidence": 0.9999,
-          "observed_name": "Thorium",
-          "normalized_uri": "https://minmod.isi.edu/resource/Q613"
-        }
-      },
-      {
-        "reference": {
-          "document": {
-            "uri": "https://www.deq.nc.gov/about/divisions/energy-mineral-and-land-resources/nc-geological-survey"
-          }
-        },
-        "commodity": {
-          "source": "UMN Matching System-ProcMinev2",
-          "confidence": 0.9999,
-          "observed_name": "Iron",
-          "normalized_uri": "https://minmod.isi.edu/resource/Q561"
-        }
-      },
-      {
-        "reference": {
-          "document": {
-            "uri": "https://www.deq.nc.gov/about/divisions/energy-mineral-and-land-resources/nc-geological-survey"
-          }
-        },
-        "commodity": {
-          "source": "UMN Matching System-ProcMinev2",
-          "confidence": 0.9999,
-          "observed_name": "Titanium",
-          "normalized_uri": "https://minmod.isi.edu/resource/Q614"
+          "observed_name": "Copper",
+          "normalized_uri": "https://minmod.isi.edu/resource/Q538"
         }
       }
     ],

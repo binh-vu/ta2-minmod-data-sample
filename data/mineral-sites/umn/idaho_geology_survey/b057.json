@@ -1,8 +1,8 @@
 [
   {
     "source_id": "https://www.idahogeology.org",
-    "record_id": "CH0685",
-    "name": "Horsefly Prospect",
+    "record_id": "CH0803",
+    "name": "Chief Executive Group",
     "location_info": {
       "country": [
         {
@@ -26,7 +26,7 @@
         "observed_name": "EPSG:4326",
         "normalized_uri": "https://minmod.isi.edu/resource/Q701"
       },
-      "location": "POINT (-115.604403944 44.3787345150001)"
+      "location": "POINT (-115.100496219 44.841234705)"
     },
     "mineral_inventory": [
       {
@@ -38,8 +38,34 @@
         "commodity": {
           "source": "UMN Matching System v1",
           "confidence": 1.0,
-          "observed_name": "tungsten",
-          "normalized_uri": "https://minmod.isi.edu/resource/Q615"
+          "observed_name": "silver",
+          "normalized_uri": "https://minmod.isi.edu/resource/Q585"
+        }
+      },
+      {
+        "reference": {
+          "document": {
+            "uri": "https://www.idahogeology.org"
+          }
+        },
+        "commodity": {
+          "source": "UMN Matching System v1",
+          "confidence": 1.0,
+          "observed_name": "gold",
+          "normalized_uri": "https://minmod.isi.edu/resource/Q551"
+        }
+      },
+      {
+        "reference": {
+          "document": {
+            "uri": "https://www.idahogeology.org"
+          }
+        },
+        "commodity": {
+          "source": "UMN Matching System v1",
+          "confidence": 1.0,
+          "observed_name": "copper",
+          "normalized_uri": "https://minmod.isi.edu/resource/Q538"
         }
       }
     ],

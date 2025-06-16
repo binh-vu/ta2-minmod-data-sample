@@ -1,8 +1,8 @@
 [
   {
     "source_id": "https://mrdata.usgs.gov/podchrome",
-    "record_id": "286",
-    "name": "White Feather Claim",
+    "record_id": "394",
+    "name": "Horseshoe Claim",
     "location_info": {
       "country": [
         {
@@ -16,8 +16,8 @@
         {
           "source": "UMN Matching System v1",
           "confidence": 1.0,
-          "observed_name": "California",
-          "normalized_uri": "https://minmod.isi.edu/resource/Q6845"
+          "observed_name": "Oregon",
+          "normalized_uri": "https://minmod.isi.edu/resource/Q6886"
         }
       ],
       "crs": {
@@ -26,13 +26,13 @@
         "observed_name": "EPSG:4326",
         "normalized_uri": "https://minmod.isi.edu/resource/Q701"
       },
-      "location": "POINT (-123.630555555556 41.8905555555556)"
+      "location": "POINT (-122.854166666667 42.1258333333333)"
     },
     "deposit_type_candidate": [
       {
         "source": "UMN Matching System v1",
         "confidence": 1.0,
-        "observed_name": "minor podiform chromite"
+        "observed_name": "banded podiform chromite"
       }
     ],
     "mineral_inventory": [

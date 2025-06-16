@@ -1,0 +1,38 @@
+[
+  {
+    "source_id": "https://mrdata.usgs.gov/major-deposits",
+    "record_id": "228",
+    "deposit_type_candidate": [
+      {
+        "source": "algorithm predictions, SRI deposit type classification, v2.1, 20241031",
+        "confidence": 0.2920555740594864,
+        "observed_name": "Skarn tin ± copper ± Mo",
+        "normalized_uri": "https://minmod.isi.edu/resource/Q448"
+      }
+    ],
+    "mineral_inventory": [
+      {
+        "reference": {
+          "document": {
+            "uri": "https://mrdata.usgs.gov/major-deposits"
+          }
+        },
+        "commodity": {
+          "source": "SRI database agent v0",
+          "confidence": 1.0,
+          "observed_name": "Tin",
+          "normalized_uri": "https://minmod.isi.edu/resource/Q587"
+        }
+      }
+    ],
+    "reference": [
+      {
+        "document": {
+          "uri": "https://mrdata.usgs.gov/major-deposits"
+        }
+      }
+    ],
+    "created_by": "https://minmod.isi.edu/users/s/sri",
+    "modified_at": "2024-11-06T19:08:00Z"
+  }
+]

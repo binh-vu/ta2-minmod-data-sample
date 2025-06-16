@@ -1,21 +1,14 @@
 [
   {
     "source_id": "https://mrdata.usgs.gov/porcu",
-    "record_id": "594",
-    "name": "Orange  Hill",
+    "record_id": "253",
+    "name": "Mocoa",
     "location_info": {
       "country": [
         {
           "source": "UMN Exact Match v1",
           "confidence": 1.0,
-          "normalized_uri": "https://minmod.isi.edu/resource/Q1235"
-        }
-      ],
-      "state_or_province": [
-        {
-          "source": "UMN Exact Match v1",
-          "confidence": 1.0,
-          "normalized_uri": "https://minmod.isi.edu/resource/Q6840"
+          "normalized_uri": "https://minmod.isi.edu/resource/Q1047"
         }
       ],
       "crs": {
@@ -23,13 +16,13 @@
         "confidence": 1.0,
         "normalized_uri": "https://minmod.isi.edu/resource/Q701"
       },
-      "location": "POINT (-142.841944444444 62.2058333333333)"
+      "location": "POINT (-76.6666666666667 1.24166666666667)"
     },
     "deposit_type_candidate": [
       {
         "source": "raw_data_extraction",
         "confidence": 1,
-        "observed_name": "17"
+        "observed_name": "21a"
       }
     ],
     "mineral_inventory": [

@@ -22,19 +22,19 @@
   },
   {
     "source_id": "https://mrdata.usgs.gov/vms",
-    "record_id": "936",
+    "record_id": "1216",
     "deposit_type_candidate": [
       {
         "source": "algorithm predictions, SRI deposit type classification, v2.1, 20241031",
-        "confidence": 0.5935876071453094,
-        "observed_name": "Bimodal-mafic VMS",
-        "normalized_uri": "https://minmod.isi.edu/resource/Q411"
+        "confidence": 0.691288411617279,
+        "observed_name": "Bimodal felsic VMS",
+        "normalized_uri": "https://minmod.isi.edu/resource/Q412"
       },
       {
         "source": "algorithm predictions, SRI deposit type classification, v2.1, 20241031",
-        "confidence": 0.3017902493476868,
-        "observed_name": "Bimodal felsic VMS",
-        "normalized_uri": "https://minmod.isi.edu/resource/Q412"
+        "confidence": 0.1989540070295334,
+        "observed_name": "Felsic-siliciclastic VMS",
+        "normalized_uri": "https://minmod.isi.edu/resource/Q413"
       }
     ],
     "reference": [

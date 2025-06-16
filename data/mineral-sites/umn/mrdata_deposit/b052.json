@@ -1,8 +1,8 @@
 [
   {
     "source_id": "https://mrdata.usgs.gov/deposit",
-    "record_id": "CA00056",
-    "name": "Black Rock",
+    "record_id": "CO00042",
+    "name": "Mammoth",
     "location_info": {
       "country": [
         {
@@ -15,7 +15,7 @@
         {
           "source": "UMN Exact Match v1",
           "confidence": 1.0,
-          "normalized_uri": "https://minmod.isi.edu/resource/Q6845"
+          "normalized_uri": "https://minmod.isi.edu/resource/Q6846"
         }
       ],
       "crs": {
@@ -23,13 +23,13 @@
         "confidence": 1.0,
         "normalized_uri": "https://minmod.isi.edu/resource/Q701"
       },
-      "location": "POINT (-118.5282 37.6846)"
+      "location": "POINT (-105.4857 39.9443)"
     },
     "deposit_type_candidate": [
       {
         "source": "raw_data_extraction",
         "confidence": 1,
-        "observed_name": "14a - W skarn deposits"
+        "observed_name": "15a - W veins"
       }
     ],
     "mineral_inventory": [

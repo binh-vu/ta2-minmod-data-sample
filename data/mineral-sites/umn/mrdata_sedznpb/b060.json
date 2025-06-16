@@ -1,14 +1,21 @@
 [
   {
     "source_id": "https://mrdata.usgs.gov/sedznpb",
-    "record_id": "200",
-    "name": "Carboire",
+    "record_id": "122",
+    "name": "Polaris",
     "location_info": {
       "country": [
         {
           "source": "UMN Exact Match v1",
           "confidence": 1.0,
-          "normalized_uri": "https://minmod.isi.edu/resource/Q1075"
+          "normalized_uri": "https://minmod.isi.edu/resource/Q1038"
+        }
+      ],
+      "state_or_province": [
+        {
+          "source": "UMN Exact Match v1",
+          "confidence": 1.0,
+          "normalized_uri": "https://minmod.isi.edu/resource/Q2660"
         }
       ],
       "crs": {
@@ -16,13 +23,13 @@
         "confidence": 1.0,
         "normalized_uri": "https://minmod.isi.edu/resource/Q701"
       },
-      "location": "POINT (1.30055555555556 42.7502777777778)"
+      "location": "POINT (-96.9311111111111 75.3877777777778)"
     },
     "deposit_type_candidate": [
       {
         "source": "raw_data_extraction",
         "confidence": 1,
-        "observed_name": "SHig"
+        "observed_name": "CAam"
       }
     ],
     "mineral_inventory": [

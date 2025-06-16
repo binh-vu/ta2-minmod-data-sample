@@ -1,6 +1,124 @@
 [
   {
     "source_id": "https://www.deq.nc.gov/about/divisions/energy-mineral-and-land-resources/nc-geological-survey",
+    "record_id": "1161",
+    "name": "Old Plantation Emerald",
+    "aliases": [
+      "Aquamarine And Beryl Mine"
+    ],
+    "site_type": "Past Producer",
+    "geology_info": {
+      "host_rock": {
+        "unit": "Roan Gneiss"
+      },
+      "associated_rock": {
+        "unit": "Soapstone, Pyroxenite, And Allied Basic Rocks"
+      }
+    },
+    "location_info": {
+      "country": [
+        {
+          "source": "UMN Matching System-ProcMinev2",
+          "confidence": 0.9999,
+          "observed_name": "United States",
+          "normalized_uri": "https://minmod.isi.edu/resource/Q1235"
+        }
+      ],
+      "state_or_province": [
+        {
+          "source": "UMN Matching System-ProcMinev2",
+          "confidence": 0.9999,
+          "observed_name": "North Carolina",
+          "normalized_uri": "https://minmod.isi.edu/resource/Q6881"
+        }
+      ],
+      "crs": {
+        "source": "UMN Matching System-ProcMinev2",
+        "confidence": 0.9999,
+        "observed_name": "EPSG:4326",
+        "normalized_uri": "https://minmod.isi.edu/resource/Q701"
+      },
+      "location": "POINT (-81.5811135000000007 35.2336169000000012)"
+    },
+    "mineral_inventory": [
+      {
+        "reference": {
+          "document": {
+            "uri": "https://www.deq.nc.gov/about/divisions/energy-mineral-and-land-resources/nc-geological-survey"
+          }
+        },
+        "commodity": {
+          "source": "UMN Matching System-ProcMinev2",
+          "confidence": 0.9999,
+          "observed_name": "Quartz",
+          "normalized_uri": "https://minmod.isi.edu/resource/Q630"
+        }
+      },
+      {
+        "reference": {
+          "document": {
+            "uri": "https://www.deq.nc.gov/about/divisions/energy-mineral-and-land-resources/nc-geological-survey"
+          }
+        },
+        "commodity": {
+          "source": "UMN Matching System-ProcMinev2",
+          "confidence": 0.9999,
+          "observed_name": "Boron-Borates",
+          "normalized_uri": "https://minmod.isi.edu/resource/Q515"
+        }
+      },
+      {
+        "reference": {
+          "document": {
+            "uri": "https://www.deq.nc.gov/about/divisions/energy-mineral-and-land-resources/nc-geological-survey"
+          }
+        },
+        "commodity": {
+          "source": "UMN Matching System-ProcMinev2",
+          "confidence": 0.9999,
+          "observed_name": "Gemstone",
+          "normalized_uri": "https://minmod.isi.edu/resource/Q544"
+        }
+      },
+      {
+        "reference": {
+          "document": {
+            "uri": "https://www.deq.nc.gov/about/divisions/energy-mineral-and-land-resources/nc-geological-survey"
+          }
+        },
+        "commodity": {
+          "source": "UMN Matching System-ProcMinev2",
+          "confidence": 0.9999,
+          "observed_name": "Beryllium",
+          "normalized_uri": "https://minmod.isi.edu/resource/Q590"
+        }
+      },
+      {
+        "reference": {
+          "document": {
+            "uri": "https://www.deq.nc.gov/about/divisions/energy-mineral-and-land-resources/nc-geological-survey"
+          }
+        },
+        "commodity": {
+          "source": "UMN Matching System-ProcMinev2",
+          "confidence": 0.9999,
+          "observed_name": "Chromium",
+          "normalized_uri": "https://minmod.isi.edu/resource/Q519"
+        }
+      }
+    ],
+    "reference": [
+      {
+        "document": {
+          "uri": "https://www.deq.nc.gov/about/divisions/energy-mineral-and-land-resources/nc-geological-survey"
+        }
+      }
+    ],
+    "created_by": "https://minmod.isi.edu/users/s/umn",
+    "modified_at": "2025-05-23T19:29:31Z"
+  },
+  {
+    "source_id": "https://www.deq.nc.gov/about/divisions/energy-mineral-and-land-resources/nc-geological-survey",
     "record_id": "639",
     "name": "Ellwood Mine",
     "site_type": "Producer",

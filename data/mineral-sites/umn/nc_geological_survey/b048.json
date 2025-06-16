@@ -1,8 +1,8 @@
 [
   {
     "source_id": "https://www.deq.nc.gov/about/divisions/energy-mineral-and-land-resources/nc-geological-survey",
-    "record_id": "4518",
-    "name": "Balsam Gap Olivine Deposit",
+    "record_id": "5142",
+    "name": "Setzer Limestone Quarry",
     "site_type": "Past Producer",
     "location_info": {
       "country": [
@@ -27,8 +27,34 @@
         "observed_name": "EPSG:4326",
         "normalized_uri": "https://minmod.isi.edu/resource/Q701"
       },
-      "location": "POINT (-83.0956039000000004 35.4256067999999971)"
+      "location": "POINT (-81.0750033000000059 35.6469069999999988)"
     },
+    "deposit_type_candidate": [
+      {
+        "source": "UMN Matching System-ProcMinev2",
+        "confidence": 0.5378776859625773,
+        "observed_name": "Metamorphosed Chemical Sediment Limestone",
+        "normalized_uri": "https://minmod.isi.edu/resource/Q396"
+      },
+      {
+        "source": "UMN Matching System-ProcMinev2",
+        "confidence": 0.4588669311589321,
+        "observed_name": "High Calcium",
+        "normalized_uri": "https://minmod.isi.edu/resource/Q483"
+      },
+      {
+        "source": "UMN Matching System-ProcMinev2",
+        "confidence": 0.6529239053695575,
+        "observed_name": "Copper",
+        "normalized_uri": "https://minmod.isi.edu/resource/Q425"
+      },
+      {
+        "source": "UMN Matching System-ProcMinev2",
+        "confidence": 0.61140839873399,
+        "observed_name": "Iron",
+        "normalized_uri": "https://minmod.isi.edu/resource/Q445"
+      }
+    ],
     "mineral_inventory": [
       {
         "reference": {
@@ -38,9 +64,9 @@
         },
         "commodity": {
           "source": "UMN Matching System-ProcMinev2",
-          "confidence": 0.9999,
-          "observed_name": "Magnesite",
-          "normalized_uri": "https://minmod.isi.edu/resource/Q570"
+          "confidence": 0.7611163264780054,
+          "observed_name": "High Calcium",
+          "normalized_uri": "https://minmod.isi.edu/resource/Q567"
         }
       },
       {
@@ -52,8 +78,8 @@
         "commodity": {
           "source": "UMN Matching System-ProcMinev2",
           "confidence": 0.9999,
-          "observed_name": "Talc-Soapstone",
-          "normalized_uri": "https://minmod.isi.edu/resource/Q669"
+          "observed_name": "Copper",
+          "normalized_uri": "https://minmod.isi.edu/resource/Q538"
         }
       },
       {
@@ -65,8 +91,34 @@
         "commodity": {
           "source": "UMN Matching System-ProcMinev2",
           "confidence": 0.9999,
-          "observed_name": "Chromium",
-          "normalized_uri": "https://minmod.isi.edu/resource/Q519"
+          "observed_name": "Iron",
+          "normalized_uri": "https://minmod.isi.edu/resource/Q561"
+        }
+      },
+      {
+        "reference": {
+          "document": {
+            "uri": "https://www.deq.nc.gov/about/divisions/energy-mineral-and-land-resources/nc-geological-survey"
+          }
+        },
+        "commodity": {
+          "source": "UMN Matching System-ProcMinev2",
+          "confidence": 0.9999,
+          "observed_name": "Limestone",
+          "normalized_uri": "https://minmod.isi.edu/resource/Q597"
+        }
+      },
+      {
+        "reference": {
+          "document": {
+            "uri": "https://www.deq.nc.gov/about/divisions/energy-mineral-and-land-resources/nc-geological-survey"
+          }
+        },
+        "commodity": {
+          "source": "UMN Matching System-ProcMinev2",
+          "confidence": 0.9999,
+          "observed_name": "Sulfur",
+          "normalized_uri": "https://minmod.isi.edu/resource/Q633"
         }
       }
     ],

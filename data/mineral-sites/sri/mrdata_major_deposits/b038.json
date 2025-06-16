@@ -33,5 +33,46 @@
     ],
     "created_by": "https://minmod.isi.edu/users/s/sri",
     "modified_at": "2024-11-06T19:08:00Z"
+  },
+  {
+    "source_id": "https://mrdata.usgs.gov/major-deposits",
+    "record_id": "2526",
+    "deposit_type_candidate": [
+      {
+        "source": "algorithm predictions, SRI deposit type classification, v2.1, 20241031",
+        "confidence": 0.4981146454811096,
+        "observed_name": "Kipushi-type sediment- hosted copper- zinc-lead",
+        "normalized_uri": "https://minmod.isi.edu/resource/Q379"
+      },
+      {
+        "source": "algorithm predictions, SRI deposit type classification, v2.1, 20241031",
+        "confidence": 0.2585604697465897,
+        "observed_name": "Orogenic silver-lead- zinc-copper- antimony",
+        "normalized_uri": "https://minmod.isi.edu/resource/Q392"
+      }
+    ],
+    "mineral_inventory": [
+      {
+        "reference": {
+          "document": {
+            "uri": "https://mrdata.usgs.gov/major-deposits"
+          }
+        },
+        "commodity": {
+          "source": "SRI database agent v0",
+          "confidence": 1.0,
+          "observed_name": "Lead, Silver, Copper"
+        }
+      }
+    ],
+    "reference": [
+      {
+        "document": {
+          "uri": "https://mrdata.usgs.gov/major-deposits"
+        }
+      }
+    ],
+    "created_by": "https://minmod.isi.edu/users/s/sri",
+    "modified_at": "2024-11-06T19:08:00Z"
   }
 ]

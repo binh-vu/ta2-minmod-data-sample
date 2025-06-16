@@ -97,14 +97,26 @@
   },
   {
     "source_id": "https://doi.org/10.5066/P96MMRFD",
-    "record_id": "PM003",
+    "record_id": "TL063",
     "site_type": "Occurrence",
     "deposit_type_candidate": [
       {
         "source": "algorithm predictions, SRI deposit type classification, v2.1, 20241031",
-        "confidence": 0.6682580530643464,
-        "observed_name": "Shoreline placer gold",
-        "normalized_uri": "https://minmod.isi.edu/resource/Q313"
+        "confidence": 0.2371888965368271,
+        "observed_name": "Porphyry gold ± copper",
+        "normalized_uri": "https://minmod.isi.edu/resource/Q456"
+      },
+      {
+        "source": "algorithm predictions, SRI deposit type classification, v2.1, 20241031",
+        "confidence": 0.18742583245038988,
+        "observed_name": "Oxidized intrusion- related gold",
+        "normalized_uri": "https://minmod.isi.edu/resource/Q465"
+      },
+      {
+        "source": "algorithm predictions, SRI deposit type classification, v2.1, 20241031",
+        "confidence": 0.18742583245038988,
+        "observed_name": "Reduced intrusion- related gold",
+        "normalized_uri": "https://minmod.isi.edu/resource/Q464"
       }
     ],
     "mineral_inventory": [
@@ -129,7 +141,55 @@
         "commodity": {
           "source": "SRI database agent v0",
           "confidence": 1.0,
-          "observed_name": "Cu"
+          "observed_name": "As"
+        }
+      }
+    ],
+    "reference": [
+      {
+        "document": {
+          "uri": "https://doi.org/10.5066/P96MMRFD"
+        }
+      }
+    ],
+    "created_by": "https://minmod.isi.edu/users/s/sri",
+    "modified_at": "2024-11-06T18:58:25Z"
+  },
+  {
+    "source_id": "https://doi.org/10.5066/P96MMRFD",
+    "record_id": "OP023",
+    "site_type": "Occurrence",
+    "deposit_type_candidate": [
+      {
+        "source": "algorithm predictions, SRI deposit type classification, v2.1, 20241031",
+        "confidence": 0.6950402855873108,
+        "observed_name": "Ophiolite chromium",
+        "normalized_uri": "https://minmod.isi.edu/resource/Q483"
+      }
+    ],
+    "mineral_inventory": [
+      {
+        "reference": {
+          "document": {
+            "uri": "https://doi.org/10.5066/P96MMRFD"
+          }
+        },
+        "commodity": {
+          "source": "SRI database agent v0",
+          "confidence": 1.0,
+          "observed_name": "Cr"
+        }
+      },
+      {
+        "reference": {
+          "document": {
+            "uri": "https://doi.org/10.5066/P96MMRFD"
+          }
+        },
+        "commodity": {
+          "source": "SRI database agent v0",
+          "confidence": 1.0,
+          "observed_name": "Pt"
         }
       }
     ],

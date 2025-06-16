@@ -1,0 +1,147 @@
+[
+  {
+    "source_id": "https://doi.org/10.1016/j.oregeorev.2016.08.010",
+    "record_id": "silvermines__558",
+    "name": "Silvermines",
+    "location_info": {
+      "country": [
+        {
+          "source": "SAND",
+          "confidence": 1.0,
+          "observed_name": "Ireland",
+          "normalized_uri": "https://minmod.isi.edu/resource/Q1105"
+        }
+      ],
+      "crs": {
+        "source": "SAND",
+        "confidence": 0.8,
+        "normalized_uri": "https://minmod.isi.edu/resource/Q701"
+      }
+    },
+    "deposit_type_candidate": [
+      {
+        "source": "SAND",
+        "confidence": 0.0,
+        "observed_name": "Sediment-hosted Pb-Zn"
+      },
+      {
+        "source": "SAND",
+        "confidence": 0.0,
+        "observed_name": "MVT"
+      }
+    ],
+    "mineral_inventory": [
+      {
+        "reference": {
+          "document": {
+            "doi": "10.1016/j.oregeorev.2016.08.010",
+            "uri": "https://doi.org/10.1016/j.oregeorev.2016.08.010",
+            "title": "The world's lead-zinc mineral resources: Scarcity, data, issues and opportunities"
+          }
+        },
+        "commodity": {
+          "source": "SAND",
+          "confidence": 1.0,
+          "observed_name": "g/t Ag",
+          "normalized_uri": "https://minmod.isi.edu/resource/Q585"
+        },
+        "category": [
+          {
+            "source": "SAND",
+            "confidence": 0.99,
+            "normalized_uri": "https://minmod.isi.edu/resource/Inferred"
+          },
+          {
+            "source": "SAND",
+            "confidence": 0.99,
+            "normalized_uri": "https://minmod.isi.edu/resource/Indicated"
+          },
+          {
+            "source": "SAND",
+            "confidence": 0.99,
+            "normalized_uri": "https://minmod.isi.edu/resource/Measured"
+          }
+        ],
+        "grade": {
+          "value": 70.0,
+          "unit": {
+            "source": "SAND",
+            "confidence": 1.0,
+            "observed_name": "g/t Ag",
+            "normalized_uri": "https://minmod.isi.edu/resource/Q203"
+          }
+        },
+        "ore": {
+          "value": 6.89,
+          "unit": {
+            "source": "SAND",
+            "confidence": 1.0,
+            "observed_name": "Mt",
+            "normalized_uri": "https://minmod.isi.edu/resource/Q202"
+          }
+        }
+      },
+      {
+        "reference": {
+          "document": {
+            "doi": "10.1016/j.oregeorev.2016.08.010",
+            "uri": "https://doi.org/10.1016/j.oregeorev.2016.08.010",
+            "title": "The world's lead-zinc mineral resources: Scarcity, data, issues and opportunities"
+          }
+        },
+        "commodity": {
+          "source": "SAND",
+          "confidence": 1.0,
+          "observed_name": "%Cu",
+          "normalized_uri": "https://minmod.isi.edu/resource/Q538"
+        },
+        "category": [
+          {
+            "source": "SAND",
+            "confidence": 0.99,
+            "normalized_uri": "https://minmod.isi.edu/resource/Inferred"
+          },
+          {
+            "source": "SAND",
+            "confidence": 0.99,
+            "normalized_uri": "https://minmod.isi.edu/resource/Indicated"
+          },
+          {
+            "source": "SAND",
+            "confidence": 0.99,
+            "normalized_uri": "https://minmod.isi.edu/resource/Measured"
+          }
+        ],
+        "grade": {
+          "value": 0.6,
+          "unit": {
+            "source": "SAND",
+            "confidence": 1.0,
+            "observed_name": "%Cu",
+            "normalized_uri": "https://minmod.isi.edu/resource/Q201"
+          }
+        },
+        "ore": {
+          "value": 6.89,
+          "unit": {
+            "source": "SAND",
+            "confidence": 1.0,
+            "observed_name": "Mt",
+            "normalized_uri": "https://minmod.isi.edu/resource/Q202"
+          }
+        }
+      }
+    ],
+    "reference": [
+      {
+        "document": {
+          "doi": "10.1016/j.oregeorev.2016.08.010",
+          "uri": "https://doi.org/10.1016/j.oregeorev.2016.08.010",
+          "title": "The world's lead-zinc mineral resources: Scarcity, data, issues and opportunities"
+        }
+      }
+    ],
+    "created_by": "https://minmod.isi.edu/users/s/usc",
+    "modified_at": "2024-09-20T00:00:00Z"
+  }
+]

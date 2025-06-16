@@ -1,59 +1,6 @@
 [
   {
     "source_id": "https://www.energy.virginia.gov/geology/geologymineralresources.shtml",
-    "record_id": "105B-318",
-    "location_info": {
-      "country": [
-        {
-          "source": "UMN Matching System v1",
-          "confidence": 1.0,
-          "observed_name": "United States",
-          "normalized_uri": "https://minmod.isi.edu/resource/Q1235"
-        }
-      ],
-      "state_or_province": [
-        {
-          "source": "UMN Matching System v1",
-          "confidence": 1.0,
-          "observed_name": "Virginia",
-          "normalized_uri": "https://minmod.isi.edu/resource/Q6899"
-        }
-      ],
-      "crs": {
-        "source": "UMN Matching System v1",
-        "confidence": 1.0,
-        "observed_name": "EPSG:4326",
-        "normalized_uri": "https://minmod.isi.edu/resource/Q701"
-      },
-      "location": "POINT (-78.88310242 37.49610138)"
-    },
-    "mineral_inventory": [
-      {
-        "reference": {
-          "document": {
-            "uri": "https://www.energy.virginia.gov/geology/geologymineralresources.shtml"
-          }
-        },
-        "commodity": {
-          "source": "UMN Matching System v1",
-          "confidence": 1.0,
-          "observed_name": "copper",
-          "normalized_uri": "https://minmod.isi.edu/resource/Q538"
-        }
-      }
-    ],
-    "reference": [
-      {
-        "document": {
-          "uri": "https://www.energy.virginia.gov/geology/geologymineralresources.shtml"
-        }
-      }
-    ],
-    "created_by": "https://minmod.isi.edu/users/s/umn",
-    "modified_at": "2024-10-26T15:50:29Z"
-  },
-  {
-    "source_id": "https://www.energy.virginia.gov/geology/geologymineralresources.shtml",
     "record_id": "052D-901",
     "location_info": {
       "country": [
@@ -120,7 +67,7 @@
   },
   {
     "source_id": "https://www.energy.virginia.gov/geology/geologymineralresources.shtml",
-    "record_id": "199B-411",
+    "record_id": "105B-318",
     "location_info": {
       "country": [
         {
@@ -144,7 +91,7 @@
         "observed_name": "EPSG:4326",
         "normalized_uri": "https://minmod.isi.edu/resource/Q701"
       },
-      "location": "POINT (-78.72714233 38.70069504)"
+      "location": "POINT (-78.88310242 37.49610138)"
     },
     "mineral_inventory": [
       {
@@ -156,8 +103,8 @@
         "commodity": {
           "source": "UMN Matching System v1",
           "confidence": 1.0,
-          "observed_name": "zinc",
-          "normalized_uri": "https://minmod.isi.edu/resource/Q589"
+          "observed_name": "copper",
+          "normalized_uri": "https://minmod.isi.edu/resource/Q538"
         }
       }
     ],
@@ -237,6 +184,59 @@
           "confidence": 1.0,
           "observed_name": "copper",
           "normalized_uri": "https://minmod.isi.edu/resource/Q538"
+        }
+      }
+    ],
+    "reference": [
+      {
+        "document": {
+          "uri": "https://www.energy.virginia.gov/geology/geologymineralresources.shtml"
+        }
+      }
+    ],
+    "created_by": "https://minmod.isi.edu/users/s/umn",
+    "modified_at": "2024-10-26T15:50:29Z"
+  },
+  {
+    "source_id": "https://www.energy.virginia.gov/geology/geologymineralresources.shtml",
+    "record_id": "199B-411",
+    "location_info": {
+      "country": [
+        {
+          "source": "UMN Matching System v1",
+          "confidence": 1.0,
+          "observed_name": "United States",
+          "normalized_uri": "https://minmod.isi.edu/resource/Q1235"
+        }
+      ],
+      "state_or_province": [
+        {
+          "source": "UMN Matching System v1",
+          "confidence": 1.0,
+          "observed_name": "Virginia",
+          "normalized_uri": "https://minmod.isi.edu/resource/Q6899"
+        }
+      ],
+      "crs": {
+        "source": "UMN Matching System v1",
+        "confidence": 1.0,
+        "observed_name": "EPSG:4326",
+        "normalized_uri": "https://minmod.isi.edu/resource/Q701"
+      },
+      "location": "POINT (-78.72714233 38.70069504)"
+    },
+    "mineral_inventory": [
+      {
+        "reference": {
+          "document": {
+            "uri": "https://www.energy.virginia.gov/geology/geologymineralresources.shtml"
+          }
+        },
+        "commodity": {
+          "source": "UMN Matching System v1",
+          "confidence": 1.0,
+          "observed_name": "zinc",
+          "normalized_uri": "https://minmod.isi.edu/resource/Q589"
         }
       }
     ],

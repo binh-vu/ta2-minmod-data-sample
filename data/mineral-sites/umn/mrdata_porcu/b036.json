@@ -1,21 +1,14 @@
 [
   {
     "source_id": "https://mrdata.usgs.gov/porcu",
-    "record_id": "8",
-    "name": "Bajo  El  Durazno",
+    "record_id": "186",
+    "name": "Mocha",
     "location_info": {
       "country": [
         {
           "source": "UMN Exact Match v1",
           "confidence": 1.0,
-          "normalized_uri": "https://minmod.isi.edu/resource/Q1010"
-        }
-      ],
-      "state_or_province": [
-        {
-          "source": "UMN Exact Match v1",
-          "confidence": 1.0,
-          "normalized_uri": "https://minmod.isi.edu/resource/Q2172"
+          "normalized_uri": "https://minmod.isi.edu/resource/Q1043"
         }
       ],
       "crs": {
@@ -23,7 +16,7 @@
         "confidence": 1.0,
         "normalized_uri": "https://minmod.isi.edu/resource/Q701"
       },
-      "location": "POINT (-66.5666666666667 -27.2833333333333)"
+      "location": "POINT (-69.2805555555556 -19.8097222222222)"
     },
     "deposit_type_candidate": [
       {

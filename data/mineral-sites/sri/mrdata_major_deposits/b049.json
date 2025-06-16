@@ -1,13 +1,13 @@
 [
   {
     "source_id": "https://mrdata.usgs.gov/major-deposits",
-    "record_id": "3018",
+    "record_id": "3020",
     "deposit_type_candidate": [
       {
         "source": "algorithm predictions, SRI deposit type classification, v2.1, 20241031",
-        "confidence": 0.8998335421085358,
-        "observed_name": "U-M layered intrusion chromium",
-        "normalized_uri": "https://minmod.isi.edu/resource/Q477"
+        "confidence": 0.899454653263092,
+        "observed_name": "Vein cobalt ± Ni",
+        "normalized_uri": "https://minmod.isi.edu/resource/Q424"
       }
     ],
     "mineral_inventory": [
@@ -20,8 +20,7 @@
         "commodity": {
           "source": "SRI database agent v0",
           "confidence": 1.0,
-          "observed_name": "Chromium",
-          "normalized_uri": "https://minmod.isi.edu/resource/Q519"
+          "observed_name": "Copper, Cobalt"
         }
       }
     ],
@@ -64,6 +63,42 @@
           "confidence": 1.0,
           "observed_name": "Zinc",
           "normalized_uri": "https://minmod.isi.edu/resource/Q589"
+        }
+      }
+    ],
+    "reference": [
+      {
+        "document": {
+          "uri": "https://mrdata.usgs.gov/major-deposits"
+        }
+      }
+    ],
+    "created_by": "https://minmod.isi.edu/users/s/sri",
+    "modified_at": "2024-11-06T19:08:00Z"
+  },
+  {
+    "source_id": "https://mrdata.usgs.gov/major-deposits",
+    "record_id": "1242",
+    "deposit_type_candidate": [
+      {
+        "source": "algorithm predictions, SRI deposit type classification, v2.1, 20241031",
+        "confidence": 0.40865621566772464,
+        "observed_name": "Volcanic-hosted copper",
+        "normalized_uri": "https://minmod.isi.edu/resource/Q373"
+      }
+    ],
+    "mineral_inventory": [
+      {
+        "reference": {
+          "document": {
+            "uri": "https://mrdata.usgs.gov/major-deposits"
+          }
+        },
+        "commodity": {
+          "source": "SRI database agent v0",
+          "confidence": 1.0,
+          "observed_name": "Copper",
+          "normalized_uri": "https://minmod.isi.edu/resource/Q538"
         }
       }
     ],

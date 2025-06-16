@@ -1,15 +1,15 @@
 [
   {
     "source_id": "https://mrdata.usgs.gov/major-deposits",
-    "record_id": "2556",
-    "name": "Maridge",
+    "record_id": "2372",
+    "name": "Aye Koye",
     "location_info": {
       "country": [
         {
           "source": "UMN Matching System v1",
           "confidence": 1.0,
-          "observed_name": "Mozambique",
-          "normalized_uri": "https://minmod.isi.edu/resource/Q1148"
+          "observed_name": "Guinea",
+          "normalized_uri": "https://minmod.isi.edu/resource/Q1092"
         }
       ],
       "crs": {
@@ -18,13 +18,13 @@
         "observed_name": "EPSG:4326",
         "normalized_uri": "https://minmod.isi.edu/resource/Q701"
       },
-      "location": "POINT (38.2125 -15.7125)"
+      "location": "POINT (-13.7833 11.1)"
     },
     "deposit_type_candidate": [
       {
         "source": "UMN Matching System v1",
         "confidence": 1.0,
-        "observed_name": "Igneous"
+        "observed_name": "Surficial"
       }
     ],
     "mineral_inventory": [
@@ -37,8 +37,61 @@
         "commodity": {
           "source": "UMN Matching System v1",
           "confidence": 1.0,
-          "observed_name": "Li",
-          "normalized_uri": "https://minmod.isi.edu/resource/Q569"
+          "observed_name": "Al",
+          "normalized_uri": "https://minmod.isi.edu/resource/Q506"
+        }
+      }
+    ],
+    "reference": [
+      {
+        "document": {
+          "uri": "https://mrdata.usgs.gov/major-deposits"
+        }
+      }
+    ],
+    "created_by": "https://minmod.isi.edu/users/s/umn",
+    "modified_at": "2024-09-20T00:00:00Z"
+  },
+  {
+    "source_id": "https://mrdata.usgs.gov/major-deposits",
+    "record_id": "1067",
+    "name": "Pollon Lake",
+    "location_info": {
+      "country": [
+        {
+          "source": "UMN Matching System v1",
+          "confidence": 1.0,
+          "observed_name": "Canada",
+          "normalized_uri": "https://minmod.isi.edu/resource/Q1038"
+        }
+      ],
+      "crs": {
+        "source": "UMN Matching System v1",
+        "confidence": 1.0,
+        "observed_name": "EPSG:4326",
+        "normalized_uri": "https://minmod.isi.edu/resource/Q701"
+      },
+      "location": "POINT (-103.117 56.383)"
+    },
+    "deposit_type_candidate": [
+      {
+        "source": "UMN Matching System v1",
+        "confidence": 1.0,
+        "observed_name": "Metamorphic"
+      }
+    ],
+    "mineral_inventory": [
+      {
+        "reference": {
+          "document": {
+            "uri": "https://mrdata.usgs.gov/major-deposits"
+          }
+        },
+        "commodity": {
+          "source": "UMN Matching System v1",
+          "confidence": 1.0,
+          "observed_name": "graphite",
+          "normalized_uri": "https://minmod.isi.edu/resource/Q553"
         }
       }
     ],

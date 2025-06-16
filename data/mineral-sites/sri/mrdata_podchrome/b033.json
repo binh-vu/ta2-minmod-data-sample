@@ -1,11 +1,32 @@
 [
   {
     "source_id": "https://mrdata.usgs.gov/podchrome",
-    "record_id": "292",
+    "record_id": "392",
     "deposit_type_candidate": [
       {
         "source": "algorithm predictions, SRI deposit type classification, v2.1, 20241031",
-        "confidence": 0.8999508619308472,
+        "confidence": 0.8999090194702148,
+        "observed_name": "Ophiolite chromium",
+        "normalized_uri": "https://minmod.isi.edu/resource/Q483"
+      }
+    ],
+    "reference": [
+      {
+        "document": {
+          "uri": "https://mrdata.usgs.gov/podchrome"
+        }
+      }
+    ],
+    "created_by": "https://minmod.isi.edu/users/s/sri",
+    "modified_at": "2024-11-06T19:09:01Z"
+  },
+  {
+    "source_id": "https://mrdata.usgs.gov/podchrome",
+    "record_id": "126",
+    "deposit_type_candidate": [
+      {
+        "source": "algorithm predictions, SRI deposit type classification, v2.1, 20241031",
+        "confidence": 0.8977267205715179,
         "observed_name": "Ophiolite chromium",
         "normalized_uri": "https://minmod.isi.edu/resource/Q483"
       }

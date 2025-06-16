@@ -1,0 +1,29 @@
+[
+  {
+    "source_id": "https://mrdata.usgs.gov/ree",
+    "record_id": "511",
+    "deposit_type_candidate": [
+      {
+        "source": "algorithm predictions, SRI deposit type classification, v2.1, 20241031",
+        "confidence": 0.5288527607917786,
+        "observed_name": "Paleoplacer heavy mineral sands",
+        "normalized_uri": "https://minmod.isi.edu/resource/Q314"
+      },
+      {
+        "source": "algorithm predictions, SRI deposit type classification, v2.1, 20241031",
+        "confidence": 0.370051771402359,
+        "observed_name": "Heavy mineral sands",
+        "normalized_uri": "https://minmod.isi.edu/resource/Q312"
+      }
+    ],
+    "reference": [
+      {
+        "document": {
+          "uri": "https://mrdata.usgs.gov/ree"
+        }
+      }
+    ],
+    "created_by": "https://minmod.isi.edu/users/s/sri",
+    "modified_at": "2024-11-06T19:07:46Z"
+  }
+]

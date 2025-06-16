@@ -1,6 +1,22 @@
 [
   {
     "source_id": "https://mrdata.usgs.gov/deposit",
+    "record_id": "MN00003",
+    "aliases": [
+      "Duluth Complex"
+    ],
+    "reference": [
+      {
+        "document": {
+          "uri": "https://mrdata.usgs.gov/deposit"
+        }
+      }
+    ],
+    "created_by": "https://minmod.isi.edu/users/s/umn",
+    "modified_at": "2024-09-20T00:00:00Z"
+  },
+  {
+    "source_id": "https://mrdata.usgs.gov/deposit",
     "record_id": "CO00003",
     "name": "Quartz Creek district",
     "location_info": {
@@ -104,9 +120,116 @@
   },
   {
     "source_id": "https://mrdata.usgs.gov/deposit",
-    "record_id": "MN00003",
-    "aliases": [
-      "Duluth Complex"
+    "record_id": "ID00049",
+    "name": "Ima",
+    "location_info": {
+      "country": [
+        {
+          "source": "UMN Exact Match v1",
+          "confidence": 1.0,
+          "normalized_uri": "https://minmod.isi.edu/resource/Q1235"
+        }
+      ],
+      "state_or_province": [
+        {
+          "source": "UMN Exact Match v1",
+          "confidence": 1.0,
+          "normalized_uri": "https://minmod.isi.edu/resource/Q6855"
+        }
+      ],
+      "crs": {
+        "source": "UMN Exact Match v1",
+        "confidence": 1.0,
+        "normalized_uri": "https://minmod.isi.edu/resource/Q701"
+      },
+      "location": "POINT (-113.6927 44.5329)"
+    },
+    "deposit_type_candidate": [
+      {
+        "source": "raw_data_extraction",
+        "confidence": 1,
+        "observed_name": "15a - W veins"
+      }
+    ],
+    "mineral_inventory": [
+      {
+        "reference": {
+          "document": {
+            "uri": "https://mrdata.usgs.gov/deposit"
+          }
+        },
+        "commodity": {
+          "source": "UMN Exact Match v1",
+          "confidence": 0.9,
+          "observed_name": "copper",
+          "normalized_uri": "https://minmod.isi.edu/resource/Q538"
+        }
+      },
+      {
+        "reference": {
+          "document": {
+            "uri": "https://mrdata.usgs.gov/deposit"
+          }
+        },
+        "commodity": {
+          "source": "UMN Exact Match v1",
+          "confidence": 0.9,
+          "observed_name": "gold",
+          "normalized_uri": "https://minmod.isi.edu/resource/Q551"
+        }
+      },
+      {
+        "reference": {
+          "document": {
+            "uri": "https://mrdata.usgs.gov/deposit"
+          }
+        },
+        "commodity": {
+          "source": "UMN Exact Match v1",
+          "confidence": 0.9,
+          "observed_name": "lead",
+          "normalized_uri": "https://minmod.isi.edu/resource/Q565"
+        }
+      },
+      {
+        "reference": {
+          "document": {
+            "uri": "https://mrdata.usgs.gov/deposit"
+          }
+        },
+        "commodity": {
+          "source": "UMN Exact Match v1",
+          "confidence": 0.9,
+          "observed_name": "silver",
+          "normalized_uri": "https://minmod.isi.edu/resource/Q585"
+        }
+      },
+      {
+        "reference": {
+          "document": {
+            "uri": "https://mrdata.usgs.gov/deposit"
+          }
+        },
+        "commodity": {
+          "source": "UMN Exact Match v1",
+          "confidence": 0.9,
+          "observed_name": "tungsten",
+          "normalized_uri": "https://minmod.isi.edu/resource/Q615"
+        }
+      },
+      {
+        "reference": {
+          "document": {
+            "uri": "https://mrdata.usgs.gov/deposit"
+          }
+        },
+        "commodity": {
+          "source": "UMN Exact Match v1",
+          "confidence": 0.9,
+          "observed_name": "zinc",
+          "normalized_uri": "https://minmod.isi.edu/resource/Q589"
+        }
+      }
     ],
     "reference": [
       {

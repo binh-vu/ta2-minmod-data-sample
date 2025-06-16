@@ -1,13 +1,13 @@
 [
   {
     "source_id": "https://mrdata.usgs.gov/major-deposits",
-    "record_id": "2706",
+    "record_id": "829",
     "deposit_type_candidate": [
       {
         "source": "algorithm predictions, SRI deposit type classification, v2.1, 20241031",
-        "confidence": 0.8884502470493317,
-        "observed_name": "U-M layered intrusion PGE",
-        "normalized_uri": "https://minmod.isi.edu/resource/Q479"
+        "confidence": 0.8994289577007294,
+        "observed_name": "Paleoplacer heavy mineral sands",
+        "normalized_uri": "https://minmod.isi.edu/resource/Q314"
       }
     ],
     "mineral_inventory": [
@@ -20,7 +20,48 @@
         "commodity": {
           "source": "SRI database agent v0",
           "confidence": 1.0,
-          "observed_name": "Chromium, PGE, Nickel, Gold"
+          "observed_name": "titanium, zirconium, rare earth elements"
+        }
+      }
+    ],
+    "reference": [
+      {
+        "document": {
+          "uri": "https://mrdata.usgs.gov/major-deposits"
+        }
+      }
+    ],
+    "created_by": "https://minmod.isi.edu/users/s/sri",
+    "modified_at": "2024-11-06T19:08:00Z"
+  },
+  {
+    "source_id": "https://mrdata.usgs.gov/major-deposits",
+    "record_id": "1225",
+    "deposit_type_candidate": [
+      {
+        "source": "algorithm predictions, SRI deposit type classification, v2.1, 20241031",
+        "confidence": 0.44124795198440553,
+        "observed_name": "Replacement polymetallic",
+        "normalized_uri": "https://minmod.isi.edu/resource/Q437"
+      },
+      {
+        "source": "algorithm predictions, SRI deposit type classification, v2.1, 20241031",
+        "confidence": 0.25321729481220245,
+        "observed_name": "Skarn zinc-lead-silver",
+        "normalized_uri": "https://minmod.isi.edu/resource/Q450"
+      }
+    ],
+    "mineral_inventory": [
+      {
+        "reference": {
+          "document": {
+            "uri": "https://mrdata.usgs.gov/major-deposits"
+          }
+        },
+        "commodity": {
+          "source": "SRI database agent v0",
+          "confidence": 1.0,
+          "observed_name": "Silver, lead, zinc"
         }
       }
     ],

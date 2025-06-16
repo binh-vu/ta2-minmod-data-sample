@@ -1,0 +1,92 @@
+[
+  {
+    "source_id": "https://mrdata.usgs.gov/deposit",
+    "record_id": "SD00011",
+    "name": "Runge",
+    "location_info": {
+      "country": [
+        {
+          "source": "UMN Exact Match v1",
+          "confidence": 1.0,
+          "normalized_uri": "https://minmod.isi.edu/resource/Q1235"
+        }
+      ],
+      "state_or_province": [
+        {
+          "source": "UMN Exact Match v1",
+          "confidence": 1.0,
+          "normalized_uri": "https://minmod.isi.edu/resource/Q6892"
+        }
+      ],
+      "crs": {
+        "source": "UMN Exact Match v1",
+        "confidence": 1.0,
+        "normalized_uri": "https://minmod.isi.edu/resource/Q701"
+      },
+      "location": "POINT (-103.81593 43.38337)"
+    },
+    "mineral_inventory": [
+      {
+        "reference": {
+          "document": {
+            "uri": "https://mrdata.usgs.gov/deposit"
+          }
+        },
+        "commodity": {
+          "source": "UMN Exact Match v1",
+          "confidence": 0.9,
+          "observed_name": "rhenium",
+          "normalized_uri": "https://minmod.isi.edu/resource/Q603"
+        }
+      },
+      {
+        "reference": {
+          "document": {
+            "uri": "https://mrdata.usgs.gov/deposit"
+          }
+        },
+        "commodity": {
+          "source": "UMN Exact Match v1",
+          "confidence": 0.9,
+          "observed_name": "uranium",
+          "normalized_uri": "https://minmod.isi.edu/resource/Q588"
+        }
+      },
+      {
+        "reference": {
+          "document": {
+            "uri": "https://mrdata.usgs.gov/deposit"
+          }
+        },
+        "commodity": {
+          "source": "UMN Exact Match v1",
+          "confidence": 0.9,
+          "observed_name": "vanadium",
+          "normalized_uri": "https://minmod.isi.edu/resource/Q616"
+        }
+      },
+      {
+        "reference": {
+          "document": {
+            "uri": "https://mrdata.usgs.gov/deposit"
+          }
+        },
+        "commodity": {
+          "source": "UMN Exact Match v1",
+          "confidence": 0.9,
+          "observed_name": "molybdenum",
+          "normalized_uri": "https://minmod.isi.edu/resource/Q576"
+        }
+      }
+    ],
+    "reference": [
+      {
+        "document": {
+          "uri": "https://mrdata.usgs.gov/deposit"
+        }
+      }
+    ],
+    "created_by": "https://minmod.isi.edu/users/s/umn",
+    "modified_at": "2024-09-20T00:00:00Z"
+  }
+]
